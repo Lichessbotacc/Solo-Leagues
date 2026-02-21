@@ -2,7 +2,31 @@ import json
 
 # Aktuelle Rangliste als Dict: username -> {'points': int, 'booster': float or None}
 current_ranking = {
-"DarkOnCrack": {"points": 0, "booster": None},
+    "DarkOnCrack": {"points": 82, "booster": 2.0},
+    "Konariq7": {"points": 73, "booster": 1.9},
+    "DRUHA12": {"points": 70, "booster": 1.8},
+    "Last_Suspect": {"points": 65, "booster": 1.7},
+    "Satranc599": {"points": 48, "booster": 1.6},
+    "Kurse-Aura1": {"points": 41, "booster": 1.5},
+    "This-Is-Agamveer": {"points": 39, "booster": 1.4},
+    "Justinsenpai": {"points": 39, "booster": 1.3},
+    "Janislav2000": {"points": 32, "booster": 1.2},
+    "POPOIPOIPOI": {"points": 27, "booster": 1.1},
+    "Abd_el_wahab": {"points": 26, "booster": None},
+    "BlotterFan": {"points": 25, "booster": None},
+    "koreshok73": {"points": 23, "booster": None},
+    "c4energy": {"points": 18, "booster": None},
+    "kubak5": {"points": 18, "booster": None},
+    "TacticalCrush_404": {"points": 12, "booster": None},
+    "bulletmaniac": {"points": 6, "booster": None},
+    "Devraj-123": {"points": 6, "booster": None},
+    "Arjun-Saha6": {"points": 6, "booster": None},
+    "Skysparks": {"points": 4, "booster": None},
+    "EgorGromovYT": {"points": 3, "booster": None},
+    "Zerkycharlie": {"points": 3, "booster": None},
+    "Ozgur3838": {"points": 3, "booster": None},
+    "borak-kopitiam": {"points": 2, "booster": None},
+    "BlackPanda2024": {"points": 1, "booster": None},
 }
 
 new_table_json = """
