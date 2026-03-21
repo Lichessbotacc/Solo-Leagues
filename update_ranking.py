@@ -53,7 +53,7 @@ current_ranking = {
     "Checkmate_Drifters": {"points": 2, "booster": None},
     "RumijaBarCG21": {"points": 2, "booster": None},
     "jash_the_goat": {"points": 1, "booster": None},
-
+}
 new_table_json = """
 {"rank":1,"score":86,"rating":2482,"username":"DarkOnCrack","flair":"nature.glowing-star","patronColor":5,"performance":2363}
 {"rank":2,"score":41,"rating":2170,"username":"Abd_el_wahab","flair":"smileys.face-with-tears-of-joy","performance":2387}
