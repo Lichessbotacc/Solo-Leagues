@@ -92,21 +92,22 @@ current_ranking = {
 }
 
 new_table_json = """
-{"rank":1,"score":121,"rating":2696,"username":"VariantsMain","flair":"people.backhand-index-pointing-down-light-skin-tone","performance":2489}
-{"rank":2,"score":87,"rating":2281,"username":"Mahamaha14","flair":"nature.chicken","performance":2242}
-{"rank":3,"score":72,"rating":2706,"username":"FranceWinsWorldCup","performance":2672}
-{"rank":4,"score":65,"rating":2368,"username":"DarkOnCrack","flair":"nature.glowing-star","patronColor":6,"performance":2354}
-{"rank":5,"score":47,"rating":2591,"username":"Alex-31","title":"FM","patronColor":3,"performance":2419}
-{"rank":6,"score":47,"rating":2406,"username":"mike-bear","flair":"objects.teddy-bear","performance":2382}
-{"rank":7,"score":29,"rating":2076,"username":"Chonma","flair":"symbols.rainbow-flag","performance":2025}
-{"rank":8,"score":29,"rating":1875,"username":"Agam2013","flair":"symbols.trident-emblem","performance":1996}
-{"rank":9,"score":14,"rating":1640,"username":"Andyisagoodboy","flair":"nature.eagle","performance":1867}
-{"rank":10,"score":14,"rating":1817,"username":"Conrad_Gagnon","performance":1802}
-{"rank":11,"score":13,"rating":2121,"username":"tunu2011","flair":"nature.bison","performance":2060}
-{"rank":12,"score":8,"rating":1723,"username":"Livoncik","flair":"smileys.alien","performance":1886}
-{"rank":13,"score":6,"rating":1985,"username":"RWDHDK67","performance":2052}
-{"rank":14,"score":6,"rating":2064,"username":"test_acc123","flair":"smileys.face-screaming-in-fear","performance":1981}
-{"rank":15,"score":4,"rating":1580,"username":"Vidishnarra","flair":"smileys.shushing-face","performance":1692}
+{"rank":1,"score":114,"rating":2422,"username":"phone-zerk","flair":"smileys.anxious-face-with-sweat","performance":2429}
+{"rank":2,"score":65,"rating":2359,"username":"DarkOnCrack","flair":"nature.glowing-star","patronColor":6,"performance":2346}
+{"rank":3,"score":54,"rating":2206,"username":"tomkruz88","performance":2223}
+{"rank":4,"score":50,"rating":2171,"username":"ElBasmgy","performance":2078}
+{"rank":5,"score":38,"rating":2372,"username":"Retasea_400","performance":2352}
+{"rank":6,"score":18,"rating":2002,"username":"GeekingKing","performance":1966}
+{"rank":7,"score":16,"rating":2288,"username":"Best_Chess_Player15","flair":"food-drink.mango","performance":2185}
+{"rank":8,"score":6,"rating":2270,"username":"ComeToBaba1","flair":"objects.crown","performance":2201}
+{"rank":9,"score":6,"rating":1622,"username":"Alcedo","flair":"symbols.small-blue-diamond","patronColor":1,"performance":1780}
+{"rank":10,"score":3,"rating":2048,"username":"DIMAStup","flair":"food-drink.doughnut","performance":1946}
+{"rank":11,"score":3,"rating":2085,"username":"Tipchess","flair":"food-drink.green-apple","patronColor":3,"performance":1909}
+{"rank":12,"score":2,"rating":1979,"username":"EEAguitarn1","flair":"smileys.disguised-face","performance":2456}
+{"rank":13,"score":2,"rating":1610,"username":"FatDummy","performance":2108}
+{"rank":14,"score":2,"rating":2216,"username":"Retroceso","flair":"people.crossed-fingers","performance":1958}
+{"rank":15,"score":2,"rating":1099,"username":"fin34601473braunpaul","flair":"activity.lichess-horsey","patronColor":10,"performance":1748}
+{"rank":16,"score":2,"rating":1900,"username":"RookNRollMaster","flair":"symbols.transgender-flag","performance":1582}
 """
 
 # =========================
