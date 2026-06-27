@@ -1,6 +1,6 @@
 {
   "last_processed_tournament": null,
-  "players"= {
+  "players":= {
     "DarkOnCrack": {"points": 2419, "booster": None},
     "Chess_Training_2021": {"points": 609, "booster": 1.9},
     "UnHolYDuO": {"points": 490, "booster": 1.8},
