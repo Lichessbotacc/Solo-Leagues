@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 """
-Solo Ultrabullet League – Automatic Ranking Updater
-Fetches the latest completed team tournament from Lichess,
-applies boosters, updates points, and pushes the Top 100 to the team description.
+Solo Leagues – Automatic Ranking Updater
+Supports: Ultrabullet, Bullet, Blitz, Rapid
+
+Usage:
+    python update_ranking.py               # all leagues
+    python update_ranking.py ultrabullet   # one league only
 """
 
 import json
@@ -11,188 +14,130 @@ import sys
 import time
 import requests
 
-# ── Config ────────────────────────────────────────────────────────────────────
-TEAM_ID      = "solo-ultrabullet-league"
-RANKING_FILE = "ranking.json"
-API_BASE     = "https://lichess.org/api"
-TOKEN        = os.environ["LICHESS_TOKEN"]   # set as GitHub Secret
+LEAGUES = {
+    "ultrabullet": {"team_id": "solo-ultrabullet-league", "label": "Solo Ultrabullet League"},
+    "bullet":      {"team_id": "solo-bullet-league",      "label": "Solo Bullet League"},
+    "blitz":       {"team_id": "solo-blitz-league",       "label": "Solo Blitz League"},
+    "rapid":       {"team_id": "solo-rapid-league",       "label": "Solo Rapid League"},
+}
 
-HEADERS_JSON   = {"Authorization": f"Bearer {TOKEN}", "Accept": "application/json"}
+API_BASE       = "https://lichess.org/api"
+TOKEN          = os.environ["LICHESS_TOKEN"]
 HEADERS_NDJSON = {"Authorization": f"Bearer {TOKEN}", "Accept": "application/x-ndjson"}
-
 BOOSTER_LEVELS = [2.0, 1.9, 1.8, 1.7, 1.6, 1.5, 1.4, 1.3, 1.2, 1.1]
 
-# ── Helpers ───────────────────────────────────────────────────────────────────
 
-def load_ranking() -> dict:
-    with open(RANKING_FILE, "r", encoding="utf-8") as f:
+def ranking_file(key):
+    return f"ranking_{key}.json"
+
+def load(key):
+    with open(ranking_file(key), "r", encoding="utf-8") as f:
         return json.load(f)
 
-
-def save_ranking(data: dict) -> None:
-    with open(RANKING_FILE, "w", encoding="utf-8") as f:
+def save(key, data):
+    with open(ranking_file(key), "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-
-def get_team_tournaments() -> list:
-    """Return all tournaments for the team, newest first."""
-    url = f"{API_BASE}/team/{TEAM_ID}/arena"
+def get_new_tournaments(team_id, last_processed):
+    url = f"{API_BASE}/team/{team_id}/arena?status=30"
     resp = requests.get(url, headers=HEADERS_NDJSON, timeout=30)
     resp.raise_for_status()
-    tournaments = []
-    for line in resp.text.strip().splitlines():
-        line = line.strip()
-        if line:
-            tournaments.append(json.loads(line))
-    return tournaments
+    all_finished = [json.loads(l) for l in resp.text.strip().splitlines() if l.strip()]
+    new = []
+    for t in all_finished:
+        if t.get("id") == last_processed:
+            break
+        new.append(t)
+    new.reverse()  # oldest first
+    return new
 
-
-def get_tournament_results(tournament_id: str) -> list:
-    """Return full result list for a finished tournament (ndjson stream)."""
+def get_results(tournament_id):
     url = f"{API_BASE}/tournament/{tournament_id}/results"
     resp = requests.get(url, headers=HEADERS_NDJSON, timeout=60, stream=True)
     resp.raise_for_status()
-    results = []
-    for line in resp.iter_lines():
-        if line:
-            results.append(json.loads(line))
-    return results
+    return [json.loads(l) for l in resp.iter_lines() if l]
 
-
-def update_team_description(description: str) -> None:
-    """POST new team description via Lichess API."""
-    url = f"{API_BASE}/team/{TEAM_ID}/description"
-    resp = requests.post(
-        url,
-        headers={"Authorization": f"Bearer {TOKEN}"},
-        data={"text": description},
-        timeout=30,
-    )
-    if resp.status_code == 200:
-        print("✅ Team description updated.")
-    else:
-        print(f"⚠️  Failed to update description: {resp.status_code} {resp.text}")
-
-
-def build_description(sorted_players: list) -> str:
-    """Build the Top-100 ranking text for the team description."""
-    lines = [
-        "# 🏆 Solo Ultrabullet League – Overall Ranking",
-        "",
-        "Top 100 players by accumulated arena points.",
-        "Boosters are awarded to the top 10 finishers of each arena.",
-        "",
-    ]
+def update_description(team_id, label, sorted_players):
     medals = {1: "🥇", 2: "🥈", 3: "🥉"}
-    for i, (username, data) in enumerate(sorted_players[:100], start=1):
-        medal = medals.get(i, f"{i}.")
-        booster_str = f"  ⚡ {data['booster']}x" if data["booster"] else ""
-        lines.append(f"{medal} @{username} — {data['points']} pts{booster_str}")
-    lines.append("")
-    lines.append("*Updated automatically after each arena.*")
-    return "\n".join(lines)
+    lines = [f"# 🏆 {label} – Overall Ranking", "",
+             "Top 100 players by accumulated arena points.",
+             "Boosters awarded to top 10 of each arena.", ""]
+    for i, (u, d) in enumerate(sorted_players[:100], 1):
+        boost = f"  ⚡ {d['booster']}x" if d["booster"] else ""
+        lines.append(f"{medals.get(i, f'{i}.')} @{u} — {d['points']} pts{boost}")
+    lines += ["", "*Updated automatically after each arena.*"]
+    resp = requests.post(
+        f"{API_BASE}/team/{team_id}/description",
+        headers={"Authorization": f"Bearer {TOKEN}"},
+        data={"text": "\n".join(lines)}, timeout=30,
+    )
+    print("  ✅ Description updated." if resp.status_code == 200
+          else f"  ⚠️  Description failed: {resp.status_code}")
 
+def process(key, config):
+    print(f"\n{'='*50}\n🏟️  {config['label']}\n{'='*50}")
+    data = load(key)
+    players = data["players"]
+    new = get_new_tournaments(config["team_id"], data.get("last_processed_tournament"))
 
-# ── Main logic ────────────────────────────────────────────────────────────────
+    if not new:
+        print("  No new tournaments.")
+        return False
 
-def main():
-    print(f"Loading ranking from {RANKING_FILE} …")
-    ranking_data = load_ranking()
-    last_processed = ranking_data.get("last_processed_tournament")
-    players = ranking_data["players"]
-
-    print("Fetching team tournaments …")
-    tournaments = get_team_tournaments()
-
-    if not tournaments:
-        print("No tournaments found. Nothing to do.")
-        sys.exit(0)
-
-    # Find tournaments that are finished and not yet processed
-    # Note: Arena tournaments use isFinished:true (not status:"finished")
-    new_tournaments = []
-    for t in tournaments:
-        tid = t.get("id")
-        finished = t.get("isFinished") is True or t.get("status") == "finished"
-        if finished and tid != last_processed:
-            new_tournaments.append(t)
-
-    if not new_tournaments:
-        print("No new finished tournaments since last run. Nothing to do.")
-        sys.exit(0)
-
-    # Process tournaments in chronological order (oldest first)
-    new_tournaments.sort(key=lambda t: t.get("startsAt", 0))
-
-    for tournament in new_tournaments:
-        tid = tournament["id"]
-        tname = tournament.get("fullName", tid)
-        print(f"\n🏟️  Processing tournament: {tname} ({tid})")
-
-        results = get_tournament_results(tid)
+    print(f"  {len(new)} new tournament(s).")
+    for t in new:
+        tid = t["id"]
+        print(f"\n  📋 {t.get('fullName', tid)} ({tid})")
+        results = get_results(tid)
         if not results:
-            print("  No results found, skipping.")
+            print("  No results, skipping.")
             continue
-
-        # Sort by score descending (API usually returns sorted, but let's be safe)
         results.sort(key=lambda r: r.get("score", 0), reverse=True)
 
-        # Apply old boosters and add points
         for entry in results:
-            username = entry["username"]
-            score = entry.get("score", 0)
-
-            if username not in players:
-                players[username] = {"points": 0, "booster": None}
-
-            booster = players[username]["booster"]
-            if booster:
-                score = int(score * booster)
-                print(f"  {username}: {entry['score']} × {booster} = {score} pts")
+            u, score = entry["username"], entry.get("score", 0)
+            if u not in players:
+                players[u] = {"points": 0, "booster": None}
+            b = players[u]["booster"]
+            if b:
+                score = int(score * b)
+                print(f"    {u}: × {b} = {score} pts")
             else:
-                print(f"  {username}: {score} pts")
+                print(f"    {u}: +{score} pts")
+            players[u]["points"] += score
 
-            players[username]["points"] += score
-
-        # Reset all boosters
-        for user in players:
-            players[user]["booster"] = None
-
-        # Assign new boosters to top 10 of this tournament
+        for u in players:
+            players[u]["booster"] = None
         for i, entry in enumerate(results[:10]):
-            username = entry["username"]
-            if username in players:
-                players[username]["booster"] = BOOSTER_LEVELS[i]
-                print(f"  🔥 Booster {BOOSTER_LEVELS[i]}x → {username}")
+            u = entry["username"]
+            if u in players:
+                players[u]["booster"] = BOOSTER_LEVELS[i]
+                print(f"    🔥 {BOOSTER_LEVELS[i]}x → {u}")
 
-        # Mark this tournament as processed
-        ranking_data["last_processed_tournament"] = tid
-        print(f"  ✅ Done with {tname}.")
-
-        # Small delay to be polite to the API
+        data["last_processed_tournament"] = tid
         time.sleep(1)
 
-    # Sort final ranking
-    sorted_players = sorted(
-        players.items(),
-        key=lambda x: x[1]["points"],
-        reverse=True,
-    )
+    sorted_players = sorted(players.items(), key=lambda x: x[1]["points"], reverse=True)
+    data["players"] = dict(sorted_players)
+    save(key, data)
+    print(f"\n  💾 Saved ranking_{key}.json")
+    print("  📊 Top 5: " + ", ".join(f"{u}({d['points']})" for u, d in sorted_players[:5]))
+    update_description(config["team_id"], config["label"], sorted_players)
+    return True
 
-    # Save updated ranking
-    ranking_data["players"] = dict(sorted_players)
-    save_ranking(ranking_data)
-    print(f"\n💾 Ranking saved to {RANKING_FILE}.")
 
-    # Print Top 20 to log
-    print("\n📊 Current Top 20:")
-    for i, (username, data) in enumerate(sorted_players[:20], start=1):
-        booster_str = f" ({data['booster']}x next)" if data["booster"] else ""
-        print(f"  {i}. @{username}: {data['points']}{booster_str}")
+def main():
+    if len(sys.argv) > 1:
+        key = sys.argv[1]
+        if key not in LEAGUES:
+            print(f"❌ Unknown: '{key}'. Choose: {', '.join(LEAGUES)}")
+            sys.exit(1)
+        to_run = {key: LEAGUES[key]}
+    else:
+        to_run = LEAGUES
 
-    # Update team description
-    description = build_description(sorted_players)
-    update_team_description(description)
+    any_changed = any(process(k, c) for k, c in to_run.items())
+    print("\n✅ All done!" if any_changed else "\n✅ Nothing to update.")
 
 
 if __name__ == "__main__":
