@@ -1,255 +1,1005 @@
 {
-  "last_processed_tournament": null,
+  "last_processed_tournament": "FcDK9UUX",
   "players": {
-    "DarkOnCrack": {"points": 5488, "booster": 2.0},
-    "checknight1": {"points": 642, "booster": null},
-    "TacticalMonkey": {"points": 631, "booster": null},
-    "VariantsMain": {"points": 604, "booster": null},
-    "Hufflewitz": {"points": 516, "booster": null},
-    "LucienTupin": {"points": 403, "booster": 1.8},
-    "cHaKrA25": {"points": 391, "booster": null},
-    "EEAguitarn1": {"points": 377, "booster": null},
-    "zooz-Zerk": {"points": 346, "booster": null},
-    "DRUHA12": {"points": 325, "booster": null},
-    "silentWysteriYa": {"points": 320, "booster": null},
-    "Cold_Sewy12": {"points": 320, "booster": null},
-    "Cupidust123": {"points": 314, "booster": 1.9},
-    "Ficheal": {"points": 293, "booster": null},
-    "Nu_Aspect": {"points": 258, "booster": null},
-    "mike-bear": {"points": 251, "booster": null},
-    "mdunlop": {"points": 250, "booster": null},
-    "ChessClassic_555": {"points": 239, "booster": null},
-    "itsmeniranjan1": {"points": 223, "booster": null},
-    "GT2RSWeissach": {"points": 221, "booster": null},
-    "Nathanael01": {"points": 209, "booster": null},
-    "TwistxdYT": {"points": 208, "booster": null},
-    "Helokid": {"points": 204, "booster": 1.7},
-    "RodriFK": {"points": 156, "booster": null},
-    "ManrajKnl": {"points": 153, "booster": null},
-    "esen-75": {"points": 148, "booster": null},
-    "The_Berserk_Account": {"points": 147, "booster": null},
-    "Dhruvvaaa": {"points": 146, "booster": null},
-    "NightOFzero": {"points": 143, "booster": null},
-    "minipekka1": {"points": 138, "booster": null},
-    "Statham_13": {"points": 136, "booster": null},
-    "dunk-master": {"points": 134, "booster": null},
-    "UnHolYDuO": {"points": 134, "booster": null},
-    "Eagle_Xx": {"points": 129, "booster": null},
-    "zanycolourfulwindow": {"points": 127, "booster": null},
-    "Simplied23": {"points": 121, "booster": null},
-    "DireDawn": {"points": 120, "booster": null},
-    "Conrad_Gagnon": {"points": 119, "booster": null},
-    "Chonma": {"points": 118, "booster": null},
-    "Nikitosik1708": {"points": 117, "booster": null},
-    "DarshanMandya19": {"points": 111, "booster": null},
-    "Little_Master_2012": {"points": 108, "booster": null},
-    "Tipchess": {"points": 106, "booster": null},
-    "UrasAras4444": {"points": 100, "booster": null},
-    "VrkAAA": {"points": 98, "booster": null},
-    "S_E_C_R_E_T": {"points": 98, "booster": null},
-    "Bodyguard04_Pman": {"points": 93, "booster": null},
-    "Alcedo": {"points": 92, "booster": null},
-    "GodOfChess_d": {"points": 88, "booster": null},
-    "IZerkYouLose": {"points": 88, "booster": null},
-    "Somerandomguy25": {"points": 87, "booster": null},
-    "Dislikebutton": {"points": 86, "booster": null},
-    "ElBasmgy": {"points": 86, "booster": null},
-    "PushAttack14": {"points": 85, "booster": null},
-    "Schizophrenic_Dancer": {"points": 85, "booster": null},
-    "Schatten_vy_001": {"points": 84, "booster": null},
-    "werurik": {"points": 83, "booster": null},
-    "Brillant_Sacriffice": {"points": 79, "booster": null},
-    "fin34601473braunpaul": {"points": 79, "booster": null},
-    "LOhItH20118": {"points": 77, "booster": null},
-    "SchachBasti": {"points": 77, "booster": null},
-    "TGAinVaibhavGrand": {"points": 77, "booster": null},
-    "mrsst": {"points": 76, "booster": null},
-    "sinrevancha": {"points": 76, "booster": 1.3},
-    "berserk31012012": {"points": 73, "booster": null},
-    "hello_328": {"points": 73, "booster": null},
-    "Phemmiekuks": {"points": 71, "booster": null},
-    "Tank_2017": {"points": 71, "booster": null},
-    "MIcHeLL28": {"points": 71, "booster": null},
-    "UltimateGDLOL": {"points": 69, "booster": null},
-    "Gyusudh": {"points": 69, "booster": null},
-    "Jerronbabylansu": {"points": 69, "booster": 1.2},
-    "LionelRonaldo_107": {"points": 68, "booster": null},
-    "gretal2024": {"points": 67, "booster": null},
-    "sChAcH4": {"points": 66, "booster": null},
-    "HrishikeshPs": {"points": 64, "booster": null},
-    "Last_Suspect": {"points": 63, "booster": null},
-    "tharindujayasuriya": {"points": 61, "booster": null},
-    "VikramSvarubonVS": {"points": 61, "booster": null},
-    "VVIPVIBES": {"points": 61, "booster": null},
-    "RookNRollMaster": {"points": 60, "booster": null},
-    "ChessBusy2013": {"points": 60, "booster": null},
-    "leogla": {"points": 56, "booster": null},
-    "mikebear-zerk": {"points": 55, "booster": null},
-    "GeekingKing": {"points": 54, "booster": null},
-    "DIOGEN__POPOV__A": {"points": 54, "booster": null},
-    "M1nds": {"points": 53, "booster": null},
-    "Bullinks": {"points": 52, "booster": null},
-    "Bashu": {"points": 50, "booster": null},
-    "Checkmate_Drifters": {"points": 48, "booster": null},
-    "mang0sunr1s3": {"points": 47, "booster": null},
-    "vasudev9": {"points": 47, "booster": null},
-    "unal-2007": {"points": 46, "booster": null},
-    "healLan": {"points": 46, "booster": null},
-    "SeherHavva": {"points": 45, "booster": null},
-    "Skysparks": {"points": 45, "booster": null},
-    "messibullet": {"points": 44, "booster": null},
-    "Dressz": {"points": 44, "booster": null},
-    "MEGHASRI-KOMALI": {"points": 44, "booster": null},
-    "Advay_bharathram": {"points": 44, "booster": null},
-    "tanisha18": {"points": 44, "booster": null},
-    "aarav-2022": {"points": 42, "booster": null},
-    "AGAMECHESS": {"points": 41, "booster": null},
-    "vlad2303": {"points": 40, "booster": null},
-    "MR_Halaand": {"points": 39, "booster": null},
-    "test_acc123": {"points": 39, "booster": null},
-    "rafaelpoulet": {"points": 39, "booster": 1.6},
-    "BlackPanda2024": {"points": 38, "booster": null},
-    "Goku_black419": {"points": 38, "booster": null},
-    "AhsapAhsap": {"points": 38, "booster": null},
-    "JoodAhmad": {"points": 38, "booster": null},
-    "EeZeR": {"points": 36, "booster": null},
-    "Yuvan_Raman02_2016": {"points": 36, "booster": 1.5},
-    "J_9DoBuTblu": {"points": 35, "booster": null},
-    "Ozgur3838": {"points": 34, "booster": null},
-    "ItzMeHarroldthomas": {"points": 34, "booster": null},
-    "Che947": {"points": 34, "booster": null},
-    "Livoncik": {"points": 34, "booster": null},
-    "someonespaglu1230": {"points": 33, "booster": null},
-    "jash_the_goat": {"points": 32, "booster": null},
-    "hello328": {"points": 32, "booster": null},
-    "MAGICAL_FALCON": {"points": 31, "booster": null},
-    "mirzaseker2017": {"points": 30, "booster": null},
-    "ia_krutoy": {"points": 30, "booster": null},
-    "Ferrelinperu": {"points": 30, "booster": null},
-    "Djohar_duda": {"points": 30, "booster": null},
-    "azedraco173": {"points": 28, "booster": null},
-    "Justinsenpai": {"points": 28, "booster": null},
-    "madhavp_m": {"points": 28, "booster": null},
-    "SERIOUSCHESSPLAYERAK": {"points": 28, "booster": null},
-    "Nu_Berserk": {"points": 27, "booster": null},
-    "Chessmlasboy": {"points": 27, "booster": null},
-    "Victory_3": {"points": 27, "booster": null},
-    "kdkhjg": {"points": 26, "booster": null},
-    "Leafsparks": {"points": 26, "booster": null},
-    "Rockstar2478": {"points": 26, "booster": null},
-    "Arjun-Saha6": {"points": 26, "booster": null},
-    "XCM_ultra": {"points": 26, "booster": null},
-    "Janislav2000": {"points": 25, "booster": null},
-    "Jaildar": {"points": 24, "booster": null},
-    "iamtheworst78": {"points": 24, "booster": 1.4},
-    "kubak5": {"points": 23, "booster": null},
-    "ADER88": {"points": 21, "booster": null},
-    "cxnnie": {"points": 21, "booster": null},
-    "OlegTor1205": {"points": 20, "booster": null},
-    "Ochesage": {"points": 20, "booster": null},
-    "RealCraigMusaka": {"points": 19, "booster": null},
-    "nubo4ka3": {"points": 18, "booster": null},
-    "retribution12": {"points": 18, "booster": null},
-    "mincart": {"points": 17, "booster": 1.1},
-    "schwarzerrabe": {"points": 16, "booster": null},
-    "Ahmad_AFG": {"points": 16, "booster": null},
-    "alfachess2011": {"points": 16, "booster": null},
-    "Youna2015": {"points": 15, "booster": null},
-    "YuriWarman123": {"points": 15, "booster": null},
-    "Zebaeagle": {"points": 15, "booster": null},
-    "snow152": {"points": 14, "booster": null},
-    "ItachiOnBattle10": {"points": 14, "booster": null},
-    "Harsha_The_Emperor": {"points": 14, "booster": null},
-    "SKumar_1611_67": {"points": 14, "booster": null},
-    "Nuraliii": {"points": 14, "booster": null},
-    "MoonTwin": {"points": 13, "booster": null},
-    "SparkToBlack": {"points": 13, "booster": null},
-    "Andyisagoodboy": {"points": 13, "booster": null},
-    "HRVCHESSSTREAM": {"points": 13, "booster": null},
-    "Knightthemaster": {"points": 12, "booster": null},
-    "yhya11111": {"points": 12, "booster": null},
-    "Carlotaurus": {"points": 12, "booster": null},
-    "TGBrain": {"points": 12, "booster": null},
-    "EgorGromovYT": {"points": 11, "booster": null},
-    "Clesio-MorgaM": {"points": 10, "booster": null},
-    "Caleb_IL": {"points": 10, "booster": null},
-    "Boney11": {"points": 10, "booster": null},
-    "SOLO_777": {"points": 10, "booster": null},
-    "antonio11713": {"points": 10, "booster": null},
-    "gd061": {"points": 10, "booster": null},
-    "KobeAtPeak": {"points": 9, "booster": null},
-    "Byproo": {"points": 9, "booster": null},
-    "DempseyIppo": {"points": 9, "booster": null},
-    "aarushrat321": {"points": 9, "booster": null},
-    "RockyBeTTiaH": {"points": 9, "booster": null},
-    "bbk10s": {"points": 8, "booster": null},
-    "vihariuppalapati": {"points": 8, "booster": null},
-    "Grabytx12": {"points": 8, "booster": null},
-    "Flora-ASCollCocteau": {"points": 8, "booster": null},
-    "O12_KTLC": {"points": 8, "booster": null},
-    "sajed1678": {"points": 8, "booster": null},
-    "alphaknight3": {"points": 8, "booster": null},
-    "Mayangnabila": {"points": 8, "booster": null},
-    "tomkruz88": {"points": 8, "booster": null},
-    "Egorchess01": {"points": 8, "booster": null},
-    "BharatBhushanVerma": {"points": 8, "booster": null},
-    "Shadowinfluencer7891": {"points": 8, "booster": null},
-    "ultrabullet_pro_boy": {"points": 7, "booster": null},
-    "IIIManvirSinghIII": {"points": 7, "booster": null},
-    "FortWilliam": {"points": 7, "booster": null},
-    "YazykovSemen": {"points": 6, "booster": null},
-    "Konariq7": {"points": 6, "booster": null},
-    "ap_chess26": {"points": 6, "booster": null},
-    "skilledassassin04": {"points": 6, "booster": null},
-    "POPOIPOIPOI": {"points": 5, "booster": null},
-    "basketball111": {"points": 5, "booster": null},
-    "KTTL_NgPhucNguyen15": {"points": 4, "booster": null},
-    "MarcotheTiger": {"points": 4, "booster": null},
-    "yogitha_advaitha": {"points": 4, "booster": null},
-    "appetentminnow": {"points": 4, "booster": null},
-    "Yorkay": {"points": 4, "booster": null},
-    "KhalidBinWalid_CHF": {"points": 4, "booster": null},
-    "Blue-green-world": {"points": 4, "booster": null},
-    "FUTURE_WARRIOR1852": {"points": 4, "booster": null},
-    "Chairopian": {"points": 4, "booster": null},
-    "IamfromIndia25": {"points": 4, "booster": null},
-    "Hashminee_2011": {"points": 3, "booster": null},
-    "Qwerty_987654321": {"points": 3, "booster": null},
-    "Shield_15": {"points": 3, "booster": null},
-    "raalfe": {"points": 3, "booster": null},
-    "theblunderguy77": {"points": 3, "booster": null},
-    "SiSi5i": {"points": 3, "booster": null},
-    "DIMAStup": {"points": 3, "booster": null},
-    "Spiderman_Spiderman": {"points": 2, "booster": null},
-    "Kurse-Aura1": {"points": 2, "booster": null},
-    "SAITAMA_07": {"points": 2, "booster": null},
-    "Theicecrown": {"points": 2, "booster": null},
-    "Gaher": {"points": 2, "booster": null},
-    "toofast2furios": {"points": 2, "booster": null},
-    "Yaroslaav": {"points": 2, "booster": null},
-    "xiaoyixiaoyi": {"points": 2, "booster": null},
-    "dinhlong2017": {"points": 2, "booster": null},
-    "Psuppalapati": {"points": 2, "booster": null},
-    "The_SCFian_Boss": {"points": 2, "booster": null},
-    "tadeasek532": {"points": 2, "booster": null},
-    "Sehrgud": {"points": 2, "booster": null},
-    "Lev_Barakat": {"points": 2, "booster": null},
-    "Juancool_ITC": {"points": 2, "booster": null},
-    "AARUSHrat321": {"points": 2, "booster": null},
-    "Marathon_Grinder": {"points": 2, "booster": null},
-    "JLQR": {"points": 2, "booster": null},
-    "sujith1122": {"points": 2, "booster": null},
-    "okoh11122233": {"points": 2, "booster": null},
-    "Vik1or": {"points": 2, "booster": null},
-    "Belousov-IvanIlic": {"points": 2, "booster": null},
-    "hnn-1396": {"points": 2, "booster": null},
-    "KillarKnight2133": {"points": 2, "booster": null},
-    "e41-0White": {"points": 2, "booster": null},
-    "SkysparkS": {"points": 2, "booster": null},
-    "Mr-Been-17": {"points": 2, "booster": null},
-    "Asherdarin": {"points": 2, "booster": null},
-    "MarriJanani444": {"points": 2, "booster": null},
-    "ioannis_nikolaidis": {"points": 2, "booster": null},
-    "YellowLemonChess": {"points": 2, "booster": null}
+    "DarkOnCrack": {
+      "points": 5488,
+      "booster": 2.0
+    },
+    "checknight1": {
+      "points": 642,
+      "booster": null
+    },
+    "TacticalMonkey": {
+      "points": 631,
+      "booster": null
+    },
+    "VariantsMain": {
+      "points": 604,
+      "booster": null
+    },
+    "Hufflewitz": {
+      "points": 516,
+      "booster": null
+    },
+    "LucienTupin": {
+      "points": 403,
+      "booster": 1.8
+    },
+    "cHaKrA25": {
+      "points": 391,
+      "booster": null
+    },
+    "EEAguitarn1": {
+      "points": 377,
+      "booster": null
+    },
+    "zooz-Zerk": {
+      "points": 346,
+      "booster": null
+    },
+    "DRUHA12": {
+      "points": 325,
+      "booster": null
+    },
+    "silentWysteriYa": {
+      "points": 320,
+      "booster": null
+    },
+    "Cold_Sewy12": {
+      "points": 320,
+      "booster": null
+    },
+    "Cupidust123": {
+      "points": 314,
+      "booster": 1.9
+    },
+    "Ficheal": {
+      "points": 293,
+      "booster": null
+    },
+    "Nu_Aspect": {
+      "points": 258,
+      "booster": null
+    },
+    "mike-bear": {
+      "points": 251,
+      "booster": null
+    },
+    "mdunlop": {
+      "points": 250,
+      "booster": null
+    },
+    "ChessClassic_555": {
+      "points": 239,
+      "booster": null
+    },
+    "itsmeniranjan1": {
+      "points": 223,
+      "booster": null
+    },
+    "GT2RSWeissach": {
+      "points": 221,
+      "booster": null
+    },
+    "Nathanael01": {
+      "points": 209,
+      "booster": null
+    },
+    "TwistxdYT": {
+      "points": 208,
+      "booster": null
+    },
+    "Helokid": {
+      "points": 204,
+      "booster": 1.7
+    },
+    "RodriFK": {
+      "points": 156,
+      "booster": null
+    },
+    "ManrajKnl": {
+      "points": 153,
+      "booster": null
+    },
+    "esen-75": {
+      "points": 148,
+      "booster": null
+    },
+    "The_Berserk_Account": {
+      "points": 147,
+      "booster": null
+    },
+    "Dhruvvaaa": {
+      "points": 146,
+      "booster": null
+    },
+    "NightOFzero": {
+      "points": 143,
+      "booster": null
+    },
+    "minipekka1": {
+      "points": 138,
+      "booster": null
+    },
+    "Statham_13": {
+      "points": 136,
+      "booster": null
+    },
+    "dunk-master": {
+      "points": 134,
+      "booster": null
+    },
+    "UnHolYDuO": {
+      "points": 134,
+      "booster": null
+    },
+    "Eagle_Xx": {
+      "points": 129,
+      "booster": null
+    },
+    "zanycolourfulwindow": {
+      "points": 127,
+      "booster": null
+    },
+    "Simplied23": {
+      "points": 121,
+      "booster": null
+    },
+    "DireDawn": {
+      "points": 120,
+      "booster": null
+    },
+    "Conrad_Gagnon": {
+      "points": 119,
+      "booster": null
+    },
+    "Chonma": {
+      "points": 118,
+      "booster": null
+    },
+    "Nikitosik1708": {
+      "points": 117,
+      "booster": null
+    },
+    "DarshanMandya19": {
+      "points": 111,
+      "booster": null
+    },
+    "Little_Master_2012": {
+      "points": 108,
+      "booster": null
+    },
+    "Tipchess": {
+      "points": 106,
+      "booster": null
+    },
+    "UrasAras4444": {
+      "points": 100,
+      "booster": null
+    },
+    "VrkAAA": {
+      "points": 98,
+      "booster": null
+    },
+    "S_E_C_R_E_T": {
+      "points": 98,
+      "booster": null
+    },
+    "Bodyguard04_Pman": {
+      "points": 93,
+      "booster": null
+    },
+    "Alcedo": {
+      "points": 92,
+      "booster": null
+    },
+    "GodOfChess_d": {
+      "points": 88,
+      "booster": null
+    },
+    "IZerkYouLose": {
+      "points": 88,
+      "booster": null
+    },
+    "Somerandomguy25": {
+      "points": 87,
+      "booster": null
+    },
+    "Dislikebutton": {
+      "points": 86,
+      "booster": null
+    },
+    "ElBasmgy": {
+      "points": 86,
+      "booster": null
+    },
+    "PushAttack14": {
+      "points": 85,
+      "booster": null
+    },
+    "Schizophrenic_Dancer": {
+      "points": 85,
+      "booster": null
+    },
+    "Schatten_vy_001": {
+      "points": 84,
+      "booster": null
+    },
+    "werurik": {
+      "points": 83,
+      "booster": null
+    },
+    "Brillant_Sacriffice": {
+      "points": 79,
+      "booster": null
+    },
+    "fin34601473braunpaul": {
+      "points": 79,
+      "booster": null
+    },
+    "LOhItH20118": {
+      "points": 77,
+      "booster": null
+    },
+    "SchachBasti": {
+      "points": 77,
+      "booster": null
+    },
+    "TGAinVaibhavGrand": {
+      "points": 77,
+      "booster": null
+    },
+    "mrsst": {
+      "points": 76,
+      "booster": null
+    },
+    "sinrevancha": {
+      "points": 76,
+      "booster": 1.3
+    },
+    "berserk31012012": {
+      "points": 73,
+      "booster": null
+    },
+    "hello_328": {
+      "points": 73,
+      "booster": null
+    },
+    "Phemmiekuks": {
+      "points": 71,
+      "booster": null
+    },
+    "Tank_2017": {
+      "points": 71,
+      "booster": null
+    },
+    "MIcHeLL28": {
+      "points": 71,
+      "booster": null
+    },
+    "UltimateGDLOL": {
+      "points": 69,
+      "booster": null
+    },
+    "Gyusudh": {
+      "points": 69,
+      "booster": null
+    },
+    "Jerronbabylansu": {
+      "points": 69,
+      "booster": 1.2
+    },
+    "LionelRonaldo_107": {
+      "points": 68,
+      "booster": null
+    },
+    "gretal2024": {
+      "points": 67,
+      "booster": null
+    },
+    "sChAcH4": {
+      "points": 66,
+      "booster": null
+    },
+    "HrishikeshPs": {
+      "points": 64,
+      "booster": null
+    },
+    "Last_Suspect": {
+      "points": 63,
+      "booster": null
+    },
+    "tharindujayasuriya": {
+      "points": 61,
+      "booster": null
+    },
+    "VikramSvarubonVS": {
+      "points": 61,
+      "booster": null
+    },
+    "VVIPVIBES": {
+      "points": 61,
+      "booster": null
+    },
+    "RookNRollMaster": {
+      "points": 60,
+      "booster": null
+    },
+    "ChessBusy2013": {
+      "points": 60,
+      "booster": null
+    },
+    "leogla": {
+      "points": 56,
+      "booster": null
+    },
+    "mikebear-zerk": {
+      "points": 55,
+      "booster": null
+    },
+    "GeekingKing": {
+      "points": 54,
+      "booster": null
+    },
+    "DIOGEN__POPOV__A": {
+      "points": 54,
+      "booster": null
+    },
+    "M1nds": {
+      "points": 53,
+      "booster": null
+    },
+    "Bullinks": {
+      "points": 52,
+      "booster": null
+    },
+    "Bashu": {
+      "points": 50,
+      "booster": null
+    },
+    "Checkmate_Drifters": {
+      "points": 48,
+      "booster": null
+    },
+    "mang0sunr1s3": {
+      "points": 47,
+      "booster": null
+    },
+    "vasudev9": {
+      "points": 47,
+      "booster": null
+    },
+    "unal-2007": {
+      "points": 46,
+      "booster": null
+    },
+    "healLan": {
+      "points": 46,
+      "booster": null
+    },
+    "SeherHavva": {
+      "points": 45,
+      "booster": null
+    },
+    "Skysparks": {
+      "points": 45,
+      "booster": null
+    },
+    "messibullet": {
+      "points": 44,
+      "booster": null
+    },
+    "Dressz": {
+      "points": 44,
+      "booster": null
+    },
+    "MEGHASRI-KOMALI": {
+      "points": 44,
+      "booster": null
+    },
+    "Advay_bharathram": {
+      "points": 44,
+      "booster": null
+    },
+    "tanisha18": {
+      "points": 44,
+      "booster": null
+    },
+    "aarav-2022": {
+      "points": 42,
+      "booster": null
+    },
+    "AGAMECHESS": {
+      "points": 41,
+      "booster": null
+    },
+    "vlad2303": {
+      "points": 40,
+      "booster": null
+    },
+    "MR_Halaand": {
+      "points": 39,
+      "booster": null
+    },
+    "test_acc123": {
+      "points": 39,
+      "booster": null
+    },
+    "rafaelpoulet": {
+      "points": 39,
+      "booster": 1.6
+    },
+    "BlackPanda2024": {
+      "points": 38,
+      "booster": null
+    },
+    "Goku_black419": {
+      "points": 38,
+      "booster": null
+    },
+    "AhsapAhsap": {
+      "points": 38,
+      "booster": null
+    },
+    "JoodAhmad": {
+      "points": 38,
+      "booster": null
+    },
+    "EeZeR": {
+      "points": 36,
+      "booster": null
+    },
+    "Yuvan_Raman02_2016": {
+      "points": 36,
+      "booster": 1.5
+    },
+    "J_9DoBuTblu": {
+      "points": 35,
+      "booster": null
+    },
+    "Ozgur3838": {
+      "points": 34,
+      "booster": null
+    },
+    "ItzMeHarroldthomas": {
+      "points": 34,
+      "booster": null
+    },
+    "Che947": {
+      "points": 34,
+      "booster": null
+    },
+    "Livoncik": {
+      "points": 34,
+      "booster": null
+    },
+    "someonespaglu1230": {
+      "points": 33,
+      "booster": null
+    },
+    "jash_the_goat": {
+      "points": 32,
+      "booster": null
+    },
+    "hello328": {
+      "points": 32,
+      "booster": null
+    },
+    "MAGICAL_FALCON": {
+      "points": 31,
+      "booster": null
+    },
+    "mirzaseker2017": {
+      "points": 30,
+      "booster": null
+    },
+    "ia_krutoy": {
+      "points": 30,
+      "booster": null
+    },
+    "Ferrelinperu": {
+      "points": 30,
+      "booster": null
+    },
+    "Djohar_duda": {
+      "points": 30,
+      "booster": null
+    },
+    "azedraco173": {
+      "points": 28,
+      "booster": null
+    },
+    "Justinsenpai": {
+      "points": 28,
+      "booster": null
+    },
+    "madhavp_m": {
+      "points": 28,
+      "booster": null
+    },
+    "SERIOUSCHESSPLAYERAK": {
+      "points": 28,
+      "booster": null
+    },
+    "Nu_Berserk": {
+      "points": 27,
+      "booster": null
+    },
+    "Chessmlasboy": {
+      "points": 27,
+      "booster": null
+    },
+    "Victory_3": {
+      "points": 27,
+      "booster": null
+    },
+    "kdkhjg": {
+      "points": 26,
+      "booster": null
+    },
+    "Leafsparks": {
+      "points": 26,
+      "booster": null
+    },
+    "Rockstar2478": {
+      "points": 26,
+      "booster": null
+    },
+    "Arjun-Saha6": {
+      "points": 26,
+      "booster": null
+    },
+    "XCM_ultra": {
+      "points": 26,
+      "booster": null
+    },
+    "Janislav2000": {
+      "points": 25,
+      "booster": null
+    },
+    "Jaildar": {
+      "points": 24,
+      "booster": null
+    },
+    "iamtheworst78": {
+      "points": 24,
+      "booster": 1.4
+    },
+    "kubak5": {
+      "points": 23,
+      "booster": null
+    },
+    "ADER88": {
+      "points": 21,
+      "booster": null
+    },
+    "cxnnie": {
+      "points": 21,
+      "booster": null
+    },
+    "OlegTor1205": {
+      "points": 20,
+      "booster": null
+    },
+    "Ochesage": {
+      "points": 20,
+      "booster": null
+    },
+    "RealCraigMusaka": {
+      "points": 19,
+      "booster": null
+    },
+    "nubo4ka3": {
+      "points": 18,
+      "booster": null
+    },
+    "retribution12": {
+      "points": 18,
+      "booster": null
+    },
+    "mincart": {
+      "points": 17,
+      "booster": 1.1
+    },
+    "schwarzerrabe": {
+      "points": 16,
+      "booster": null
+    },
+    "Ahmad_AFG": {
+      "points": 16,
+      "booster": null
+    },
+    "alfachess2011": {
+      "points": 16,
+      "booster": null
+    },
+    "Youna2015": {
+      "points": 15,
+      "booster": null
+    },
+    "YuriWarman123": {
+      "points": 15,
+      "booster": null
+    },
+    "Zebaeagle": {
+      "points": 15,
+      "booster": null
+    },
+    "snow152": {
+      "points": 14,
+      "booster": null
+    },
+    "ItachiOnBattle10": {
+      "points": 14,
+      "booster": null
+    },
+    "Harsha_The_Emperor": {
+      "points": 14,
+      "booster": null
+    },
+    "SKumar_1611_67": {
+      "points": 14,
+      "booster": null
+    },
+    "Nuraliii": {
+      "points": 14,
+      "booster": null
+    },
+    "MoonTwin": {
+      "points": 13,
+      "booster": null
+    },
+    "SparkToBlack": {
+      "points": 13,
+      "booster": null
+    },
+    "Andyisagoodboy": {
+      "points": 13,
+      "booster": null
+    },
+    "HRVCHESSSTREAM": {
+      "points": 13,
+      "booster": null
+    },
+    "Knightthemaster": {
+      "points": 12,
+      "booster": null
+    },
+    "yhya11111": {
+      "points": 12,
+      "booster": null
+    },
+    "Carlotaurus": {
+      "points": 12,
+      "booster": null
+    },
+    "TGBrain": {
+      "points": 12,
+      "booster": null
+    },
+    "EgorGromovYT": {
+      "points": 11,
+      "booster": null
+    },
+    "Clesio-MorgaM": {
+      "points": 10,
+      "booster": null
+    },
+    "Caleb_IL": {
+      "points": 10,
+      "booster": null
+    },
+    "Boney11": {
+      "points": 10,
+      "booster": null
+    },
+    "SOLO_777": {
+      "points": 10,
+      "booster": null
+    },
+    "antonio11713": {
+      "points": 10,
+      "booster": null
+    },
+    "gd061": {
+      "points": 10,
+      "booster": null
+    },
+    "KobeAtPeak": {
+      "points": 9,
+      "booster": null
+    },
+    "Byproo": {
+      "points": 9,
+      "booster": null
+    },
+    "DempseyIppo": {
+      "points": 9,
+      "booster": null
+    },
+    "aarushrat321": {
+      "points": 9,
+      "booster": null
+    },
+    "RockyBeTTiaH": {
+      "points": 9,
+      "booster": null
+    },
+    "bbk10s": {
+      "points": 8,
+      "booster": null
+    },
+    "vihariuppalapati": {
+      "points": 8,
+      "booster": null
+    },
+    "Grabytx12": {
+      "points": 8,
+      "booster": null
+    },
+    "Flora-ASCollCocteau": {
+      "points": 8,
+      "booster": null
+    },
+    "O12_KTLC": {
+      "points": 8,
+      "booster": null
+    },
+    "sajed1678": {
+      "points": 8,
+      "booster": null
+    },
+    "alphaknight3": {
+      "points": 8,
+      "booster": null
+    },
+    "Mayangnabila": {
+      "points": 8,
+      "booster": null
+    },
+    "tomkruz88": {
+      "points": 8,
+      "booster": null
+    },
+    "Egorchess01": {
+      "points": 8,
+      "booster": null
+    },
+    "BharatBhushanVerma": {
+      "points": 8,
+      "booster": null
+    },
+    "Shadowinfluencer7891": {
+      "points": 8,
+      "booster": null
+    },
+    "ultrabullet_pro_boy": {
+      "points": 7,
+      "booster": null
+    },
+    "IIIManvirSinghIII": {
+      "points": 7,
+      "booster": null
+    },
+    "FortWilliam": {
+      "points": 7,
+      "booster": null
+    },
+    "YazykovSemen": {
+      "points": 6,
+      "booster": null
+    },
+    "Konariq7": {
+      "points": 6,
+      "booster": null
+    },
+    "ap_chess26": {
+      "points": 6,
+      "booster": null
+    },
+    "skilledassassin04": {
+      "points": 6,
+      "booster": null
+    },
+    "POPOIPOIPOI": {
+      "points": 5,
+      "booster": null
+    },
+    "basketball111": {
+      "points": 5,
+      "booster": null
+    },
+    "KTTL_NgPhucNguyen15": {
+      "points": 4,
+      "booster": null
+    },
+    "MarcotheTiger": {
+      "points": 4,
+      "booster": null
+    },
+    "yogitha_advaitha": {
+      "points": 4,
+      "booster": null
+    },
+    "appetentminnow": {
+      "points": 4,
+      "booster": null
+    },
+    "Yorkay": {
+      "points": 4,
+      "booster": null
+    },
+    "KhalidBinWalid_CHF": {
+      "points": 4,
+      "booster": null
+    },
+    "Blue-green-world": {
+      "points": 4,
+      "booster": null
+    },
+    "FUTURE_WARRIOR1852": {
+      "points": 4,
+      "booster": null
+    },
+    "Chairopian": {
+      "points": 4,
+      "booster": null
+    },
+    "IamfromIndia25": {
+      "points": 4,
+      "booster": null
+    },
+    "Hashminee_2011": {
+      "points": 3,
+      "booster": null
+    },
+    "Qwerty_987654321": {
+      "points": 3,
+      "booster": null
+    },
+    "Shield_15": {
+      "points": 3,
+      "booster": null
+    },
+    "raalfe": {
+      "points": 3,
+      "booster": null
+    },
+    "theblunderguy77": {
+      "points": 3,
+      "booster": null
+    },
+    "SiSi5i": {
+      "points": 3,
+      "booster": null
+    },
+    "DIMAStup": {
+      "points": 3,
+      "booster": null
+    },
+    "Spiderman_Spiderman": {
+      "points": 2,
+      "booster": null
+    },
+    "Kurse-Aura1": {
+      "points": 2,
+      "booster": null
+    },
+    "SAITAMA_07": {
+      "points": 2,
+      "booster": null
+    },
+    "Theicecrown": {
+      "points": 2,
+      "booster": null
+    },
+    "Gaher": {
+      "points": 2,
+      "booster": null
+    },
+    "toofast2furios": {
+      "points": 2,
+      "booster": null
+    },
+    "Yaroslaav": {
+      "points": 2,
+      "booster": null
+    },
+    "xiaoyixiaoyi": {
+      "points": 2,
+      "booster": null
+    },
+    "dinhlong2017": {
+      "points": 2,
+      "booster": null
+    },
+    "Psuppalapati": {
+      "points": 2,
+      "booster": null
+    },
+    "The_SCFian_Boss": {
+      "points": 2,
+      "booster": null
+    },
+    "tadeasek532": {
+      "points": 2,
+      "booster": null
+    },
+    "Sehrgud": {
+      "points": 2,
+      "booster": null
+    },
+    "Lev_Barakat": {
+      "points": 2,
+      "booster": null
+    },
+    "Juancool_ITC": {
+      "points": 2,
+      "booster": null
+    },
+    "AARUSHrat321": {
+      "points": 2,
+      "booster": null
+    },
+    "Marathon_Grinder": {
+      "points": 2,
+      "booster": null
+    },
+    "JLQR": {
+      "points": 2,
+      "booster": null
+    },
+    "sujith1122": {
+      "points": 2,
+      "booster": null
+    },
+    "okoh11122233": {
+      "points": 2,
+      "booster": null
+    },
+    "Vik1or": {
+      "points": 2,
+      "booster": null
+    },
+    "Belousov-IvanIlic": {
+      "points": 2,
+      "booster": null
+    },
+    "hnn-1396": {
+      "points": 2,
+      "booster": null
+    },
+    "KillarKnight2133": {
+      "points": 2,
+      "booster": null
+    },
+    "e41-0White": {
+      "points": 2,
+      "booster": null
+    },
+    "SkysparkS": {
+      "points": 2,
+      "booster": null
+    },
+    "Mr-Been-17": {
+      "points": 2,
+      "booster": null
+    },
+    "Asherdarin": {
+      "points": 2,
+      "booster": null
+    },
+    "MarriJanani444": {
+      "points": 2,
+      "booster": null
+    },
+    "ioannis_nikolaidis": {
+      "points": 2,
+      "booster": null
+    },
+    "YellowLemonChess": {
+      "points": 2,
+      "booster": null
+    }
   }
 }
