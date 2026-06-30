@@ -1,13 +1,13 @@
 {
-  "last_processed_tournament": "aLi4PIqA",
+  "last_processed_tournament": "4kGWWqYV",
   "players": {
     "stambul65": {
       "points": 1503,
-      "booster": 2.0
+      "booster": null
     },
     "Conrad_Gagnon": {
       "points": 414,
-      "booster": 1.6
+      "booster": null
     },
     "Mayangnabila": {
       "points": 395,
@@ -23,7 +23,7 @@
     },
     "DarkOnCrack": {
       "points": 126,
-      "booster": 1.3
+      "booster": null
     },
     "Sanjaya_BKD": {
       "points": 125,
@@ -59,19 +59,23 @@
     },
     "schwarzerrabe": {
       "points": 58,
-      "booster": null
+      "booster": 1.3
     },
     "mang0sunr1s3": {
       "points": 50,
-      "booster": 1.7
+      "booster": null
     },
     "Ozgur3838": {
       "points": 47,
       "booster": null
     },
+    "DAW8718": {
+      "points": 42,
+      "booster": 2.0
+    },
     "urko66": {
       "points": 40,
-      "booster": 1.8
+      "booster": null
     },
     "matewasfate": {
       "points": 39,
@@ -87,10 +91,6 @@
     },
     "Dev_of_YouTube": {
       "points": 32,
-      "booster": null
-    },
-    "DAW8718": {
-      "points": 30,
       "booster": null
     },
     "tadeasek532": {
@@ -159,7 +159,7 @@
     },
     "icardi209": {
       "points": 17,
-      "booster": 1.9
+      "booster": null
     },
     "cocoro2": {
       "points": 16,
@@ -235,7 +235,7 @@
     },
     "yonis1111": {
       "points": 8,
-      "booster": null
+      "booster": 1.5
     },
     "Purushabhinav": {
       "points": 8,
@@ -283,7 +283,7 @@
     },
     "MysteryPhantom7": {
       "points": 5,
-      "booster": null
+      "booster": 1.7
     },
     "longsonicc": {
       "points": 5,
@@ -383,11 +383,15 @@
     },
     "MarriJanani444": {
       "points": 3,
-      "booster": 1.5
+      "booster": null
     },
     "BelitaMoyo": {
       "points": 3,
       "booster": 1.4
+    },
+    "VTacademy": {
+      "points": 3,
+      "booster": 1.9
     },
     "kenedyKimutai": {
       "points": 2,
@@ -423,7 +427,7 @@
     },
     "MDUARO": {
       "points": 2,
-      "booster": null
+      "booster": 1.2
     },
     "DishiAashri": {
       "points": 2,
@@ -451,11 +455,27 @@
     },
     "ritugreat123": {
       "points": 0,
-      "booster": 1.2
+      "booster": null
     },
     "Sable_Ayita18": {
       "points": 0,
+      "booster": null
+    },
+    "BuiMinhKhang2018": {
+      "points": 0,
+      "booster": 1.8
+    },
+    "mayluch": {
+      "points": 0,
+      "booster": 1.6
+    },
+    "A-Sharma": {
+      "points": 0,
       "booster": 1.1
+    },
+    "superslapman": {
+      "points": 0,
+      "booster": null
     }
   },
   "processed_tournaments": [
