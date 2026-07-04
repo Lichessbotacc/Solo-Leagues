@@ -1,25 +1,25 @@
 {
-  "last_processed_tournament": "DhCahEN3",
+  "last_processed_tournament": "DBftACnH",
   "players": {
     "DarkOnCrack": {
       "points": 2422,
-      "booster": 1.2
+      "booster": null
     },
     "Chess_Training_2021": {
       "points": 614,
-      "booster": 1.1
+      "booster": null
     },
     "UnHolYDuO": {
       "points": 490,
       "booster": null
     },
+    "Helokid": {
+      "points": 476,
+      "booster": 1.6
+    },
     "Alex-31": {
       "points": 424,
       "booster": null
-    },
-    "Helokid": {
-      "points": 370,
-      "booster": 1.8
     },
     "minipekka1": {
       "points": 335,
@@ -31,19 +31,19 @@
     },
     "tomkruz88": {
       "points": 327,
-      "booster": 1.7
+      "booster": null
     },
     "Justinsenpai": {
       "points": 318,
       "booster": null
     },
     "Conrad_Gagnon": {
-      "points": 258,
+      "points": 272,
       "booster": null
     },
     "BharatBhushanVerma": {
-      "points": 236,
-      "booster": null
+      "points": 264,
+      "booster": 1.3
     },
     "Abd_el_wahab": {
       "points": 235,
@@ -55,11 +55,15 @@
     },
     "VVIPVIBES": {
       "points": 214,
+      "booster": null
+    },
+    "Nuemop": {
+      "points": 153,
       "booster": 2.0
     },
     "Alcedo": {
       "points": 149,
-      "booster": 1.3
+      "booster": null
     },
     "Esen-Zerk": {
       "points": 148,
@@ -95,7 +99,7 @@
     },
     "RumijaBarCG21": {
       "points": 118,
-      "booster": 1.4
+      "booster": null
     },
     "just_chess12": {
       "points": 105,
@@ -112,6 +116,10 @@
     "Kurse-Aura1": {
       "points": 95,
       "booster": null
+    },
+    "Shivansh-Chess-Force": {
+      "points": 94,
+      "booster": 1.9
     },
     "ElBasmgy": {
       "points": 90,
@@ -133,6 +141,10 @@
       "points": 87,
       "booster": null
     },
+    "Dhruvvaaa": {
+      "points": 87,
+      "booster": 1.8
+    },
     "AhsapAhsap": {
       "points": 82,
       "booster": null
@@ -148,6 +160,10 @@
     "hmmmhmmmhmmm": {
       "points": 78,
       "booster": null
+    },
+    "Agamveer_007": {
+      "points": 74,
+      "booster": 1.7
     },
     "tunu2011": {
       "points": 73,
@@ -169,6 +185,10 @@
       "points": 70,
       "booster": null
     },
+    "test_acc123": {
+      "points": 70,
+      "booster": null
+    },
     "GeekingKing": {
       "points": 68,
       "booster": null
@@ -187,11 +207,7 @@
     },
     "ioannis_nikolaidis": {
       "points": 61,
-      "booster": 1.9
-    },
-    "test_acc123": {
-      "points": 58,
-      "booster": 1.5
+      "booster": null
     },
     "FlorHawryluk": {
       "points": 56,
@@ -200,6 +216,10 @@
     "C8c7C8c7C8c7C8c7C8c7": {
       "points": 51,
       "booster": null
+    },
+    "RWDHDK67": {
+      "points": 50,
+      "booster": 1.4
     },
     "Cold_Sewy12": {
       "points": 48,
@@ -241,6 +261,10 @@
       "points": 41,
       "booster": null
     },
+    "rohanvv07082010": {
+      "points": 40,
+      "booster": 1.1
+    },
     "BlackPanda2024": {
       "points": 38,
       "booster": null
@@ -256,6 +280,10 @@
     "CANCINARTUCEL": {
       "points": 36,
       "booster": null
+    },
+    "jet88": {
+      "points": 36,
+      "booster": 1.5
     },
     "timothyemmanuel": {
       "points": 35,
@@ -301,15 +329,15 @@
       "points": 28,
       "booster": null
     },
+    "So_Amazing": {
+      "points": 28,
+      "booster": 1.2
+    },
     "MarriJanani444": {
       "points": 27,
       "booster": null
     },
     "Skysparks": {
-      "points": 26,
-      "booster": null
-    },
-    "rohanvv07082010": {
       "points": 26,
       "booster": null
     },
@@ -343,7 +371,7 @@
     },
     "ritugreat123": {
       "points": 20,
-      "booster": 1.6
+      "booster": null
     },
     "tharindujayasuriya": {
       "points": 19,
@@ -387,10 +415,6 @@
     },
     "Try_Different_Bro28": {
       "points": 15,
-      "booster": null
-    },
-    "RWDHDK67": {
-      "points": 14,
       "booster": null
     },
     "Andyisagoodboy": {
@@ -489,6 +513,14 @@
       "points": 8,
       "booster": null
     },
+    "Chess_algebra": {
+      "points": 8,
+      "booster": null
+    },
+    "matewasfate": {
+      "points": 8,
+      "booster": null
+    },
     "Mayangnabila": {
       "points": 7,
       "booster": null
@@ -529,11 +561,19 @@
       "points": 6,
       "booster": null
     },
+    "kartakella": {
+      "points": 6,
+      "booster": null
+    },
     "dunk-master": {
       "points": 5,
       "booster": null
     },
     "Bagii_Bagii": {
+      "points": 5,
+      "booster": null
+    },
+    "Potato_zerker": {
       "points": 5,
       "booster": null
     },
@@ -562,6 +602,10 @@
       "booster": null
     },
     "Chairopian": {
+      "points": 4,
+      "booster": null
+    },
+    "ventomdg": {
       "points": 4,
       "booster": null
     },
@@ -693,11 +737,27 @@
       "points": 2,
       "booster": null
     },
+    "IAM_Dhanvi_OISBTM": {
+      "points": 2,
+      "booster": null
+    },
+    "Trapcodes": {
+      "points": 2,
+      "booster": null
+    },
     "jash_the_goat": {
       "points": 1,
       "booster": null
     },
     "JamesJB2017": {
+      "points": 0,
+      "booster": null
+    },
+    "Onglihern12345": {
+      "points": 0,
+      "booster": null
+    },
+    "thepower83": {
       "points": 0,
       "booster": null
     }
