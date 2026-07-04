@@ -1,30 +1,30 @@
-1. @stambul65: 5107 (2.0x boost next arena)
-2. @DarkOnCrack: 2010 (1.7x boost next arena)
+1. @stambul65: 5163 (1.9x boost next arena)
+2. @DarkOnCrack: 2054 (1.8x boost next arena)
 3. @tomkruz88: 1210
-4. @tunu2011: 916
-5. @Conrad_Gagnon: 913
+4. @Conrad_Gagnon: 929 (1.7x boost next arena)
+5. @tunu2011: 916
 6. @kubak5: 780
 7. @LOST_IN_FUTURE: 543
 8. @mang0sunr1s3: 540
-9. @schwarzerrabe: 532 (1.2x boost next arena)
-10. @dadada112: 501 (1.8x boost next arena)
+9. @schwarzerrabe: 536
+10. @dadada112: 501
 11. @Pejton_bt: 398
 12. @Zxycocodrile: 361
 13. @Konariq7: 332
 14. @krishmar2016: 330
 15. @WideSpookySpy: 325
 16. @Ochesage: 304
-17. @ComeToBaba1: 279
-18. @Livoncik: 254
-19. @Otelulvesel: 251
-20. @sheun: 244
-21. @agrzelak: 242
+17. @agrzelak: 293 (2.0x boost next arena)
+18. @ComeToBaba1: 285 (1.3x boost next arena)
+19. @Livoncik: 254
+20. @Otelulvesel: 251
+21. @sheun: 244
 22. @Paul_Rieger: 234
 23. @HUB18: 228
-24. @german11: 224
+24. @german11: 228
 25. @Pro_OTB: 204
 26. @Scarfire: 197
-27. @DRUHA12: 190 (1.6x boost next arena)
+27. @DRUHA12: 190
 28. @Checkmate_Drifters: 184
 29. @TheRuleBreaker122: 167
 30. @xdxdboxjaja: 165
@@ -34,7 +34,7 @@
 34. @Thendo: 146
 35. @handyacc: 139
 36. @Entrenador3talentos: 137
-37. @Juggrnaut: 136 (1.9x boost next arena)
+37. @Juggrnaut: 136
 38. @Dinoweek: 131
 39. @ispitanik: 123
 40. @Janislav2000: 121
@@ -89,7 +89,7 @@
 89. @Andi0412: 46
 90. @ATRAYAA: 46
 91. @minipekka1: 46
-92. @MuhammadElNady55555: 46 (1.4x boost next arena)
+92. @MuhammadElNady55555: 46
 93. @Ahmad_AFG: 45
 94. @Arjun-Saha6: 45
 95. @KiiNg-KCI: 45
