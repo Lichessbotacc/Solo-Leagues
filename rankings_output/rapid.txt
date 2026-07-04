@@ -1,28 +1,28 @@
-1. @stambul65: 1503
-2. @Conrad_Gagnon: 414
+1. @stambul65: 1526 (1.9x boost next arena)
+2. @Conrad_Gagnon: 428 (1.7x boost next arena)
 3. @Mayangnabila: 395
 4. @xdxdboxjaja: 174
-5. @kubak5: 129
-6. @DarkOnCrack: 126
+5. @DarkOnCrack: 158 (2.0x boost next arena)
+6. @kubak5: 129
 7. @Sanjaya_BKD: 125
 8. @Capi48: 121
 9. @nopainogain: 102
 10. @tomkruz88: 96
 11. @ComeToBaba1: 94
 12. @yonssw54269000: 81
-13. @Konariq7: 58
+13. @Konariq7: 62 (1.5x boost next arena)
 14. @DarkOnWeakBot: 58
-15. @schwarzerrabe: 58 (1.3x boost next arena)
-16. @mang0sunr1s3: 50
-17. @Ozgur3838: 47
-18. @DAW8718: 42 (2.0x boost next arena)
-19. @urko66: 40
-20. @matewasfate: 39
-21. @okoh11122233: 39
-22. @german11: 38
-23. @Dev_of_YouTube: 32
-24. @tadeasek532: 28
-25. @Evgeny86: 27
+15. @schwarzerrabe: 58
+16. @Ozgur3838: 53 (1.6x boost next arena)
+17. @mang0sunr1s3: 50
+18. @Evgeny86: 46 (1.8x boost next arena)
+19. @DAW8718: 42
+20. @matewasfate: 42 (1.4x boost next arena)
+21. @urko66: 40
+22. @okoh11122233: 39
+23. @german11: 38
+24. @Dev_of_YouTube: 32
+25. @tadeasek532: 28
 26. @Kartomil2014: 25
 27. @TvojaLaska: 24
 28. @farwan55: 24
@@ -56,7 +56,7 @@
 56. @opg_huda: 9
 57. @shailesh777: 8
 58. @healLan: 8
-59. @yonis1111: 8 (1.5x boost next arena)
+59. @yonis1111: 8
 60. @Purushabhinav: 8
 61. @jonachess2015: 8
 62. @ZoTsihoarana: 7
@@ -68,7 +68,7 @@
 68. @Antonio_1107: 6
 69. @GRLU_EANB: 6
 70. @chesstricksandtraps: 6
-71. @MysteryPhantom7: 5 (1.7x boost next arena)
+71. @MysteryPhantom7: 5
 72. @longsonicc: 5
 73. @ioannis_nikolaidis: 5
 74. @T-S-F-R: 5
@@ -94,7 +94,7 @@
 94. @MR_Halaand: 3
 95. @TheBestOff2300: 3
 96. @MarriJanani444: 3
-97. @BelitaMoyo: 3 (1.4x boost next arena)
-98. @VTacademy: 3 (1.9x boost next arena)
-99. @kenedyKimutai: 2
-100. @mrsst: 2
+97. @BelitaMoyo: 3
+98. @VTacademy: 3
+99. @forasteranton: 3 (1.3x boost next arena)
+100. @Minoponentmovs2: 3 (1.2x boost next arena)
