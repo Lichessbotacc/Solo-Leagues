@@ -1,20 +1,20 @@
 {
-  "last_processed_tournament": "Dy35Ek23",
+  "last_processed_tournament": "c7jqM4VQ",
   "players": {
     "stambul65": {
-      "points": 1569,
-      "booster": 1.9
+      "points": 1637,
+      "booster": 2.0
     },
     "Conrad_Gagnon": {
-      "points": 450,
-      "booster": 1.5
+      "points": 463,
+      "booster": 1.6
     },
     "Mayangnabila": {
       "points": 395,
       "booster": null
     },
     "DarkOnCrack": {
-      "points": 176,
+      "points": 184,
       "booster": 1.4
     },
     "xdxdboxjaja": {
@@ -35,7 +35,7 @@
     },
     "ComeToBaba1": {
       "points": 120,
-      "booster": 2.0
+      "booster": null
     },
     "nopainogain": {
       "points": 102,
@@ -47,29 +47,37 @@
     },
     "Konariq7": {
       "points": 96,
-      "booster": 1.8
+      "booster": null
+    },
+    "rickeyfeb15": {
+      "points": 83,
+      "booster": 1.9
     },
     "yonssw54269000": {
       "points": 81,
       "booster": null
     },
+    "Evgeny86": {
+      "points": 69,
+      "booster": 1.8
+    },
     "schwarzerrabe": {
       "points": 66,
-      "booster": 1.3
-    },
-    "DarkOnWeakBot": {
-      "points": 58,
       "booster": null
     },
     "Ozgur3838": {
-      "points": 54,
+      "points": 62,
+      "booster": 1.5
+    },
+    "DarkOnWeakBot": {
+      "points": 58,
       "booster": null
     },
     "mang0sunr1s3": {
       "points": 50,
       "booster": null
     },
-    "Evgeny86": {
+    "matewasfate": {
       "points": 46,
       "booster": null
     },
@@ -77,20 +85,16 @@
       "points": 42,
       "booster": null
     },
-    "matewasfate": {
-      "points": 42,
+    "urko66": {
+      "points": 40,
       "booster": null
     },
-    "urko66": {
+    "german11": {
       "points": 40,
       "booster": null
     },
     "okoh11122233": {
       "points": 39,
-      "booster": null
-    },
-    "german11": {
-      "points": 38,
       "booster": null
     },
     "Dev_of_YouTube": {
@@ -101,12 +105,12 @@
       "points": 28,
       "booster": null
     },
-    "Kartomil2014": {
-      "points": 25,
+    "TvojaLaska": {
+      "points": 28,
       "booster": null
     },
-    "TvojaLaska": {
-      "points": 24,
+    "Kartomil2014": {
+      "points": 25,
       "booster": null
     },
     "farwan55": {
@@ -120,10 +124,6 @@
     "juancool": {
       "points": 22,
       "booster": null
-    },
-    "rickeyfeb15": {
-      "points": 22,
-      "booster": 1.7
     },
     "Dede_Suriyana": {
       "points": 21,
@@ -175,11 +175,11 @@
     },
     "opg_huda": {
       "points": 16,
-      "booster": 1.2
+      "booster": null
     },
     "chessgambit345": {
       "points": 16,
-      "booster": 1.6
+      "booster": null
     },
     "krishmar2016": {
       "points": 14,
@@ -208,6 +208,10 @@
     "souheel_twaish": {
       "points": 12,
       "booster": null
+    },
+    "Bionic-Alpha": {
+      "points": 12,
+      "booster": 1.7
     },
     "timothyemmanuel": {
       "points": 11,
@@ -293,6 +297,14 @@
       "points": 6,
       "booster": null
     },
+    "manyathela2250": {
+      "points": 6,
+      "booster": 1.3
+    },
+    "booktrunk": {
+      "points": 6,
+      "booster": 1.2
+    },
     "MysteryPhantom7": {
       "points": 5,
       "booster": null
@@ -350,6 +362,14 @@
       "booster": null
     },
     "Minoponentmovs2": {
+      "points": 4,
+      "booster": null
+    },
+    "Boom_Jet": {
+      "points": 4,
+      "booster": 1.1
+    },
+    "amin0990": {
       "points": 4,
       "booster": null
     },
@@ -455,7 +475,7 @@
     },
     "caldillo": {
       "points": 2,
-      "booster": 1.1
+      "booster": null
     },
     "miseryinyoureyes": {
       "points": 2,
@@ -482,6 +502,10 @@
       "booster": null
     },
     "magnus1919": {
+      "points": 1,
+      "booster": null
+    },
+    "cheesynoob": {
       "points": 1,
       "booster": null
     },
@@ -554,6 +578,22 @@
       "booster": null
     },
     "archer_ranaveer": {
+      "points": 0,
+      "booster": null
+    },
+    "Priyanshu1712": {
+      "points": 0,
+      "booster": null
+    },
+    "luchia3": {
+      "points": 0,
+      "booster": null
+    },
+    "w123567ejgfj": {
+      "points": 0,
+      "booster": null
+    },
+    "sathvikcharan": {
       "points": 0,
       "booster": null
     }
