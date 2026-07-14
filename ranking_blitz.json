@@ -1,21 +1,21 @@
 {
-  "last_processed_tournament": "X4U8XifJ",
+  "last_processed_tournament": "CRO4dd7D",
   "players": {
     "stambul65": {
-      "points": 5290,
+      "points": 5356,
       "booster": 1.9
     },
     "DarkOnCrack": {
-      "points": 2202,
-      "booster": 1.7
+      "points": 2264,
+      "booster": 2.0
     },
     "tomkruz88": {
       "points": 1210,
       "booster": null
     },
     "Conrad_Gagnon": {
-      "points": 939,
-      "booster": 1.1
+      "points": 955,
+      "booster": 1.4
     },
     "tunu2011": {
       "points": 916,
@@ -26,24 +26,24 @@
       "booster": null
     },
     "schwarzerrabe": {
-      "points": 558,
+      "points": 563,
       "booster": null
     },
     "LOST_IN_FUTURE": {
       "points": 543,
       "booster": null
     },
+    "dadada112": {
+      "points": 542,
+      "booster": null
+    },
     "mang0sunr1s3": {
       "points": 540,
       "booster": null
     },
-    "dadada112": {
-      "points": 532,
-      "booster": null
-    },
     "agrzelak": {
       "points": 400,
-      "booster": 2.0
+      "booster": null
     },
     "Pejton_bt": {
       "points": 398,
@@ -51,7 +51,7 @@
     },
     "Konariq7": {
       "points": 364,
-      "booster": 1.8
+      "booster": null
     },
     "Zxycocodrile": {
       "points": 361,
@@ -66,12 +66,12 @@
       "booster": null
     },
     "Ochesage": {
-      "points": 304,
-      "booster": null
+      "points": 315,
+      "booster": 1.3
     },
     "ComeToBaba1": {
       "points": 304,
-      "booster": 1.6
+      "booster": null
     },
     "Livoncik": {
       "points": 257,
@@ -149,6 +149,10 @@
       "points": 136,
       "booster": null
     },
+    "JancoGj": {
+      "points": 136,
+      "booster": 1.8
+    },
     "Dinoweek": {
       "points": 131,
       "booster": null
@@ -167,10 +171,6 @@
     },
     "bestttttt": {
       "points": 117,
-      "booster": null
-    },
-    "JancoGj": {
-      "points": 113,
       "booster": null
     },
     "Gyusudhdh_zerk": {
@@ -219,7 +219,7 @@
     },
     "Pavel15A": {
       "points": 87,
-      "booster": 1.2
+      "booster": null
     },
     "CheesekinG7273": {
       "points": 85,
@@ -261,6 +261,10 @@
       "points": 76,
       "booster": null
     },
+    "manyathela2250": {
+      "points": 76,
+      "booster": 1.6
+    },
     "test_acc123": {
       "points": 73,
       "booster": null
@@ -274,6 +278,10 @@
       "booster": null
     },
     "Lena8892": {
+      "points": 65,
+      "booster": null
+    },
+    "MuhammadElNady55555": {
       "points": 65,
       "booster": null
     },
@@ -291,7 +299,7 @@
     },
     "OneOfTheWorldsBest": {
       "points": 60,
-      "booster": 1.4
+      "booster": null
     },
     "abdulghaffar77": {
       "points": 59,
@@ -318,10 +326,6 @@
       "booster": null
     },
     "CHESSBEAST2010": {
-      "points": 54,
-      "booster": null
-    },
-    "MuhammadElNady55555": {
       "points": 54,
       "booster": null
     },
@@ -425,10 +429,6 @@
       "points": 43,
       "booster": null
     },
-    "manyathela2250": {
-      "points": 43,
-      "booster": 1.5
-    },
     "GreenParrot1977": {
       "points": 42,
       "booster": null
@@ -440,6 +440,10 @@
     "mike-bear": {
       "points": 42,
       "booster": null
+    },
+    "BlackPanda2024": {
+      "points": 42,
+      "booster": 1.2
     },
     "yabbadabadoo": {
       "points": 41,
@@ -461,6 +465,10 @@
       "points": 40,
       "booster": null
     },
+    "MysteryPhantom7": {
+      "points": 40,
+      "booster": null
+    },
     "vinodkbalakrishnan": {
       "points": 39,
       "booster": null
@@ -474,10 +482,6 @@
       "booster": null
     },
     "Chessmlasboy": {
-      "points": 38,
-      "booster": null
-    },
-    "MysteryPhantom7": {
       "points": 38,
       "booster": null
     },
@@ -546,10 +550,6 @@
       "booster": null
     },
     "javillochess": {
-      "points": 31,
-      "booster": null
-    },
-    "BlackPanda2024": {
       "points": 31,
       "booster": null
     },
@@ -673,6 +673,10 @@
       "points": 23,
       "booster": null
     },
+    "cheetah6996": {
+      "points": 23,
+      "booster": 1.7
+    },
     "bulletmaniac": {
       "points": 22,
       "booster": null
@@ -732,6 +736,10 @@
     "dragongrey": {
       "points": 20,
       "booster": null
+    },
+    "azizhakeem09": {
+      "points": 20,
+      "booster": 1.5
     },
     "TheoSpieler": {
       "points": 19,
@@ -867,7 +875,7 @@
     },
     "chessgambit345": {
       "points": 15,
-      "booster": 1.3
+      "booster": null
     },
     "Shishir72": {
       "points": 14,
@@ -978,6 +986,14 @@
       "booster": null
     },
     "CANCINARTUCEL": {
+      "points": 11,
+      "booster": null
+    },
+    "SkysparkS": {
+      "points": 11,
+      "booster": 1.1
+    },
+    "gojosaturo1234567": {
       "points": 11,
       "booster": null
     },
@@ -1245,6 +1261,10 @@
       "points": 6,
       "booster": null
     },
+    "cheesynoob": {
+      "points": 6,
+      "booster": null
+    },
     "BOTmraquari41": {
       "points": 5,
       "booster": null
@@ -1333,6 +1353,14 @@
       "points": 5,
       "booster": null
     },
+    "uatrickster": {
+      "points": 5,
+      "booster": null
+    },
+    "Magniac": {
+      "points": 5,
+      "booster": null
+    },
     "Leineschaf": {
       "points": 4,
       "booster": null
@@ -1394,6 +1422,10 @@
       "booster": null
     },
     "daraw_KCI": {
+      "points": 4,
+      "booster": null
+    },
+    "Momo-50": {
       "points": 4,
       "booster": null
     },
@@ -1493,11 +1525,11 @@
       "points": 3,
       "booster": null
     },
-    "uatrickster": {
+    "Billyrvs": {
       "points": 3,
       "booster": null
     },
-    "Billyrvs": {
+    "scandi_goat1256": {
       "points": 3,
       "booster": null
     },
@@ -1669,6 +1701,10 @@
       "points": 2,
       "booster": null
     },
+    "Tetev": {
+      "points": 2,
+      "booster": null
+    },
     "ISHAN1603": {
       "points": 1,
       "booster": null
@@ -1713,10 +1749,6 @@
       "points": 0,
       "booster": null
     },
-    "azizhakeem09": {
-      "points": 0,
-      "booster": null
-    },
     "Lumii83": {
       "points": 0,
       "booster": null
@@ -1750,6 +1782,42 @@
       "booster": null
     },
     "GSYejgar": {
+      "points": 0,
+      "booster": null
+    },
+    "Alex-31": {
+      "points": 0,
+      "booster": null
+    },
+    "TaLLyBeE8": {
+      "points": 0,
+      "booster": null
+    },
+    "Dhruv_gupta14": {
+      "points": 0,
+      "booster": null
+    },
+    "CheckMateProfessor03": {
+      "points": 0,
+      "booster": null
+    },
+    "Alucard6813": {
+      "points": 0,
+      "booster": null
+    },
+    "Polivolitis": {
+      "points": 0,
+      "booster": null
+    },
+    "PCATarak": {
+      "points": 0,
+      "booster": null
+    },
+    "lucky0114": {
+      "points": 0,
+      "booster": null
+    },
+    "jjoshwadhan": {
       "points": 0,
       "booster": null
     }
