@@ -1,5 +1,5 @@
 {
-  "last_processed_tournament": "zdrHDErL",
+  "last_processed_tournament": "90QoqciG",
   "players": {
     "DarkOnCrack": {
       "points": 2422,
@@ -8,6 +8,10 @@
     "Chess_Training_2021": {
       "points": 614,
       "booster": null
+    },
+    "Nuemop": {
+      "points": 557,
+      "booster": 2.0
     },
     "UnHolYDuO": {
       "points": 490,
@@ -39,11 +43,11 @@
     },
     "Conrad_Gagnon": {
       "points": 300,
-      "booster": 1.6
+      "booster": null
     },
-    "Nuemop": {
-      "points": 283,
-      "booster": 2.0
+    "Shivansh-Chess-Force": {
+      "points": 300,
+      "booster": 1.7
     },
     "BharatBhushanVerma": {
       "points": 264,
@@ -60,10 +64,6 @@
     "VVIPVIBES": {
       "points": 214,
       "booster": null
-    },
-    "Shivansh-Chess-Force": {
-      "points": 181,
-      "booster": 1.9
     },
     "Alcedo": {
       "points": 149,
@@ -107,7 +107,7 @@
     },
     "ElBasmgy": {
       "points": 115,
-      "booster": 1.5
+      "booster": null
     },
     "just_chess12": {
       "points": 105,
@@ -117,9 +117,17 @@
       "points": 105,
       "booster": null
     },
+    "jet88": {
+      "points": 105,
+      "booster": 1.3
+    },
+    "manyathela2250": {
+      "points": 103,
+      "booster": 1.5
+    },
     "Agamveer_007": {
       "points": 101,
-      "booster": 1.2
+      "booster": null
     },
     "POPOIPOIPOI": {
       "points": 100,
@@ -128,6 +136,10 @@
     "Kurse-Aura1": {
       "points": 95,
       "booster": null
+    },
+    "VTacademy": {
+      "points": 91,
+      "booster": 1.9
     },
     "fin34601473braunpaul": {
       "points": 89,
@@ -151,7 +163,7 @@
     },
     "test_acc123": {
       "points": 85,
-      "booster": 1.1
+      "booster": null
     },
     "AhsapAhsap": {
       "points": 82,
@@ -169,13 +181,13 @@
       "points": 78,
       "booster": null
     },
+    "Janislav2000": {
+      "points": 74,
+      "booster": 1.4
+    },
     "tunu2011": {
       "points": 73,
       "booster": null
-    },
-    "jet88": {
-      "points": 73,
-      "booster": 1.4
     },
     "FranceWinsWorldCup": {
       "points": 72,
@@ -201,6 +213,10 @@
       "points": 65,
       "booster": null
     },
+    "LeawesZerk": {
+      "points": 65,
+      "booster": 1.8
+    },
     "IZerkYouLose": {
       "points": 63,
       "booster": null
@@ -212,6 +228,10 @@
     "ioannis_nikolaidis": {
       "points": 61,
       "booster": null
+    },
+    "ET-1-7": {
+      "points": 61,
+      "booster": 1.6
     },
     "FlorHawryluk": {
       "points": 56,
@@ -297,10 +317,6 @@
       "points": 33,
       "booster": null
     },
-    "Janislav2000": {
-      "points": 32,
-      "booster": null
-    },
     "WalterFire": {
       "points": 32,
       "booster": null
@@ -319,11 +335,7 @@
     },
     "Djohar_duda": {
       "points": 30,
-      "booster": 1.8
-    },
-    "manyathela2250": {
-      "points": 29,
-      "booster": 1.7
+      "booster": null
     },
     "schwarzerrabe": {
       "points": 28,
@@ -349,10 +361,6 @@
       "points": 26,
       "booster": null
     },
-    "VTacademy": {
-      "points": 25,
-      "booster": null
-    },
     "koreshok73": {
       "points": 23,
       "booster": null
@@ -375,7 +383,7 @@
     },
     "Billyrvs": {
       "points": 22,
-      "booster": 1.3
+      "booster": null
     },
     "Ficheal": {
       "points": 21,
@@ -401,6 +409,10 @@
       "points": 18,
       "booster": null
     },
+    "FullZerkGoat": {
+      "points": 18,
+      "booster": 1.2
+    },
     "Tipchess": {
       "points": 17,
       "booster": null
@@ -422,6 +434,10 @@
       "booster": null
     },
     "Chairopian": {
+      "points": 16,
+      "booster": null
+    },
+    "aavanisk": {
       "points": 16,
       "booster": null
     },
@@ -461,7 +477,7 @@
       "points": 12,
       "booster": null
     },
-    "aavanisk": {
+    "Trapcodes": {
       "points": 12,
       "booster": null
     },
@@ -505,6 +521,10 @@
       "points": 10,
       "booster": null
     },
+    "Dangby2017": {
+      "points": 10,
+      "booster": 1.1
+    },
     "vwz": {
       "points": 9,
       "booster": null
@@ -546,6 +566,10 @@
       "booster": null
     },
     "Chess_algebra": {
+      "points": 8,
+      "booster": null
+    },
+    "tasniaknijhum22": {
       "points": 8,
       "booster": null
     },
@@ -593,6 +617,10 @@
       "points": 6,
       "booster": null
     },
+    "PhilidorPhantom": {
+      "points": 6,
+      "booster": null
+    },
     "dunk-master": {
       "points": 5,
       "booster": null
@@ -630,6 +658,14 @@
       "booster": null
     },
     "ventomdg": {
+      "points": 4,
+      "booster": null
+    },
+    "Tushant_BCA": {
+      "points": 4,
+      "booster": null
+    },
+    "crazy_guy12": {
       "points": 4,
       "booster": null
     },
@@ -765,7 +801,7 @@
       "points": 2,
       "booster": null
     },
-    "Trapcodes": {
+    "HorsePlay22": {
       "points": 2,
       "booster": null
     },
@@ -786,6 +822,18 @@
       "booster": null
     },
     "Chess_Master_1985": {
+      "points": 0,
+      "booster": null
+    },
+    "ZerkingGoat": {
+      "points": 0,
+      "booster": null
+    },
+    "tigermain": {
+      "points": 0,
+      "booster": null
+    },
+    "SlomenB": {
       "points": 0,
       "booster": null
     }
