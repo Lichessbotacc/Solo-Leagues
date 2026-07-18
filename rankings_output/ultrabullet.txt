@@ -4,44 +4,44 @@
 4. @VariantsMain: 604
 5. @Hufflewitz: 516
 6. @LucienTupin: 448
-7. @cHaKrA25: 391
-8. @Cupidust123: 388 (1.5x boost next arena)
-9. @EEAguitarn1: 377
-10. @RodriFK: 374 (1.1x boost next arena)
-11. @zooz-Zerk: 346
-12. @ChessClassic_555: 331 (1.6x boost next arena)
-13. @DRUHA12: 325
-14. @silentWysteriYa: 320
-15. @Cold_Sewy12: 320
-16. @Ficheal: 320
-17. @KARSENIY: 318 (1.8x boost next arena)
-18. @Helokid: 307
-19. @Nikitosik1708: 265 (2.0x boost next arena)
-20. @Nu_Aspect: 258
-21. @mike-bear: 251
-22. @mdunlop: 250
-23. @Nathanael01: 245
-24. @itsmeniranjan1: 223
-25. @GT2RSWeissach: 221
-26. @TwistxdYT: 208
-27. @rafaelpoulet: 160
-28. @ManrajKnl: 153
-29. @esen-75: 148
-30. @ElBasmgy: 148 (1.2x boost next arena)
-31. @The_Berserk_Account: 147
-32. @Chess_Training_2021: 147 (1.9x boost next arena)
+7. @Chess_Training_2021: 428 (2.0x boost next arena)
+8. @cHaKrA25: 391
+9. @Cupidust123: 388
+10. @EEAguitarn1: 377
+11. @RodriFK: 374
+12. @zooz-Zerk: 346
+13. @ChessClassic_555: 331
+14. @DRUHA12: 325
+15. @silentWysteriYa: 320
+16. @Cold_Sewy12: 320
+17. @Ficheal: 320
+18. @KARSENIY: 318
+19. @Helokid: 307
+20. @Nikitosik1708: 265
+21. @Nu_Aspect: 258
+22. @mike-bear: 251
+23. @mdunlop: 250
+24. @Nathanael01: 245
+25. @itsmeniranjan1: 223
+26. @GT2RSWeissach: 221
+27. @ElBasmgy: 217 (1.7x boost next arena)
+28. @TwistxdYT: 208
+29. @rafaelpoulet: 160
+30. @ManrajKnl: 153
+31. @esen-75: 148
+32. @The_Berserk_Account: 147
 33. @Dhruvvaaa: 146
 34. @NightOFzero: 143
 35. @minipekka1: 138
-36. @Statham_13: 136
-37. @UrasAras4444: 135
-38. @dunk-master: 134
-39. @UnHolYDuO: 134
-40. @Eagle_Xx: 129
-41. @zanycolourfulwindow: 127
+36. @UrasAras4444: 137
+37. @Statham_13: 136
+38. @zanycolourfulwindow: 136
+39. @dunk-master: 134
+40. @UnHolYDuO: 134
+41. @Eagle_Xx: 129
 42. @sinrevancha: 124
 43. @Simplied23: 121
-44. @rkido: 121 (1.4x boost next arena)
+44. @rkido: 121
 45. @DireDawn: 120
 46. @Conrad_Gagnon: 119
 47. @berko123: 119
@@ -49,52 +49,52 @@
 49. @DarshanMandya19: 111
 50. @Little_Master_2012: 108
 51. @Tipchess: 106
-52. @vwz: 100 (1.7x boost next arena)
+52. @vwz: 100
 53. @VrkAAA: 98
 54. @S_E_C_R_E_T: 98
 55. @Bodyguard04_Pman: 93
 56. @Alcedo: 92
-57. @GodOfChess_d: 88
-58. @IZerkYouLose: 88
-59. @LionelRonaldo_107: 88
-60. @iamtheworst78: 88
-61. @Somerandomguy25: 87
-62. @Dislikebutton: 86
-63. @PushAttack14: 85
-64. @Schizophrenic_Dancer: 85
-65. @Schatten_vy_001: 84
-66. @werurik: 83
-67. @Nuraliii: 81 (1.3x boost next arena)
-68. @Brillant_Sacriffice: 79
-69. @fin34601473braunpaul: 79
-70. @LOhItH20118: 77
-71. @SchachBasti: 77
-72. @TGAinVaibhavGrand: 77
-73. @Djohar_duda: 77
-74. @mrsst: 76
-75. @Tank_2017: 74
-76. @berserk31012012: 73
-77. @hello_328: 73
-78. @Phemmiekuks: 71
-79. @MIcHeLL28: 71
-80. @Rockstar2478: 71
-81. @UltimateGDLOL: 69
-82. @Gyusudh: 69
-83. @Jerronbabylansu: 69
-84. @gretal2024: 67
-85. @sChAcH4: 66
-86. @HrishikeshPs: 64
-87. @Last_Suspect: 63
-88. @tharindujayasuriya: 61
-89. @VikramSvarubonVS: 61
-90. @VVIPVIBES: 61
-91. @RookNRollMaster: 60
-92. @ChessBusy2013: 60
-93. @leogla: 56
-94. @Bullinks: 56
-95. @mikebear-zerk: 55
-96. @GeekingKing: 54
-97. @DIOGEN__POPOV__A: 54
-98. @M1nds: 53
-99. @Bashu: 50
-100. @Checkmate_Drifters: 48
+57. @RockyBeTTiaH: 90 (1.9x boost next arena)
+58. @GodOfChess_d: 88
+59. @IZerkYouLose: 88
+60. @LionelRonaldo_107: 88
+61. @iamtheworst78: 88
+62. @Somerandomguy25: 87
+63. @Dislikebutton: 86
+64. @PushAttack14: 85
+65. @Schizophrenic_Dancer: 85
+66. @Schatten_vy_001: 84
+67. @werurik: 83
+68. @Nuraliii: 81
+69. @Brillant_Sacriffice: 79
+70. @fin34601473braunpaul: 79
+71. @LOhItH20118: 77
+72. @SchachBasti: 77
+73. @TGAinVaibhavGrand: 77
+74. @Djohar_duda: 77
+75. @mrsst: 76
+76. @HrishikeshPs: 76 (1.1x boost next arena)
+77. @Tank_2017: 74
+78. @berserk31012012: 73
+79. @hello_328: 73
+80. @Phemmiekuks: 71
+81. @MIcHeLL28: 71
+82. @Rockstar2478: 71
+83. @UltimateGDLOL: 69
+84. @Gyusudh: 69
+85. @Jerronbabylansu: 69
+86. @gretal2024: 67
+87. @sChAcH4: 66
+88. @Last_Suspect: 63
+89. @tharindujayasuriya: 61
+90. @VikramSvarubonVS: 61
+91. @VVIPVIBES: 61
+92. @LeawesZerk: 61 (1.8x boost next arena)
+93. @RookNRollMaster: 60
+94. @ChessBusy2013: 60
+95. @leogla: 56
+96. @Bullinks: 56
+97. @mikebear-zerk: 55
+98. @GeekingKing: 54
+99. @DIOGEN__POPOV__A: 54
+100. @M1nds: 53
