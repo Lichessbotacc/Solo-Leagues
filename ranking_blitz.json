@@ -1,9 +1,9 @@
 {
-  "last_processed_tournament": "8iM1izDt",
+  "last_processed_tournament": "cfOlA6qF",
   "players": {
     "stambul65": {
       "points": 5432,
-      "booster": 1.9
+      "booster": null
     },
     "DarkOnCrack": {
       "points": 2270,
@@ -27,11 +27,11 @@
     },
     "schwarzerrabe": {
       "points": 581,
-      "booster": 1.4
+      "booster": null
     },
     "dadada112": {
       "points": 552,
-      "booster": 1.1
+      "booster": null
     },
     "LOST_IN_FUTURE": {
       "points": 543,
@@ -97,6 +97,10 @@
       "points": 228,
       "booster": null
     },
+    "manyathela2250": {
+      "points": 211,
+      "booster": 2.0
+    },
     "Pro_OTB": {
       "points": 204,
       "booster": null
@@ -115,7 +119,7 @@
     },
     "Juggrnaut": {
       "points": 170,
-      "booster": 1.7
+      "booster": null
     },
     "TheRuleBreaker122": {
       "points": 167,
@@ -128,10 +132,6 @@
     "Sanjaya_BKD": {
       "points": 163,
       "booster": null
-    },
-    "manyathela2250": {
-      "points": 157,
-      "booster": 2.0
     },
     "lAnzorKablahovl": {
       "points": 152,
@@ -147,7 +147,7 @@
     },
     "Janislav2000": {
       "points": 143,
-      "booster": 1.5
+      "booster": null
     },
     "handyacc": {
       "points": 139,
@@ -213,15 +213,15 @@
       "points": 91,
       "booster": null
     },
+    "Pavel15A": {
+      "points": 91,
+      "booster": 1.5
+    },
     "dunk-master": {
       "points": 89,
       "booster": null
     },
     "chessrocker2": {
-      "points": 87,
-      "booster": null
-    },
-    "Pavel15A": {
       "points": 87,
       "booster": null
     },
@@ -273,12 +273,12 @@
       "points": 71,
       "booster": null
     },
+    "MuhammadElNady55555": {
+      "points": 69,
+      "booster": 1.2
+    },
     "Aatu65536": {
       "points": 68,
-      "booster": null
-    },
-    "MuhammadElNady55555": {
-      "points": 67,
       "booster": null
     },
     "Lena8892": {
@@ -373,6 +373,10 @@
       "points": 48,
       "booster": null
     },
+    "HugeSmoggyFirebird": {
+      "points": 48,
+      "booster": 1.6
+    },
     "Dogui1zxc": {
       "points": 46,
       "booster": null
@@ -421,10 +425,6 @@
       "points": 44,
       "booster": null
     },
-    "HugeSmoggyFirebird": {
-      "points": 44,
-      "booster": null
-    },
     "armaancjain": {
       "points": 43,
       "booster": null
@@ -447,7 +447,7 @@
     },
     "cheesynoob": {
       "points": 42,
-      "booster": 1.8
+      "booster": null
     },
     "yabbadabadoo": {
       "points": 41,
@@ -639,7 +639,7 @@
     },
     "livendahl": {
       "points": 26,
-      "booster": 1.6
+      "booster": null
     },
     "Turris66": {
       "points": 25,
@@ -684,6 +684,10 @@
     "cheetah6996": {
       "points": 23,
       "booster": null
+    },
+    "spiddey": {
+      "points": 23,
+      "booster": 1.9
     },
     "bulletmaniac": {
       "points": 22,
@@ -783,7 +787,7 @@
     },
     "caxwawa": {
       "points": 18,
-      "booster": 1.3
+      "booster": null
     },
     "brandal_55": {
       "points": 17,
@@ -927,7 +931,7 @@
     },
     "Ichbingutinschach123": {
       "points": 13,
-      "booster": 1.2
+      "booster": null
     },
     "quesitomaster123": {
       "points": 12,
@@ -989,6 +993,14 @@
       "points": 12,
       "booster": null
     },
+    "JohnnyChess": {
+      "points": 12,
+      "booster": 1.3
+    },
+    "Jeziorsa": {
+      "points": 12,
+      "booster": 1.7
+    },
     "RobertFP": {
       "points": 11,
       "booster": null
@@ -1030,10 +1042,6 @@
       "booster": null
     },
     "kg120165": {
-      "points": 10,
-      "booster": null
-    },
-    "JohnnyChess": {
       "points": 10,
       "booster": null
     },
@@ -1088,6 +1096,10 @@
     "T16YA": {
       "points": 9,
       "booster": null
+    },
+    "Sealights": {
+      "points": 9,
+      "booster": 1.8
     },
     "Elya-Must": {
       "points": 8,
@@ -1453,10 +1465,6 @@
       "points": 3,
       "booster": null
     },
-    "Jeziorsa": {
-      "points": 3,
-      "booster": null
-    },
     "chessmaster201315": {
       "points": 3,
       "booster": null
@@ -1548,6 +1556,10 @@
     "NokiA33109": {
       "points": 3,
       "booster": null
+    },
+    "Beserker2014": {
+      "points": 3,
+      "booster": 1.4
     },
     "szefunio1": {
       "points": 2,
@@ -1741,6 +1753,10 @@
       "points": 1,
       "booster": null
     },
+    "Rihansh_2025das": {
+      "points": 1,
+      "booster": 1.1
+    },
     "Chesika": {
       "points": 0,
       "booster": null
@@ -1838,6 +1854,14 @@
       "booster": null
     },
     "YEK16": {
+      "points": 0,
+      "booster": null
+    },
+    "ZoiloGonzalez": {
+      "points": 0,
+      "booster": null
+    },
+    "GoodCoolingOtter": {
       "points": 0,
       "booster": null
     }
