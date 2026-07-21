@@ -1,9 +1,9 @@
 {
-  "last_processed_tournament": "g9AGebKR",
+  "last_processed_tournament": "Ct9CbkmB",
   "players": {
     "stambul65": {
       "points": 1787,
-      "booster": 2.0
+      "booster": null
     },
     "Conrad_Gagnon": {
       "points": 482,
@@ -15,7 +15,7 @@
     },
     "DarkOnCrack": {
       "points": 185,
-      "booster": null
+      "booster": 1.5
     },
     "xdxdboxjaja": {
       "points": 174,
@@ -39,7 +39,7 @@
     },
     "Konariq7": {
       "points": 111,
-      "booster": 1.8
+      "booster": null
     },
     "nopainogain": {
       "points": 102,
@@ -51,7 +51,7 @@
     },
     "rickeyfeb15": {
       "points": 89,
-      "booster": 1.4
+      "booster": null
     },
     "yonssw54269000": {
       "points": 81,
@@ -59,7 +59,7 @@
     },
     "Ochesage": {
       "points": 75,
-      "booster": 1.9
+      "booster": null
     },
     "Evgeny86": {
       "points": 69,
@@ -71,17 +71,17 @@
     },
     "Ozgur3838": {
       "points": 64,
-      "booster": null
+      "booster": 1.4
     },
     "DarkOnWeakBot": {
       "points": 58,
       "booster": null
     },
-    "mang0sunr1s3": {
-      "points": 50,
-      "booster": null
-    },
     "matewasfate": {
+      "points": 52,
+      "booster": 1.6
+    },
+    "mang0sunr1s3": {
       "points": 50,
       "booster": null
     },
@@ -171,7 +171,7 @@
     },
     "booktrunk": {
       "points": 18,
-      "booster": 1.7
+      "booster": null
     },
     "O99_KTLC": {
       "points": 17,
@@ -249,6 +249,10 @@
       "points": 11,
       "booster": null
     },
+    "PawlakJan": {
+      "points": 10,
+      "booster": 2.0
+    },
     "Justinsenpai": {
       "points": 9,
       "booster": null
@@ -263,7 +267,7 @@
     },
     "healLan": {
       "points": 8,
-      "booster": null
+      "booster": 1.3
     },
     "yonis1111": {
       "points": 8,
@@ -277,6 +281,10 @@
       "points": 8,
       "booster": null
     },
+    "cheetah6996": {
+      "points": 8,
+      "booster": 1.8
+    },
     "ZoTsihoarana": {
       "points": 7,
       "booster": null
@@ -287,7 +295,7 @@
     },
     "caldillo": {
       "points": 7,
-      "booster": 1.3
+      "booster": null
     },
     "LAFLAUTADORADA": {
       "points": 6,
@@ -327,15 +335,19 @@
     },
     "Momo-50": {
       "points": 6,
-      "booster": null
+      "booster": 1.1
     },
     "basketball111": {
       "points": 6,
-      "booster": 1.6
+      "booster": null
     },
     "Jadonthomas": {
       "points": 6,
-      "booster": 1.5
+      "booster": null
+    },
+    "City21": {
+      "points": 6,
+      "booster": 1.9
     },
     "MysteryPhantom7": {
       "points": 5,
@@ -403,11 +415,11 @@
     },
     "Silach17": {
       "points": 4,
-      "booster": 1.2
+      "booster": null
     },
     "DUKE_101": {
       "points": 4,
-      "booster": 1.1
+      "booster": null
     },
     "MUVELD": {
       "points": 4,
@@ -416,6 +428,10 @@
     "vivekve": {
       "points": 4,
       "booster": null
+    },
+    "Knightinthenight123": {
+      "points": 4,
+      "booster": 1.7
     },
     "OneOfTheWorldsBest": {
       "points": 3,
@@ -530,10 +546,6 @@
       "booster": null
     },
     "CalculatedOops": {
-      "points": 2,
-      "booster": null
-    },
-    "cheetah6996": {
       "points": 2,
       "booster": null
     },
@@ -692,6 +704,10 @@
     "lilkodak23": {
       "points": 0,
       "booster": null
+    },
+    "GoodCoolingOtter": {
+      "points": 0,
+      "booster": 1.2
     }
   },
   "processed_tournaments": [
