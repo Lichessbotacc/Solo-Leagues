@@ -1,9 +1,9 @@
 {
-  "last_processed_tournament": "wFWskp4L",
+  "last_processed_tournament": "JWCn0QOV",
   "players": {
     "DarkOnCrack": {
-      "points": 2422,
-      "booster": null
+      "points": 2425,
+      "booster": 1.4
     },
     "Chess_Training_2021": {
       "points": 614,
@@ -15,7 +15,7 @@
     },
     "Alex-31": {
       "points": 532,
-      "booster": 2.0
+      "booster": null
     },
     "UnHolYDuO": {
       "points": 490,
@@ -24,6 +24,10 @@
     "Helokid": {
       "points": 476,
       "booster": null
+    },
+    "Conrad_Gagnon": {
+      "points": 356,
+      "booster": 1.9
     },
     "minipekka1": {
       "points": 335,
@@ -36,10 +40,6 @@
     "tomkruz88": {
       "points": 327,
       "booster": null
-    },
-    "Conrad_Gagnon": {
-      "points": 324,
-      "booster": 1.6
     },
     "Justinsenpai": {
       "points": 318,
@@ -67,11 +67,11 @@
     },
     "manyathela2250": {
       "points": 205,
-      "booster": 1.9
+      "booster": null
     },
     "Alcedo": {
-      "points": 149,
-      "booster": null
+      "points": 161,
+      "booster": 1.5
     },
     "Esen-Zerk": {
       "points": 148,
@@ -83,7 +83,7 @@
     },
     "jet88": {
       "points": 129,
-      "booster": 1.5
+      "booster": null
     },
     "zooz-Zerk": {
       "points": 128,
@@ -104,6 +104,10 @@
     "Satranc599": {
       "points": 122,
       "booster": null
+    },
+    "LucienTupin": {
+      "points": 120,
+      "booster": 2.0
     },
     "SchachBasti": {
       "points": 119,
@@ -135,7 +139,7 @@
     },
     "fin34601473braunpaul": {
       "points": 96,
-      "booster": 1.2
+      "booster": null
     },
     "Kurse-Aura1": {
       "points": 95,
@@ -143,10 +147,6 @@
     },
     "VTacademy": {
       "points": 91,
-      "booster": null
-    },
-    "LucienTupin": {
-      "points": 89,
       "booster": null
     },
     "Mahamaha14": {
@@ -173,6 +173,10 @@
       "points": 81,
       "booster": null
     },
+    "GeekingKing": {
+      "points": 80,
+      "booster": 1.6
+    },
     "EEAguitarn1": {
       "points": 79,
       "booster": null
@@ -180,6 +184,10 @@
     "hmmmhmmmhmmm": {
       "points": 78,
       "booster": null
+    },
+    "ET-1-7": {
+      "points": 75,
+      "booster": 1.8
     },
     "Janislav2000": {
       "points": 74,
@@ -205,10 +213,6 @@
       "points": 70,
       "booster": null
     },
-    "GeekingKing": {
-      "points": 68,
-      "booster": null
-    },
     "Last_Suspect": {
       "points": 65,
       "booster": null
@@ -226,10 +230,6 @@
       "booster": null
     },
     "ioannis_nikolaidis": {
-      "points": 61,
-      "booster": null
-    },
-    "ET-1-7": {
       "points": 61,
       "booster": null
     },
@@ -267,7 +267,7 @@
     },
     "leolo": {
       "points": 44,
-      "booster": 1.8
+      "booster": null
     },
     "kingboers": {
       "points": 43,
@@ -327,7 +327,7 @@
     },
     "Djohar_duda": {
       "points": 32,
-      "booster": 1.1
+      "booster": null
     },
     "BlitzWarlord": {
       "points": 31,
@@ -343,7 +343,7 @@
     },
     "schwarzerrabe": {
       "points": 28,
-      "booster": null
+      "booster": 1.1
     },
     "Arjun-Saha6": {
       "points": 28,
@@ -366,6 +366,10 @@
       "booster": null
     },
     "reyansh_mehra_14": {
+      "points": 24,
+      "booster": null
+    },
+    "matewasfate": {
       "points": 24,
       "booster": 1.7
     },
@@ -423,7 +427,7 @@
     },
     "ChEs12_ac": {
       "points": 18,
-      "booster": 1.4
+      "booster": null
     },
     "Tipchess": {
       "points": 17,
@@ -451,7 +455,7 @@
     },
     "aavanisk": {
       "points": 16,
-      "booster": null
+      "booster": 1.2
     },
     "TheRuleBreaker122": {
       "points": 15,
@@ -525,10 +529,6 @@
       "points": 10,
       "booster": null
     },
-    "matewasfate": {
-      "points": 10,
-      "booster": null
-    },
     "abab2525": {
       "points": 10,
       "booster": null
@@ -587,7 +587,7 @@
     },
     "salmoncreek": {
       "points": 8,
-      "booster": 1.3
+      "booster": null
     },
     "Mayangnabila": {
       "points": 7,
@@ -872,6 +872,10 @@
     "dolap23": {
       "points": 0,
       "booster": null
+    },
+    "Nithin_xx2011": {
+      "points": 0,
+      "booster": 1.3
     }
   },
   "processed_tournaments": [
