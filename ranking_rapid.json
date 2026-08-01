@@ -1,13 +1,13 @@
 {
-  "last_processed_tournament": "JHvs4FHL",
+  "last_processed_tournament": "MzAb0IPj",
   "players": {
     "stambul65": {
-      "points": 1899,
-      "booster": 1.8
+      "points": 1927,
+      "booster": 1.9
     },
     "Conrad_Gagnon": {
-      "points": 489,
-      "booster": null
+      "points": 503,
+      "booster": 1.8
     },
     "Mayangnabila": {
       "points": 395,
@@ -15,7 +15,7 @@
     },
     "DarkOnCrack": {
       "points": 190,
-      "booster": 1.4
+      "booster": 1.2
     },
     "xdxdboxjaja": {
       "points": 174,
@@ -51,7 +51,11 @@
     },
     "Ozgur3838": {
       "points": 97,
-      "booster": 1.3
+      "booster": null
+    },
+    "Sinus314159": {
+      "points": 97,
+      "booster": 2.0
     },
     "tomkruz88": {
       "points": 96,
@@ -60,6 +64,10 @@
     "Evgeny86": {
       "points": 95,
       "booster": null
+    },
+    "cheetah6996": {
+      "points": 86,
+      "booster": 1.7
     },
     "yonssw54269000": {
       "points": 81,
@@ -71,11 +79,7 @@
     },
     "schwarzerrabe": {
       "points": 72,
-      "booster": 1.5
-    },
-    "cheetah6996": {
-      "points": 69,
-      "booster": 1.7
+      "booster": null
     },
     "DarkOnWeakBot": {
       "points": 58,
@@ -105,10 +109,6 @@
       "points": 39,
       "booster": null
     },
-    "Sinus314159": {
-      "points": 33,
-      "booster": 2.0
-    },
     "Dev_of_YouTube": {
       "points": 32,
       "booster": null
@@ -127,7 +127,7 @@
     },
     "hameidi-moussa": {
       "points": 28,
-      "booster": 1.9
+      "booster": null
     },
     "Kartomil2014": {
       "points": 25,
@@ -183,7 +183,7 @@
     },
     "capapreta999": {
       "points": 19,
-      "booster": 1.6
+      "booster": null
     },
     "thedecentchescuber": {
       "points": 18,
@@ -307,7 +307,11 @@
     },
     "Knightinthenight123": {
       "points": 8,
-      "booster": 1.1
+      "booster": null
+    },
+    "Jadonthomas": {
+      "points": 8,
+      "booster": 1.3
     },
     "ZoTsihoarana": {
       "points": 7,
@@ -365,13 +369,13 @@
       "points": 6,
       "booster": null
     },
-    "Jadonthomas": {
-      "points": 6,
-      "booster": null
-    },
     "City21": {
       "points": 6,
       "booster": null
+    },
+    "vivekve": {
+      "points": 6,
+      "booster": 1.4
     },
     "MysteryPhantom7": {
       "points": 5,
@@ -439,13 +443,9 @@
     },
     "DUKE_101": {
       "points": 4,
-      "booster": null
+      "booster": 1.1
     },
     "MUVELD": {
-      "points": 4,
-      "booster": null
-    },
-    "vivekve": {
       "points": 4,
       "booster": null
     },
@@ -459,7 +459,7 @@
     },
     "bfaps": {
       "points": 4,
-      "booster": 1.2
+      "booster": null
     },
     "OneOfTheWorldsBest": {
       "points": 3,
@@ -533,6 +533,10 @@
       "points": 3,
       "booster": null
     },
+    "Slightly_Under_2800": {
+      "points": 3,
+      "booster": 1.6
+    },
     "kenedyKimutai": {
       "points": 2,
       "booster": null
@@ -596,6 +600,10 @@
     "pro12266656": {
       "points": 2,
       "booster": null
+    },
+    "skrish2": {
+      "points": 2,
+      "booster": 1.5
     },
     "NOELIAP11": {
       "points": 1,
@@ -770,6 +778,10 @@
       "booster": null
     },
     "sribna": {
+      "points": 0,
+      "booster": null
+    },
+    "cricketVK18": {
       "points": 0,
       "booster": null
     }
