@@ -1,15 +1,15 @@
-1. @DarkOnCrack: 5805 (2.0x boost next arena)
-2. @checknight1: 761 (1.7x boost next arena)
+1. @DarkOnCrack: 5805 (1.6x boost next arena)
+2. @checknight1: 761
 3. @TacticalMonkey: 631
 4. @VariantsMain: 604
-5. @Hufflewitz: 516
-6. @Cupidust123: 508 (1.9x boost next arena)
-7. @Chess_Training_2021: 462 (1.2x boost next arena)
-8. @LucienTupin: 448
+5. @Hufflewitz: 516 (1.4x boost next arena)
+6. @Cupidust123: 511 (1.7x boost next arena)
+7. @Chess_Training_2021: 462
+8. @LucienTupin: 453 (1.9x boost next arena)
 9. @cHaKrA25: 391
 10. @EEAguitarn1: 377
 11. @RodriFK: 374
-12. @Nathanael01: 364 (1.8x boost next arena)
+12. @Nathanael01: 364
 13. @zooz-Zerk: 346
 14. @ChessClassic_555: 331
 15. @DRUHA12: 325
@@ -18,7 +18,7 @@
 18. @Ficheal: 320
 19. @KARSENIY: 318
 20. @Helokid: 307
-21. @Nikitosik1708: 265
+21. @Nikitosik1708: 265 (1.5x boost next arena)
 22. @Nu_Aspect: 258
 23. @mike-bear: 251
 24. @mdunlop: 250
@@ -40,10 +40,10 @@
 40. @UnHolYDuO: 134
 41. @Eagle_Xx: 129
 42. @sinrevancha: 124
-43. @Simplied23: 121
-44. @rkido: 121
-45. @DireDawn: 120
-46. @Conrad_Gagnon: 119
+43. @Conrad_Gagnon: 123 (1.8x boost next arena)
+44. @Simplied23: 121
+45. @rkido: 121
+46. @DireDawn: 120 (1.3x boost next arena)
 47. @berko123: 119
 48. @Chonma: 118
 49. @DarshanMandya19: 111
@@ -74,7 +74,7 @@
 74. @Djohar_duda: 77
 75. @mrsst: 76
 76. @HrishikeshPs: 76
-77. @Chess_algebra: 75 (1.6x boost next arena)
+77. @Chess_algebra: 75
 78. @Tank_2017: 74
 79. @berserk31012012: 73
 80. @hello_328: 73
