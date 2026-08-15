@@ -1,9 +1,9 @@
 {
-  "last_processed_tournament": "kP2olTwc",
+  "last_processed_tournament": "XU9txHjC",
   "players": {
     "DarkOnCrack": {
-      "points": 6125,
-      "booster": 2.0
+      "points": 6133,
+      "booster": 1.8
     },
     "checknight1": {
       "points": 761,
@@ -11,7 +11,7 @@
     },
     "Chess_Training_2021": {
       "points": 648,
-      "booster": 1.9
+      "booster": null
     },
     "TacticalMonkey": {
       "points": 631,
@@ -22,8 +22,8 @@
       "booster": null
     },
     "Hufflewitz": {
-      "points": 516,
-      "booster": null
+      "points": 520,
+      "booster": 1.9
     },
     "Cupidust123": {
       "points": 511,
@@ -31,11 +31,11 @@
     },
     "LucienTupin": {
       "points": 453,
-      "booster": null
+      "booster": 1.4
     },
     "RodriFK": {
       "points": 436,
-      "booster": 1.1
+      "booster": null
     },
     "cHaKrA25": {
       "points": 391,
@@ -43,7 +43,7 @@
     },
     "EEAguitarn1": {
       "points": 377,
-      "booster": null
+      "booster": 1.2
     },
     "Nathanael01": {
       "points": 364,
@@ -82,8 +82,8 @@
       "booster": null
     },
     "mdunlop": {
-      "points": 279,
-      "booster": null
+      "points": 281,
+      "booster": 1.7
     },
     "Nikitosik1708": {
       "points": 265,
@@ -95,7 +95,7 @@
     },
     "Dhruvvaaa": {
       "points": 254,
-      "booster": 1.5
+      "booster": null
     },
     "mike-bear": {
       "points": 251,
@@ -119,7 +119,7 @@
     },
     "mrsst": {
       "points": 183,
-      "booster": 1.4
+      "booster": null
     },
     "Conrad_Gagnon": {
       "points": 162,
@@ -163,7 +163,7 @@
     },
     "symthegoat": {
       "points": 136,
-      "booster": 1.8
+      "booster": null
     },
     "dunk-master": {
       "points": 134,
@@ -178,8 +178,8 @@
       "booster": null
     },
     "sinrevancha": {
-      "points": 124,
-      "booster": null
+      "points": 126,
+      "booster": 1.6
     },
     "Simplied23": {
       "points": 121,
@@ -187,7 +187,7 @@
     },
     "rkido": {
       "points": 121,
-      "booster": null
+      "booster": 1.1
     },
     "DireDawn": {
       "points": 120,
@@ -195,7 +195,7 @@
     },
     "MatthevG": {
       "points": 120,
-      "booster": 1.7
+      "booster": null
     },
     "berko123": {
       "points": 119,
@@ -211,7 +211,7 @@
     },
     "NURALIII": {
       "points": 111,
-      "booster": 1.6
+      "booster": null
     },
     "Little_Master_2012": {
       "points": 108,
@@ -279,7 +279,7 @@
     },
     "SsShhhhhhhhhhhhhhhhh": {
       "points": 86,
-      "booster": 1.3
+      "booster": null
     },
     "PushAttack14": {
       "points": 85,
@@ -339,7 +339,7 @@
     },
     "Chesschamps15": {
       "points": 74,
-      "booster": 1.2
+      "booster": null
     },
     "berserk31012012": {
       "points": 73,
@@ -455,7 +455,7 @@
     },
     "vasudev9": {
       "points": 47,
-      "booster": null
+      "booster": 1.5
     },
     "unal-2007": {
       "points": 46,
@@ -969,6 +969,10 @@
       "points": 6,
       "booster": null
     },
+    "AaRhA": {
+      "points": 6,
+      "booster": 2.0
+    },
     "POPOIPOIPOI": {
       "points": 5,
       "booster": null
@@ -1233,10 +1237,6 @@
       "points": 2,
       "booster": null
     },
-    "AaRhA": {
-      "points": 1,
-      "booster": null
-    },
     "AhmedHassen1": {
       "points": 1,
       "booster": null
@@ -1299,7 +1299,7 @@
     },
     "turkay17": {
       "points": 0,
-      "booster": null
+      "booster": 1.3
     },
     "lila_covualogic": {
       "points": 0,
@@ -1390,6 +1390,30 @@
       "booster": null
     },
     "Pro_AtChess": {
+      "points": 0,
+      "booster": null
+    },
+    "TheBishopOnA2": {
+      "points": 0,
+      "booster": null
+    },
+    "Soumil2013": {
+      "points": 0,
+      "booster": null
+    },
+    "FireFlamePheonix1": {
+      "points": 0,
+      "booster": null
+    },
+    "lilmg18": {
+      "points": 0,
+      "booster": null
+    },
+    "DARSER": {
+      "points": 0,
+      "booster": null
+    },
+    "AhBoystoMen": {
       "points": 0,
       "booster": null
     }

@@ -1,14 +1,14 @@
-1. @DarkOnCrack: 6125 (2.0x boost next arena)
+1. @DarkOnCrack: 6133 (1.8x boost next arena)
 2. @checknight1: 761
-3. @Chess_Training_2021: 648 (1.9x boost next arena)
+3. @Chess_Training_2021: 648
 4. @TacticalMonkey: 631
 5. @VariantsMain: 604
-6. @Hufflewitz: 516
+6. @Hufflewitz: 520 (1.9x boost next arena)
 7. @Cupidust123: 511
-8. @LucienTupin: 453
-9. @RodriFK: 436 (1.1x boost next arena)
+8. @LucienTupin: 453 (1.4x boost next arena)
+9. @RodriFK: 436
 10. @cHaKrA25: 391
-11. @EEAguitarn1: 377
+11. @EEAguitarn1: 377 (1.2x boost next arena)
 12. @Nathanael01: 364
 13. @zooz-Zerk: 346
 14. @ChessClassic_555: 331
@@ -18,16 +18,16 @@
 18. @Ficheal: 320
 19. @KARSENIY: 318
 20. @Helokid: 307
-21. @mdunlop: 279
+21. @mdunlop: 281 (1.7x boost next arena)
 22. @Nikitosik1708: 265
 23. @Nu_Aspect: 258
-24. @Dhruvvaaa: 254 (1.5x boost next arena)
+24. @Dhruvvaaa: 254
 25. @mike-bear: 251
 26. @itsmeniranjan1: 223
 27. @GT2RSWeissach: 221
 28. @ElBasmgy: 217
 29. @TwistxdYT: 208
-30. @mrsst: 183 (1.4x boost next arena)
+30. @mrsst: 183
 31. @Conrad_Gagnon: 162
 32. @rafaelpoulet: 160
 33. @ManrajKnl: 153
@@ -38,19 +38,19 @@
 38. @minipekka1: 138
 39. @Statham_13: 136
 40. @zanycolourfulwindow: 136
-41. @symthegoat: 136 (1.8x boost next arena)
+41. @symthegoat: 136
 42. @dunk-master: 134
 43. @UnHolYDuO: 134
 44. @Eagle_Xx: 129
-45. @sinrevancha: 124
+45. @sinrevancha: 126 (1.6x boost next arena)
 46. @Simplied23: 121
-47. @rkido: 121
+47. @rkido: 121 (1.1x boost next arena)
 48. @DireDawn: 120
-49. @MatthevG: 120 (1.7x boost next arena)
+49. @MatthevG: 120
 50. @berko123: 119
 51. @Chonma: 118
 52. @DarshanMandya19: 111
-53. @NURALIII: 111 (1.6x boost next arena)
+53. @NURALIII: 111
 54. @Little_Master_2012: 108
 55. @Tipchess: 106
 56. @vwz: 100
@@ -67,7 +67,7 @@
 67. @iamtheworst78: 88
 68. @Somerandomguy25: 87
 69. @Dislikebutton: 86
-70. @SsShhhhhhhhhhhhhhhhh: 86 (1.3x boost next arena)
+70. @SsShhhhhhhhhhhhhhhhh: 86
 71. @PushAttack14: 85
 72. @Schizophrenic_Dancer: 85
 73. @Schatten_vy_001: 84
@@ -82,7 +82,7 @@
 82. @HrishikeshPs: 76
 83. @Chess_algebra: 75
 84. @Tank_2017: 74
-85. @Chesschamps15: 74 (1.2x boost next arena)
+85. @Chesschamps15: 74
 86. @berserk31012012: 73
 87. @hello_328: 73
 88. @Phemmiekuks: 71
