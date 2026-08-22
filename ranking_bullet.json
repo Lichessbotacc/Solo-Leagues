@@ -1,9 +1,9 @@
 {
-  "last_processed_tournament": "EdEOUQNe",
+  "last_processed_tournament": "lWwJJzuO",
   "players": {
     "DarkOnCrack": {
       "points": 2502,
-      "booster": 1.8
+      "booster": null
     },
     "Chess_Training_2021": {
       "points": 614,
@@ -11,7 +11,7 @@
     },
     "Alex-31": {
       "points": 611,
-      "booster": 2.0
+      "booster": null
     },
     "Nuemop": {
       "points": 571,
@@ -25,13 +25,13 @@
       "points": 476,
       "booster": null
     },
+    "tomkruz88": {
+      "points": 420,
+      "booster": 1.9
+    },
     "Conrad_Gagnon": {
       "points": 371,
       "booster": null
-    },
-    "tomkruz88": {
-      "points": 364,
-      "booster": 1.7
     },
     "minipekka1": {
       "points": 335,
@@ -70,8 +70,12 @@
       "booster": null
     },
     "Alcedo": {
-      "points": 161,
-      "booster": null
+      "points": 169,
+      "booster": 1.4
+    },
+    "jet88": {
+      "points": 153,
+      "booster": 1.8
     },
     "Esen-Zerk": {
       "points": 148,
@@ -79,14 +83,10 @@
     },
     "ElBasmgy": {
       "points": 139,
-      "booster": 1.5
+      "booster": null
     },
     "mike-bear": {
       "points": 132,
-      "booster": null
-    },
-    "jet88": {
-      "points": 129,
       "booster": null
     },
     "zooz-Zerk": {
@@ -141,6 +141,10 @@
       "points": 96,
       "booster": null
     },
+    "Nephili": {
+      "points": 96,
+      "booster": 2.0
+    },
     "Kurse-Aura1": {
       "points": 95,
       "booster": null
@@ -191,7 +195,7 @@
     },
     "Artchessplay": {
       "points": 75,
-      "booster": 1.9
+      "booster": null
     },
     "Janislav2000": {
       "points": 74,
@@ -349,6 +353,10 @@
       "points": 30,
       "booster": null
     },
+    "hameidi-moussa": {
+      "points": 30,
+      "booster": 1.5
+    },
     "schwarzerrabe": {
       "points": 28,
       "booster": null
@@ -375,11 +383,11 @@
     },
     "ComeToBaba1": {
       "points": 26,
-      "booster": 1.1
+      "booster": null
     },
     "Infected_Alienlike": {
       "points": 25,
-      "booster": 1.6
+      "booster": null
     },
     "matewasfate": {
       "points": 24,
@@ -399,7 +407,7 @@
     },
     "Loveerica717": {
       "points": 23,
-      "booster": 1.4
+      "booster": null
     },
     "bbk10s": {
       "points": 22,
@@ -420,6 +428,10 @@
     "ritugreat123": {
       "points": 20,
       "booster": null
+    },
+    "Hermann1414": {
+      "points": 20,
+      "booster": 1.7
     },
     "tharindujayasuriya": {
       "points": 19,
@@ -455,7 +467,7 @@
     },
     "NURALIII": {
       "points": 17,
-      "booster": 1.3
+      "booster": null
     },
     "Mc-ArboledaAxel": {
       "points": 16,
@@ -476,10 +488,6 @@
     "aavanisk": {
       "points": 16,
       "booster": null
-    },
-    "hameidi-moussa": {
-      "points": 16,
-      "booster": 1.2
     },
     "TheRuleBreaker122": {
       "points": 15,
@@ -520,6 +528,10 @@
     "Trapcodes": {
       "points": 12,
       "booster": null
+    },
+    "bananarama3000": {
+      "points": 12,
+      "booster": 1.6
     },
     "healLan": {
       "points": 11,
@@ -753,6 +765,10 @@
       "points": 3,
       "booster": null
     },
+    "jash_the_goat": {
+      "points": 3,
+      "booster": 1.1
+    },
     "borak-kopitiam": {
       "points": 2,
       "booster": null
@@ -865,8 +881,16 @@
       "points": 2,
       "booster": null
     },
-    "jash_the_goat": {
-      "points": 1,
+    "Chess_Storm007": {
+      "points": 2,
+      "booster": 1.3
+    },
+    "eloyoff34": {
+      "points": 2,
+      "booster": 1.2
+    },
+    "mikrobi": {
+      "points": 2,
       "booster": null
     },
     "JamesJB2017": {
@@ -930,6 +954,22 @@
       "booster": null
     },
     "thenoobie146": {
+      "points": 0,
+      "booster": null
+    },
+    "Tkachiev561": {
+      "points": 0,
+      "booster": null
+    },
+    "semaooporlabanda": {
+      "points": 0,
+      "booster": null
+    },
+    "Bianowski": {
+      "points": 0,
+      "booster": null
+    },
+    "RookySahib": {
       "points": 0,
       "booster": null
     }
