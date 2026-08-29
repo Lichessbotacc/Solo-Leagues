@@ -1,11 +1,11 @@
-1. @DarkOnCrack: 2502
-2. @Chess_Training_2021: 614
+1. @DarkOnCrack: 2502 (1.4x boost next arena)
+2. @Chess_Training_2021: 668 (2.0x boost next arena)
 3. @Alex-31: 611
 4. @Nuemop: 571
 5. @UnHolYDuO: 490
 6. @Helokid: 476
-7. @tomkruz88: 420 (1.9x boost next arena)
-8. @Conrad_Gagnon: 371
+7. @tomkruz88: 420
+8. @Conrad_Gagnon: 386 (1.7x boost next arena)
 9. @minipekka1: 335
 10. @VariantsMain: 334
 11. @Justinsenpai: 318
@@ -15,25 +15,25 @@
 15. @rj08: 225
 16. @VVIPVIBES: 214
 17. @manyathela2250: 210
-18. @Alcedo: 169 (1.4x boost next arena)
-19. @jet88: 153 (1.8x boost next arena)
-20. @Esen-Zerk: 148
-21. @ElBasmgy: 139
-22. @mike-bear: 132
-23. @zooz-Zerk: 128
-24. @artoftheblade: 127
-25. @phone-zerk: 123
-26. @HRVCHESSSTREAM: 123
-27. @Satranc599: 122
-28. @LucienTupin: 120
-29. @SchachBasti: 119
-30. @RumijaBarCG21: 118
-31. @just_chess12: 105
-32. @Konariq7: 105
-33. @Agamveer_007: 101
-34. @POPOIPOIPOI: 100
-35. @fin34601473braunpaul: 96
-36. @Nephili: 96 (2.0x boost next arena)
+18. @Nephili: 196 (1.9x boost next arena)
+19. @jet88: 192 (1.8x boost next arena)
+20. @Alcedo: 169
+21. @Esen-Zerk: 148
+22. @ElBasmgy: 139
+23. @mike-bear: 132
+24. @zooz-Zerk: 128
+25. @artoftheblade: 127
+26. @phone-zerk: 123
+27. @HRVCHESSSTREAM: 123
+28. @Satranc599: 122
+29. @LucienTupin: 120
+30. @SchachBasti: 119
+31. @RumijaBarCG21: 118
+32. @just_chess12: 105
+33. @Konariq7: 105
+34. @Agamveer_007: 101
+35. @POPOIPOIPOI: 100
+36. @fin34601473braunpaul: 96
 37. @Kurse-Aura1: 95
 38. @VTacademy: 91
 39. @Mahamaha14: 87
@@ -45,9 +45,9 @@
 45. @GeekingKing: 80
 46. @EEAguitarn1: 79
 47. @hmmmhmmmhmmm: 78
-48. @ET-1-7: 75
-49. @Artchessplay: 75
-50. @Janislav2000: 74
+48. @Janislav2000: 76 (1.6x boost next arena)
+49. @ET-1-7: 75
+50. @Artchessplay: 75
 51. @tunu2011: 73
 52. @FranceWinsWorldCup: 72
 53. @Ahmad_AFG: 72
@@ -86,7 +86,7 @@
 86. @BlitzWarlord: 31
 87. @asswolve: 30
 88. @KillingHeartattack: 30
-89. @hameidi-moussa: 30 (1.5x boost next arena)
+89. @hameidi-moussa: 30
 90. @schwarzerrabe: 28
 91. @Arjun-Saha6: 28
 92. @NEVER_ZERO: 28
