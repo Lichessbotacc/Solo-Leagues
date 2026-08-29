@@ -1,9 +1,9 @@
 {
-  "last_processed_tournament": "WzhzjIG7",
+  "last_processed_tournament": "aduua5rl",
   "players": {
     "stambul65": {
-      "points": 6254,
-      "booster": 2.0
+      "points": 6306,
+      "booster": 1.7
     },
     "DarkOnCrack": {
       "points": 2453,
@@ -14,8 +14,8 @@
       "booster": null
     },
     "Conrad_Gagnon": {
-      "points": 1010,
-      "booster": null
+      "points": 1033,
+      "booster": 1.6
     },
     "tunu2011": {
       "points": 934,
@@ -26,12 +26,12 @@
       "booster": null
     },
     "dadada112": {
-      "points": 696,
-      "booster": 1.5
+      "points": 720,
+      "booster": 1.3
     },
     "schwarzerrabe": {
-      "points": 658,
-      "booster": 1.3
+      "points": 663,
+      "booster": 1.1
     },
     "LOST_IN_FUTURE": {
       "points": 543,
@@ -42,8 +42,8 @@
       "booster": null
     },
     "manyathela2250": {
-      "points": 508,
-      "booster": 1.1
+      "points": 538,
+      "booster": 1.8
     },
     "agrzelak": {
       "points": 400,
@@ -62,8 +62,8 @@
       "booster": null
     },
     "ComeToBaba1": {
-      "points": 348,
-      "booster": null
+      "points": 354,
+      "booster": 1.2
     },
     "krishmar2016": {
       "points": 330,
@@ -85,6 +85,10 @@
       "points": 251,
       "booster": null
     },
+    "Scarfire": {
+      "points": 250,
+      "booster": 1.4
+    },
     "Juggrnaut": {
       "points": 246,
       "booster": null
@@ -101,13 +105,13 @@
       "points": 233,
       "booster": null
     },
-    "Scarfire": {
-      "points": 232,
-      "booster": null
-    },
     "HUB18": {
       "points": 228,
       "booster": null
+    },
+    "bestttttt": {
+      "points": 225,
+      "booster": 1.9
     },
     "xdxdboxjaja": {
       "points": 208,
@@ -125,10 +129,6 @@
       "points": 184,
       "booster": null
     },
-    "bestttttt": {
-      "points": 181,
-      "booster": 1.6
-    },
     "lAnzorKablahovl": {
       "points": 177,
       "booster": null
@@ -139,7 +139,7 @@
     },
     "Erickvis93": {
       "points": 171,
-      "booster": 1.7
+      "booster": null
     },
     "TheRuleBreaker122": {
       "points": 167,
@@ -233,6 +233,10 @@
       "points": 89,
       "booster": null
     },
+    "babybird1963": {
+      "points": 89,
+      "booster": 2.0
+    },
     "chessrocker2": {
       "points": 87,
       "booster": null
@@ -290,12 +294,12 @@
       "booster": null
     },
     "ElBasmgy": {
-      "points": 69,
+      "points": 71,
       "booster": null
     },
     "Nephili": {
       "points": 69,
-      "booster": 1.8
+      "booster": null
     },
     "Aatu65536": {
       "points": 68,
@@ -695,7 +699,7 @@
     },
     "chesslh": {
       "points": 26,
-      "booster": 1.4
+      "booster": null
     },
     "Turris66": {
       "points": 25,
@@ -706,10 +710,6 @@
       "booster": null
     },
     "TGBrain": {
-      "points": 25,
-      "booster": null
-    },
-    "babybird1963": {
       "points": 25,
       "booster": null
     },
@@ -772,6 +772,10 @@
     "milchvo": {
       "points": 22,
       "booster": null
+    },
+    "Koffa": {
+      "points": 22,
+      "booster": 1.5
     },
     "This-Is-Agamveer": {
       "points": 21,
@@ -905,6 +909,10 @@
       "points": 17,
       "booster": null
     },
+    "Rolistas": {
+      "points": 17,
+      "booster": null
+    },
     "BauernWeisheit": {
       "points": 16,
       "booster": null
@@ -939,7 +947,7 @@
     },
     "DarkOnWeakBot": {
       "points": 16,
-      "booster": 1.9
+      "booster": null
     },
     "ForeverInTranquility": {
       "points": 15,
@@ -954,10 +962,6 @@
       "booster": null
     },
     "Chonma": {
-      "points": 15,
-      "booster": null
-    },
-    "Rolistas": {
       "points": 15,
       "booster": null
     },
@@ -991,7 +995,7 @@
     },
     "Knightinthenight123": {
       "points": 14,
-      "booster": 1.2
+      "booster": null
     },
     "Senior_Donald": {
       "points": 13,
@@ -1890,6 +1894,14 @@
       "booster": null
     },
     "hiholo": {
+      "points": 2,
+      "booster": null
+    },
+    "caldillo": {
+      "points": 2,
+      "booster": null
+    },
+    "talsbrilliant1908": {
       "points": 2,
       "booster": null
     },
