@@ -1,13 +1,13 @@
 {
-  "last_processed_tournament": "LjqJ7Fic",
+  "last_processed_tournament": "LUQpW1rb",
   "players": {
     "stambul65": {
-      "points": 2143,
-      "booster": 2.0
+      "points": 2217,
+      "booster": 1.9
     },
     "Conrad_Gagnon": {
-      "points": 578,
-      "booster": null
+      "points": 593,
+      "booster": 1.7
     },
     "Mayangnabila": {
       "points": 395,
@@ -15,7 +15,7 @@
     },
     "DarkOnCrack": {
       "points": 217,
-      "booster": 1.7
+      "booster": 1.1
     },
     "xdxdboxjaja": {
       "points": 204,
@@ -30,8 +30,12 @@
       "booster": null
     },
     "cheetah6996": {
-      "points": 149,
-      "booster": 1.1
+      "points": 155,
+      "booster": 1.5
+    },
+    "Evgeny86": {
+      "points": 127,
+      "booster": 1.8
     },
     "Sanjaya_BKD": {
       "points": 125,
@@ -47,15 +51,15 @@
     },
     "Ozgur3838": {
       "points": 118,
-      "booster": 1.5
+      "booster": null
     },
     "Konariq7": {
       "points": 113,
       "booster": null
     },
     "Sinus314159": {
-      "points": 112,
-      "booster": null
+      "points": 113,
+      "booster": 1.2
     },
     "rickeyfeb15": {
       "points": 109,
@@ -65,12 +69,8 @@
       "points": 102,
       "booster": null
     },
-    "Evgeny86": {
-      "points": 95,
-      "booster": null
-    },
     "schwarzerrabe": {
-      "points": 85,
+      "points": 94,
       "booster": 1.6
     },
     "yonssw54269000": {
@@ -89,13 +89,13 @@
       "points": 64,
       "booster": null
     },
+    "Nephili": {
+      "points": 64,
+      "booster": 1.3
+    },
     "MEGA_KOT": {
       "points": 58,
-      "booster": 1.8
-    },
-    "Nephili": {
-      "points": 57,
-      "booster": 1.9
+      "booster": null
     },
     "babybird1963": {
       "points": 55,
@@ -108,6 +108,10 @@
     "urko66": {
       "points": 46,
       "booster": null
+    },
+    "manyathela2250": {
+      "points": 45,
+      "booster": 2.0
     },
     "DAW8718": {
       "points": 44,
@@ -293,6 +297,10 @@
       "points": 11,
       "booster": null
     },
+    "bestttttt": {
+      "points": 11,
+      "booster": 1.4
+    },
     "PawlakJan": {
       "points": 10,
       "booster": null
@@ -378,10 +386,6 @@
       "booster": null
     },
     "Gloria1959": {
-      "points": 6,
-      "booster": null
-    },
-    "manyathela2250": {
       "points": 6,
       "booster": null
     },
@@ -500,10 +504,6 @@
     "omar2240": {
       "points": 4,
       "booster": null
-    },
-    "bestttttt": {
-      "points": 4,
-      "booster": 1.4
     },
     "OneOfTheWorldsBest": {
       "points": 3,
@@ -907,13 +907,21 @@
     },
     "JancoGj": {
       "points": 0,
-      "booster": 1.3
+      "booster": null
     },
     "KingOfChess6111": {
       "points": 0,
-      "booster": 1.2
+      "booster": null
     },
     "Ayanhota": {
+      "points": 0,
+      "booster": null
+    },
+    "Ugadi31926": {
+      "points": 0,
+      "booster": null
+    },
+    "RookySahib": {
       "points": 0,
       "booster": null
     }
