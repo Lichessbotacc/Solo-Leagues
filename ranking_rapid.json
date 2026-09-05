@@ -1,13 +1,13 @@
 {
-  "last_processed_tournament": "xWBRd1Yv",
+  "last_processed_tournament": "IWPMQPf0",
   "players": {
     "stambul65": {
       "points": 2222,
-      "booster": 1.6
+      "booster": null
     },
     "Conrad_Gagnon": {
-      "points": 593,
-      "booster": null
+      "points": 595,
+      "booster": 2.0
     },
     "Mayangnabila": {
       "points": 395,
@@ -15,7 +15,7 @@
     },
     "DarkOnCrack": {
       "points": 217,
-      "booster": 1.3
+      "booster": 1.7
     },
     "xdxdboxjaja": {
       "points": 204,
@@ -31,7 +31,7 @@
     },
     "cheetah6996": {
       "points": 158,
-      "booster": 1.4
+      "booster": null
     },
     "Evgeny86": {
       "points": 127,
@@ -71,7 +71,7 @@
     },
     "schwarzerrabe": {
       "points": 100,
-      "booster": 1.8
+      "booster": 1.2
     },
     "yonssw54269000": {
       "points": 81,
@@ -87,7 +87,7 @@
     },
     "Nephili": {
       "points": 67,
-      "booster": 1.7
+      "booster": 1.9
     },
     "matewasfate": {
       "points": 64,
@@ -131,7 +131,7 @@
     },
     "Knightinthenight123": {
       "points": 38,
-      "booster": 1.5
+      "booster": null
     },
     "Dev_of_YouTube": {
       "points": 32,
@@ -215,7 +215,7 @@
     },
     "sendwallet": {
       "points": 19,
-      "booster": 2.0
+      "booster": null
     },
     "thedecentchescuber": {
       "points": 18,
@@ -303,7 +303,7 @@
     },
     "bestttttt": {
       "points": 11,
-      "booster": null
+      "booster": 1.5
     },
     "PawlakJan": {
       "points": 10,
@@ -455,7 +455,7 @@
     },
     "Ficheal": {
       "points": 4,
-      "booster": 1.1
+      "booster": null
     },
     "dragongrey": {
       "points": 4,
@@ -511,7 +511,7 @@
     },
     "Ammar-91": {
       "points": 4,
-      "booster": 1.9
+      "booster": null
     },
     "OneOfTheWorldsBest": {
       "points": 3,
@@ -759,7 +759,7 @@
     },
     "iksannur": {
       "points": 0,
-      "booster": null
+      "booster": 1.4
     },
     "harma115": {
       "points": 0,
@@ -935,11 +935,27 @@
     },
     "Indian_tal6767": {
       "points": 0,
-      "booster": 1.2
+      "booster": null
     },
     "Wizarvich": {
       "points": 0,
       "booster": null
+    },
+    "TheBeastClawsFounder": {
+      "points": 0,
+      "booster": 1.8
+    },
+    "Senadamidzic": {
+      "points": 0,
+      "booster": 1.6
+    },
+    "ArchieMiller2015": {
+      "points": 0,
+      "booster": 1.3
+    },
+    "Nehanthg": {
+      "points": 0,
+      "booster": 1.1
     }
   },
   "processed_tournaments": [
