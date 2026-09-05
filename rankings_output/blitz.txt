@@ -1,37 +1,37 @@
-1. @stambul65: 6370 (2.0x boost next arena)
+1. @stambul65: 6424 (2.0x boost next arena)
 2. @DarkOnCrack: 2453
 3. @tomkruz88: 1235
-4. @Conrad_Gagnon: 1033
+4. @Conrad_Gagnon: 1043 (1.6x boost next arena)
 5. @tunu2011: 934
 6. @kubak5: 793
-7. @dadada112: 743 (1.7x boost next arena)
-8. @schwarzerrabe: 667 (1.2x boost next arena)
-9. @manyathela2250: 597 (1.9x boost next arena)
+7. @dadada112: 743
+8. @schwarzerrabe: 670 (1.3x boost next arena)
+9. @manyathela2250: 597
 10. @LOST_IN_FUTURE: 543
 11. @mang0sunr1s3: 540
 12. @agrzelak: 400
 13. @Pejton_bt: 398
-14. @Konariq7: 364
+14. @Konariq7: 366 (1.1x boost next arena)
 15. @Zxycocodrile: 361
 16. @ComeToBaba1: 354
 17. @krishmar2016: 330
 18. @WideSpookySpy: 325
 19. @Ochesage: 315
-20. @Scarfire: 278 (1.8x boost next arena)
+20. @Scarfire: 278
 21. @Livoncik: 265
 22. @Otelulvesel: 251
 23. @Juggrnaut: 246
 24. @sheun: 244
 25. @Paul_Rieger: 237
-26. @bestttttt: 234 (1.4x boost next arena)
+26. @bestttttt: 234
 27. @german11: 233
 28. @HUB18: 228
 29. @xdxdboxjaja: 208
 30. @Pro_OTB: 204
-31. @DRUHA12: 190
-32. @Checkmate_Drifters: 184
-33. @lAnzorKablahovl: 177
-34. @JancoGj: 173
+31. @JancoGj: 192 (1.8x boost next arena)
+32. @DRUHA12: 190
+33. @Checkmate_Drifters: 184
+34. @lAnzorKablahovl: 177
 35. @Erickvis93: 171
 36. @TheRuleBreaker122: 167
 37. @cheesynoob: 166
@@ -57,22 +57,22 @@
 57. @dark_bird999: 91
 58. @test_acc123: 89
 59. @babybird1963: 89
-60. @chessrocker2: 87
-61. @MuhammadElNady55555: 86
-62. @CheesekinG7273: 85
-63. @Player9128: 83
-64. @awoken_2021: 83
-65. @xxxEugenxxx: 82
-66. @healLan: 81
-67. @e4_und_ich_colabier: 80
-68. @bbk10s: 79
-69. @Justinsenpai: 78
-70. @seniorsw: 77
-71. @makskoval: 76
-72. @Andi0412: 76
-73. @rj08: 71
-74. @ElBasmgy: 71
-75. @Nephili: 69
+60. @Nephili: 88 (1.9x boost next arena)
+61. @chessrocker2: 87
+62. @MuhammadElNady55555: 86
+63. @CheesekinG7273: 85
+64. @Player9128: 83
+65. @awoken_2021: 83
+66. @xxxEugenxxx: 82
+67. @healLan: 81
+68. @e4_und_ich_colabier: 80
+69. @bbk10s: 79
+70. @Justinsenpai: 78
+71. @seniorsw: 77
+72. @makskoval: 76
+73. @Andi0412: 76
+74. @rj08: 71
+75. @ElBasmgy: 71
 76. @Aatu65536: 68
 77. @Lena8892: 65
 78. @Fischer2895: 64
@@ -90,7 +90,7 @@
 90. @CHESSBEAST2010: 54
 91. @Ozgur3838: 54
 92. @chessgambit345: 54
-93. @DennisBee: 53 (1.6x boost next arena)
+93. @DennisBee: 53
 94. @Fingolfin69: 51
 95. @Sumathee: 51
 96. @Ravi_BM: 51
