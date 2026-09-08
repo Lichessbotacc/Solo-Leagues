@@ -1,25 +1,25 @@
-1. @stambul65: 2222
-2. @Conrad_Gagnon: 595 (2.0x boost next arena)
+1. @stambul65: 2228 (1.2x boost next arena)
+2. @Conrad_Gagnon: 619 (1.6x boost next arena)
 3. @Mayangnabila: 395
-4. @DarkOnCrack: 217 (1.7x boost next arena)
+4. @DarkOnCrack: 264 (2.0x boost next arena)
 5. @xdxdboxjaja: 204
 6. @kubak5: 162
 7. @tomkruz88: 162
 8. @cheetah6996: 158
-9. @Evgeny86: 127
-10. @Sanjaya_BKD: 125
-11. @Capi48: 121
-12. @ComeToBaba1: 120
-13. @Ozgur3838: 118
+9. @Ozgur3838: 128 (1.4x boost next arena)
+10. @Evgeny86: 127
+11. @Sanjaya_BKD: 125
+12. @Capi48: 121
+13. @ComeToBaba1: 120
 14. @Konariq7: 113
 15. @Sinus314159: 113
 16. @rickeyfeb15: 109
-17. @nopainogain: 102
-18. @schwarzerrabe: 100 (1.2x boost next arena)
+17. @schwarzerrabe: 104
+18. @nopainogain: 102
 19. @yonssw54269000: 81
 20. @Ochesage: 75
 21. @DarkOnWeakBot: 72
-22. @Nephili: 67 (1.9x boost next arena)
+22. @Nephili: 67
 23. @matewasfate: 64
 24. @MEGA_KOT: 58
 25. @babybird1963: 55
@@ -28,9 +28,9 @@
 28. @manyathela2250: 45
 29. @DAW8718: 44
 30. @german11: 42
-31. @Slightly_Under_2800: 40
-32. @okoh11122233: 39
-33. @Knightinthenight123: 38
+31. @Knightinthenight123: 42
+32. @Slightly_Under_2800: 40
+33. @okoh11122233: 39
 34. @Dev_of_YouTube: 32
 35. @opg_huda: 30
 36. @hameidi-moussa: 30
@@ -38,63 +38,63 @@
 38. @TvojaLaska: 28
 39. @Kartomil2014: 25
 40. @farwan55: 24
-41. @TGBrain: 23
-42. @juancool: 22
-43. @ispitanik: 22
-44. @Dede_Suriyana: 21
-45. @cheesynoob: 20
-46. @chessgambit345: 20
-47. @Satranc599: 19
-48. @TheRuleBreaker122: 19
-49. @Dede321: 19
-50. @GeekingKing: 19
-51. @I_M123: 19
-52. @souri1420: 19
-53. @capapreta999: 19
-54. @sendwallet: 19
-55. @thedecentchescuber: 18
-56. @booktrunk: 18
-57. @O99_KTLC: 17
-58. @icardi209: 17
-59. @cocoro2: 16
-60. @Mikijon: 16
-61. @krishmar2016: 14
-62. @Bleak_Mind_Emptiness: 14
-63. @yongzhengwang: 13
-64. @Pejton_bt: 13
-65. @Goku_black419: 13
-66. @xszxy: 13
-67. @TGY2026: 12
-68. @souheel_twaish: 12
-69. @Bionic-Alpha: 12
-70. @crazy_guy12: 12
-71. @Erickvis93: 12
-72. @timothyemmanuel: 11
-73. @sheun: 11
-74. @chessrocker2: 11
-75. @UnHolYDuO: 11
-76. @bestttttt: 11 (1.5x boost next arena)
-77. @PawlakJan: 10
-78. @Justinsenpai: 10
-79. @just_chess12: 9
-80. @caldillo: 9
-81. @BelitaMoyo: 9
-82. @shailesh777: 8
-83. @healLan: 8
-84. @yonis1111: 8
-85. @Purushabhinav: 8
-86. @jonachess2015: 8
-87. @Jadonthomas: 8
-88. @ZoTsihoarana: 7
-89. @bozkurtca-1: 7
-90. @SkysparkS: 7
-91. @LAFLAUTADORADA: 6
-92. @emiliocba: 6
-93. @Snoopy99: 6
-94. @stelios_nikolaidis: 6
-95. @Antonio_1107: 6
-96. @GRLU_EANB: 6
-97. @chesstricksandtraps: 6
-98. @Gloria1959: 6
-99. @Momo-50: 6
-100. @basketball111: 6
+41. @deadman3030: 24 (1.9x boost next arena)
+42. @TGBrain: 23
+43. @juancool: 22
+44. @ispitanik: 22
+45. @Dede_Suriyana: 21
+46. @bestttttt: 21 (1.3x boost next arena)
+47. @cheesynoob: 20
+48. @chessgambit345: 20
+49. @Satranc599: 19
+50. @TheRuleBreaker122: 19
+51. @Dede321: 19
+52. @GeekingKing: 19
+53. @I_M123: 19
+54. @souri1420: 19
+55. @capapreta999: 19
+56. @sendwallet: 19
+57. @thedecentchescuber: 18
+58. @booktrunk: 18
+59. @O99_KTLC: 17
+60. @icardi209: 17
+61. @cocoro2: 16
+62. @Mikijon: 16
+63. @krishmar2016: 14
+64. @Bleak_Mind_Emptiness: 14
+65. @yongzhengwang: 13
+66. @Pejton_bt: 13
+67. @Goku_black419: 13
+68. @xszxy: 13
+69. @Yeab_Mengistu: 13 (1.8x boost next arena)
+70. @TGY2026: 12
+71. @souheel_twaish: 12
+72. @Bionic-Alpha: 12
+73. @crazy_guy12: 12
+74. @Erickvis93: 12
+75. @Mthokozisi_Magagula: 12 (1.7x boost next arena)
+76. @timothyemmanuel: 11
+77. @sheun: 11
+78. @chessrocker2: 11
+79. @UnHolYDuO: 11
+80. @PawlakJan: 10
+81. @Justinsenpai: 10
+82. @dxnicsi: 10 (1.5x boost next arena)
+83. @just_chess12: 9
+84. @caldillo: 9
+85. @BelitaMoyo: 9
+86. @shailesh777: 8
+87. @healLan: 8
+88. @yonis1111: 8
+89. @Purushabhinav: 8
+90. @jonachess2015: 8
+91. @Jadonthomas: 8
+92. @ZoTsihoarana: 7
+93. @bozkurtca-1: 7
+94. @SkysparkS: 7
+95. @LAFLAUTADORADA: 6
+96. @emiliocba: 6
+97. @Snoopy99: 6
+98. @stelios_nikolaidis: 6
+99. @Antonio_1107: 6
+100. @GRLU_EANB: 6
