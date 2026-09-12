@@ -1,31 +1,31 @@
 {
-  "last_processed_tournament": "30gEFOWk",
+  "last_processed_tournament": "0pZusTXs",
   "players": {
     "stambul65": {
-      "points": 2228,
-      "booster": 1.2
+      "points": 2241,
+      "booster": 1.6
     },
     "Conrad_Gagnon": {
       "points": 619,
-      "booster": 1.6
+      "booster": null
     },
     "Mayangnabila": {
       "points": 395,
       "booster": null
     },
     "DarkOnCrack": {
-      "points": 264,
-      "booster": 2.0
+      "points": 286,
+      "booster": 1.7
     },
     "xdxdboxjaja": {
-      "points": 204,
-      "booster": null
-    },
-    "kubak5": {
-      "points": 162,
-      "booster": null
+      "points": 208,
+      "booster": 1.1
     },
     "tomkruz88": {
+      "points": 168,
+      "booster": 1.2
+    },
+    "kubak5": {
       "points": 162,
       "booster": null
     },
@@ -35,11 +35,15 @@
     },
     "Ozgur3838": {
       "points": 128,
-      "booster": 1.4
+      "booster": null
     },
     "Evgeny86": {
       "points": 127,
       "booster": null
+    },
+    "Sinus314159": {
+      "points": 127,
+      "booster": 1.8
     },
     "Sanjaya_BKD": {
       "points": 125,
@@ -57,10 +61,6 @@
       "points": 113,
       "booster": null
     },
-    "Sinus314159": {
-      "points": 113,
-      "booster": null
-    },
     "rickeyfeb15": {
       "points": 109,
       "booster": null
@@ -73,20 +73,20 @@
       "points": 102,
       "booster": null
     },
+    "Nephili": {
+      "points": 98,
+      "booster": 2.0
+    },
     "yonssw54269000": {
       "points": 81,
       "booster": null
     },
+    "DarkOnWeakBot": {
+      "points": 80,
+      "booster": 1.4
+    },
     "Ochesage": {
       "points": 75,
-      "booster": null
-    },
-    "DarkOnWeakBot": {
-      "points": 72,
-      "booster": null
-    },
-    "Nephili": {
-      "points": 67,
       "booster": null
     },
     "matewasfate": {
@@ -133,6 +133,10 @@
       "points": 39,
       "booster": null
     },
+    "Bleak_Mind_Emptiness": {
+      "points": 34,
+      "booster": 1.9
+    },
     "Dev_of_YouTube": {
       "points": 32,
       "booster": null
@@ -163,7 +167,7 @@
     },
     "deadman3030": {
       "points": 24,
-      "booster": 1.9
+      "booster": null
     },
     "TGBrain": {
       "points": 23,
@@ -183,7 +187,7 @@
     },
     "bestttttt": {
       "points": 21,
-      "booster": 1.3
+      "booster": null
     },
     "cheesynoob": {
       "points": 20,
@@ -253,10 +257,6 @@
       "points": 14,
       "booster": null
     },
-    "Bleak_Mind_Emptiness": {
-      "points": 14,
-      "booster": null
-    },
     "yongzhengwang": {
       "points": 13,
       "booster": null
@@ -275,7 +275,7 @@
     },
     "Yeab_Mengistu": {
       "points": 13,
-      "booster": 1.8
+      "booster": null
     },
     "TGY2026": {
       "points": 12,
@@ -299,7 +299,7 @@
     },
     "Mthokozisi_Magagula": {
       "points": 12,
-      "booster": 1.7
+      "booster": null
     },
     "timothyemmanuel": {
       "points": 11,
@@ -327,7 +327,7 @@
     },
     "dxnicsi": {
       "points": 10,
-      "booster": 1.5
+      "booster": null
     },
     "just_chess12": {
       "points": 9,
@@ -340,6 +340,10 @@
     "BelitaMoyo": {
       "points": 9,
       "booster": null
+    },
+    "StefanMasch": {
+      "points": 9,
+      "booster": 1.5
     },
     "shailesh777": {
       "points": 8,
@@ -431,7 +435,11 @@
     },
     "mfarraj": {
       "points": 6,
-      "booster": 1.1
+      "booster": null
+    },
+    "FranciszekSmykla2016": {
+      "points": 6,
+      "booster": 1.3
     },
     "MysteryPhantom7": {
       "points": 5,
@@ -537,6 +545,10 @@
       "points": 4,
       "booster": null
     },
+    "Dwij-2018": {
+      "points": 4,
+      "booster": null
+    },
     "OneOfTheWorldsBest": {
       "points": 3,
       "booster": null
@@ -618,6 +630,18 @@
       "booster": null
     },
     "lenaya": {
+      "points": 3,
+      "booster": null
+    },
+    "BlueNinjago": {
+      "points": 3,
+      "booster": null
+    },
+    "Thabang-Nate": {
+      "points": 3,
+      "booster": null
+    },
+    "Jozingboy123": {
       "points": 3,
       "booster": null
     },
@@ -718,6 +742,10 @@
       "booster": null
     },
     "Nandos001": {
+      "points": 2,
+      "booster": null
+    },
+    "affections": {
       "points": 2,
       "booster": null
     },
@@ -985,15 +1013,23 @@
       "points": 0,
       "booster": null
     },
-    "BlueNinjago": {
-      "points": 0,
-      "booster": null
-    },
     "zabawele": {
       "points": 0,
       "booster": null
     },
     "Pushkal2418": {
+      "points": 0,
+      "booster": null
+    },
+    "LAMB0RGH1N1_GALLARD0": {
+      "points": 0,
+      "booster": null
+    },
+    "harshak12": {
+      "points": 0,
+      "booster": null
+    },
+    "THE_BEST_001": {
       "points": 0,
       "booster": null
     }
