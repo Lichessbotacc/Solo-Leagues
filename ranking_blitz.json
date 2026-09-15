@@ -1,17 +1,17 @@
 {
-  "last_processed_tournament": "uWmV4sEe",
+  "last_processed_tournament": "J8KX7Tqy",
   "players": {
     "stambul65": {
-      "points": 6616,
+      "points": 6648,
       "booster": 2.0
     },
     "DarkOnCrack": {
       "points": 2531,
-      "booster": 1.7
+      "booster": 1.3
     },
     "tomkruz88": {
       "points": 1259,
-      "booster": 1.4
+      "booster": null
     },
     "Conrad_Gagnon": {
       "points": 1043,
@@ -31,11 +31,11 @@
     },
     "schwarzerrabe": {
       "points": 708,
-      "booster": 1.3
+      "booster": null
     },
     "manyathela2250": {
       "points": 681,
-      "booster": 1.9
+      "booster": null
     },
     "LOST_IN_FUTURE": {
       "points": 543,
@@ -75,7 +75,7 @@
     },
     "Scarfire": {
       "points": 322,
-      "booster": 1.8
+      "booster": 1.2
     },
     "Ochesage": {
       "points": 315,
@@ -117,12 +117,12 @@
       "points": 208,
       "booster": null
     },
+    "JancoGj": {
+      "points": 205,
+      "booster": 1.9
+    },
     "Pro_OTB": {
       "points": 204,
-      "booster": null
-    },
-    "JancoGj": {
-      "points": 196,
       "booster": null
     },
     "DRUHA12": {
@@ -147,7 +147,7 @@
     },
     "babybird1963": {
       "points": 167,
-      "booster": 1.2
+      "booster": null
     },
     "cheesynoob": {
       "points": 166,
@@ -211,7 +211,7 @@
     },
     "Nephili": {
       "points": 102,
-      "booster": 1.1
+      "booster": null
     },
     "VTacademy": {
       "points": 100,
@@ -251,7 +251,7 @@
     },
     "Bleak_Mind_Emptiness": {
       "points": 87,
-      "booster": 1.5
+      "booster": null
     },
     "CheesekinG7273": {
       "points": 85,
@@ -643,7 +643,7 @@
     },
     "FranciszekSmykla2016": {
       "points": 30,
-      "booster": 1.6
+      "booster": null
     },
     "koreshok73": {
       "points": 29,
@@ -723,7 +723,7 @@
     },
     "TGBrain": {
       "points": 25,
-      "booster": null
+      "booster": 1.1
     },
     "THE_BEST_001": {
       "points": 24,
@@ -736,6 +736,10 @@
     "LEBOHANG-MPHELA": {
       "points": 24,
       "booster": null
+    },
+    "rbrtshqsp": {
+      "points": 24,
+      "booster": 1.8
     },
     "champppe": {
       "points": 23,
@@ -829,9 +833,9 @@
       "points": 20,
       "booster": null
     },
-    "rbrtshqsp": {
+    "Knightinthenight123": {
       "points": 20,
-      "booster": null
+      "booster": 1.5
     },
     "TheoSpieler": {
       "points": 19,
@@ -874,10 +878,6 @@
       "booster": null
     },
     "Senadamidzic": {
-      "points": 18,
-      "booster": null
-    },
-    "Knightinthenight123": {
       "points": 18,
       "booster": null
     },
@@ -1013,6 +1013,10 @@
       "points": 14,
       "booster": null
     },
+    "mfarraj": {
+      "points": 14,
+      "booster": 1.4
+    },
     "Senior_Donald": {
       "points": 13,
       "booster": null
@@ -1118,10 +1122,6 @@
       "booster": null
     },
     "madchild43": {
-      "points": 12,
-      "booster": null
-    },
-    "mfarraj": {
       "points": 12,
       "booster": null
     },
@@ -1453,6 +1453,10 @@
       "points": 6,
       "booster": null
     },
+    "caldillo": {
+      "points": 6,
+      "booster": 1.7
+    },
     "BOTmraquari41": {
       "points": 5,
       "booster": null
@@ -1745,10 +1749,6 @@
       "points": 3,
       "booster": null
     },
-    "caldillo": {
-      "points": 3,
-      "booster": null
-    },
     "szefunio1": {
       "points": 2,
       "booster": null
@@ -1969,6 +1969,10 @@
       "points": 2,
       "booster": null
     },
+    "JorgeFG77": {
+      "points": 2,
+      "booster": 1.6
+    },
     "ISHAN1603": {
       "points": 1,
       "booster": null
@@ -2170,6 +2174,10 @@
       "booster": null
     },
     "amazonaschess_2012": {
+      "points": 0,
+      "booster": null
+    },
+    "Bachira-8": {
       "points": 0,
       "booster": null
     }
