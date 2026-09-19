@@ -1,31 +1,31 @@
-1. @stambul65: 2284 (1.9x boost next arena)
-2. @Conrad_Gagnon: 622
+1. @stambul65: 2284
+2. @Conrad_Gagnon: 636 (1.6x boost next arena)
 3. @Mayangnabila: 395
-4. @DarkOnCrack: 304 (1.6x boost next arena)
-5. @xdxdboxjaja: 208
-6. @Sinus314159: 179 (2.0x boost next arena)
-7. @tomkruz88: 168
-8. @kubak5: 162
-9. @cheetah6996: 158
-10. @Nephili: 140 (1.7x boost next arena)
-11. @Ozgur3838: 133 (1.3x boost next arena)
+4. @DarkOnCrack: 310 (1.1x boost next arena)
+5. @Nephili: 245 (2.0x boost next arena)
+6. @xdxdboxjaja: 208
+7. @tomkruz88: 200 (1.9x boost next arena)
+8. @Sinus314159: 179
+9. @kubak5: 162
+10. @cheetah6996: 158
+11. @Ozgur3838: 148 (1.5x boost next arena)
 12. @Evgeny86: 127
 13. @Sanjaya_BKD: 125
 14. @Capi48: 121
 15. @ComeToBaba1: 120
 16. @Konariq7: 113
 17. @rickeyfeb15: 109
-18. @schwarzerrabe: 104
+18. @schwarzerrabe: 106
 19. @nopainogain: 102
 20. @yonssw54269000: 81
 21. @DarkOnWeakBot: 80
-22. @babybird1963: 76 (1.8x boost next arena)
+22. @babybird1963: 76
 23. @Ochesage: 75
 24. @matewasfate: 64
-25. @MEGA_KOT: 58
-26. @mang0sunr1s3: 50
-27. @urko66: 46
-28. @manyathela2250: 45
+25. @manyathela2250: 62 (1.7x boost next arena)
+26. @MEGA_KOT: 58
+27. @mang0sunr1s3: 50
+28. @urko66: 46
 29. @DAW8718: 44
 30. @german11: 42
 31. @Knightinthenight123: 42
@@ -57,44 +57,44 @@
 57. @sendwallet: 19
 58. @thedecentchescuber: 18
 59. @booktrunk: 18
-60. @O99_KTLC: 17
-61. @icardi209: 17
-62. @cocoro2: 16
-63. @Mikijon: 16
-64. @StefanMasch: 16 (1.5x boost next arena)
-65. @krishmar2016: 14
-66. @yongzhengwang: 13
-67. @Pejton_bt: 13
-68. @Goku_black419: 13
-69. @xszxy: 13
-70. @Yeab_Mengistu: 13
-71. @TGY2026: 12
-72. @souheel_twaish: 12
-73. @Bionic-Alpha: 12
-74. @crazy_guy12: 12
-75. @Erickvis93: 12
-76. @Mthokozisi_Magagula: 12
-77. @timothyemmanuel: 11
-78. @sheun: 11
-79. @chessrocker2: 11
-80. @UnHolYDuO: 11
-81. @mfarraj: 11 (1.4x boost next arena)
-82. @PawlakJan: 10
-83. @Justinsenpai: 10
-84. @dxnicsi: 10
-85. @just_chess12: 9
-86. @caldillo: 9
-87. @BelitaMoyo: 9
-88. @shailesh777: 8
-89. @healLan: 8
-90. @yonis1111: 8
-91. @Purushabhinav: 8
-92. @jonachess2015: 8
-93. @Jadonthomas: 8
-94. @Momo-50: 8
-95. @Dwij-2018: 8 (1.1x boost next arena)
-96. @ZoTsihoarana: 7
-97. @bozkurtca-1: 7
-98. @SkysparkS: 7
-99. @LAFLAUTADORADA: 6
-100. @emiliocba: 6
+60. @Senadamidzic: 18 (1.8x boost next arena)
+61. @O99_KTLC: 17
+62. @icardi209: 17
+63. @cocoro2: 16
+64. @Mikijon: 16
+65. @StefanMasch: 16
+66. @krishmar2016: 14
+67. @yongzhengwang: 13
+68. @Pejton_bt: 13
+69. @Goku_black419: 13
+70. @xszxy: 13
+71. @Yeab_Mengistu: 13
+72. @jonachess2015: 13 (1.2x boost next arena)
+73. @TGY2026: 12
+74. @souheel_twaish: 12
+75. @Bionic-Alpha: 12
+76. @crazy_guy12: 12
+77. @Erickvis93: 12
+78. @Mthokozisi_Magagula: 12
+79. @timothyemmanuel: 11
+80. @sheun: 11
+81. @chessrocker2: 11
+82. @UnHolYDuO: 11
+83. @mfarraj: 11
+84. @PawlakJan: 10
+85. @Justinsenpai: 10
+86. @dxnicsi: 10
+87. @just_chess12: 9
+88. @caldillo: 9
+89. @BelitaMoyo: 9
+90. @shailesh777: 8
+91. @healLan: 8
+92. @yonis1111: 8
+93. @Purushabhinav: 8
+94. @Jadonthomas: 8
+95. @Momo-50: 8
+96. @Dwij-2018: 8
+97. @ZoTsihoarana: 7
+98. @bozkurtca-1: 7
+99. @SkysparkS: 7
+100. @Foxyfalls: 7 (1.4x boost next arena)
