@@ -1,33 +1,33 @@
-1. @stambul65: 6648 (2.0x boost next arena)
-2. @DarkOnCrack: 2531 (1.3x boost next arena)
-3. @tomkruz88: 1259
-4. @Conrad_Gagnon: 1043
+1. @stambul65: 6744 (1.9x boost next arena)
+2. @DarkOnCrack: 2531
+3. @tomkruz88: 1294 (1.7x boost next arena)
+4. @Conrad_Gagnon: 1064 (1.5x boost next arena)
 5. @tunu2011: 934
-6. @kubak5: 793
-7. @dadada112: 777
-8. @schwarzerrabe: 708
-9. @manyathela2250: 681
+6. @kubak5: 829 (1.8x boost next arena)
+7. @dadada112: 789 (1.1x boost next arena)
+8. @manyathela2250: 740 (2.0x boost next arena)
+9. @schwarzerrabe: 719
 10. @LOST_IN_FUTURE: 543
 11. @mang0sunr1s3: 540
 12. @agrzelak: 400
 13. @Pejton_bt: 398
 14. @Konariq7: 368
-15. @Zxycocodrile: 361
-16. @ComeToBaba1: 354
-17. @krishmar2016: 330
-18. @WideSpookySpy: 325
-19. @Scarfire: 322 (1.2x boost next arena)
+15. @ComeToBaba1: 367 (1.2x boost next arena)
+16. @Zxycocodrile: 361
+17. @Scarfire: 338 (1.3x boost next arena)
+18. @krishmar2016: 330
+19. @WideSpookySpy: 325
 20. @Ochesage: 315
-21. @bestttttt: 274
+21. @bestttttt: 307 (1.6x boost next arena)
 22. @Livoncik: 265
 23. @Otelulvesel: 251
-24. @Juggrnaut: 246
-25. @german11: 245
+24. @german11: 247
+25. @Juggrnaut: 246
 26. @sheun: 244
 27. @Paul_Rieger: 237
 28. @HUB18: 228
 29. @xdxdboxjaja: 208
-30. @JancoGj: 205 (1.9x boost next arena)
+30. @JancoGj: 205
 31. @Pro_OTB: 204
 32. @DRUHA12: 190
 33. @Checkmate_Drifters: 184
@@ -45,10 +45,10 @@
 45. @ispitanik: 136
 46. @Dinoweek: 131
 47. @JOMJR: 123
-48. @hameidi-moussa: 120
-49. @Pavel15A: 111
-50. @matewasfate: 107
-51. @test_acc123: 105
+48. @test_acc123: 121 (1.4x boost next arena)
+49. @hameidi-moussa: 120
+50. @Pavel15A: 111
+51. @matewasfate: 107
 52. @Gyusudhdh_zerk: 102
 53. @Nephili: 102
 54. @VTacademy: 100
@@ -62,9 +62,9 @@
 62. @chessrocker2: 87
 63. @Bleak_Mind_Emptiness: 87
 64. @CheesekinG7273: 85
-65. @Player9128: 83
-66. @awoken_2021: 83
-67. @xxxEugenxxx: 82
+65. @xxxEugenxxx: 84
+66. @Player9128: 83
+67. @awoken_2021: 83
 68. @healLan: 81
 69. @e4_und_ich_colabier: 80
 70. @bbk10s: 79
