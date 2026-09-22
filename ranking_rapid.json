@@ -1,5 +1,5 @@
 {
-  "last_processed_tournament": "Vuw24PZI",
+  "last_processed_tournament": "BsEh45SD",
   "players": {
     "stambul65": {
       "points": 2284,
@@ -7,27 +7,27 @@
     },
     "Conrad_Gagnon": {
       "points": 636,
-      "booster": 1.6
+      "booster": null
     },
     "Mayangnabila": {
       "points": 395,
       "booster": null
     },
     "DarkOnCrack": {
-      "points": 310,
-      "booster": 1.1
+      "points": 317,
+      "booster": 1.7
     },
     "Nephili": {
-      "points": 245,
+      "points": 305,
       "booster": 2.0
+    },
+    "tomkruz88": {
+      "points": 245,
+      "booster": 1.9
     },
     "xdxdboxjaja": {
       "points": 208,
       "booster": null
-    },
-    "tomkruz88": {
-      "points": 200,
-      "booster": 1.9
     },
     "Sinus314159": {
       "points": 179,
@@ -43,7 +43,7 @@
     },
     "Ozgur3838": {
       "points": 148,
-      "booster": 1.5
+      "booster": null
     },
     "Evgeny86": {
       "points": 127,
@@ -70,19 +70,19 @@
       "booster": null
     },
     "schwarzerrabe": {
-      "points": 106,
+      "points": 108,
       "booster": null
     },
     "nopainogain": {
       "points": 102,
       "booster": null
     },
+    "DarkOnWeakBot": {
+      "points": 86,
+      "booster": 1.6
+    },
     "yonssw54269000": {
       "points": 81,
-      "booster": null
-    },
-    "DarkOnWeakBot": {
-      "points": 80,
       "booster": null
     },
     "babybird1963": {
@@ -99,7 +99,7 @@
     },
     "manyathela2250": {
       "points": 62,
-      "booster": 1.7
+      "booster": null
     },
     "MEGA_KOT": {
       "points": 58,
@@ -117,16 +117,16 @@
       "points": 44,
       "booster": null
     },
+    "Slightly_Under_2800": {
+      "points": 43,
+      "booster": 1.3
+    },
     "german11": {
       "points": 42,
       "booster": null
     },
     "Knightinthenight123": {
       "points": 42,
-      "booster": null
-    },
-    "Slightly_Under_2800": {
-      "points": 40,
       "booster": null
     },
     "okoh11122233": {
@@ -239,7 +239,11 @@
     },
     "Senadamidzic": {
       "points": 18,
-      "booster": 1.8
+      "booster": null
+    },
+    "StefanMasch": {
+      "points": 18,
+      "booster": null
     },
     "O99_KTLC": {
       "points": 17,
@@ -257,13 +261,21 @@
       "points": 16,
       "booster": null
     },
-    "StefanMasch": {
+    "jonachess2015": {
       "points": 16,
-      "booster": null
+      "booster": 1.2
+    },
+    "mfarraj": {
+      "points": 15,
+      "booster": 1.4
     },
     "krishmar2016": {
       "points": 14,
       "booster": null
+    },
+    "MysteryPhantom7": {
+      "points": 14,
+      "booster": 1.8
     },
     "yongzhengwang": {
       "points": 13,
@@ -284,10 +296,6 @@
     "Yeab_Mengistu": {
       "points": 13,
       "booster": null
-    },
-    "jonachess2015": {
-      "points": 13,
-      "booster": 1.2
     },
     "TGY2026": {
       "points": 12,
@@ -326,10 +334,6 @@
       "booster": null
     },
     "UnHolYDuO": {
-      "points": 11,
-      "booster": null
-    },
-    "mfarraj": {
       "points": 11,
       "booster": null
     },
@@ -399,7 +403,7 @@
     },
     "Foxyfalls": {
       "points": 7,
-      "booster": 1.4
+      "booster": null
     },
     "LAFLAUTADORADA": {
       "points": 6,
@@ -453,9 +457,13 @@
       "points": 6,
       "booster": null
     },
-    "MysteryPhantom7": {
-      "points": 5,
-      "booster": null
+    "affections": {
+      "points": 6,
+      "booster": 1.1
+    },
+    "paddy001": {
+      "points": 6,
+      "booster": 1.5
     },
     "longsonicc": {
       "points": 5,
@@ -475,7 +483,7 @@
     },
     "Scarfire": {
       "points": 5,
-      "booster": 1.3
+      "booster": null
     },
     "Atharv_2008": {
       "points": 4,
@@ -558,10 +566,6 @@
       "booster": null
     },
     "Ramphoma": {
-      "points": 4,
-      "booster": null
-    },
-    "affections": {
       "points": 4,
       "booster": null
     },
@@ -778,6 +782,10 @@
       "booster": null
     },
     "Zsombi06": {
+      "points": 2,
+      "booster": null
+    },
+    "selimozdemir0518": {
       "points": 2,
       "booster": null
     },
@@ -1046,6 +1054,10 @@
       "booster": null
     },
     "THE_BEST_001": {
+      "points": 0,
+      "booster": null
+    },
+    "Gogofish": {
       "points": 0,
       "booster": null
     }
