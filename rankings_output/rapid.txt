@@ -1,15 +1,15 @@
-1. @stambul65: 2284
-2. @Conrad_Gagnon: 636
+1. @stambul65: 2310 (2.0x boost next arena)
+2. @Conrad_Gagnon: 641 (1.7x boost next arena)
 3. @Mayangnabila: 395
-4. @DarkOnCrack: 317 (1.7x boost next arena)
-5. @Nephili: 305 (2.0x boost next arena)
-6. @tomkruz88: 245 (1.9x boost next arena)
+4. @Nephili: 335 (1.8x boost next arena)
+5. @DarkOnCrack: 317 (1.2x boost next arena)
+6. @tomkruz88: 250 (1.4x boost next arena)
 7. @xdxdboxjaja: 208
 8. @Sinus314159: 179
 9. @kubak5: 162
 10. @cheetah6996: 158
 11. @Ozgur3838: 148
-12. @Evgeny86: 127
+12. @Evgeny86: 127 (1.1x boost next arena)
 13. @Sanjaya_BKD: 125
 14. @Capi48: 121
 15. @ComeToBaba1: 120
@@ -17,9 +17,9 @@
 17. @rickeyfeb15: 109
 18. @schwarzerrabe: 108
 19. @nopainogain: 102
-20. @DarkOnWeakBot: 86 (1.6x boost next arena)
-21. @yonssw54269000: 81
-22. @babybird1963: 76
+20. @babybird1963: 92 (1.9x boost next arena)
+21. @DarkOnWeakBot: 86
+22. @yonssw54269000: 81
 23. @Ochesage: 75
 24. @matewasfate: 64
 25. @manyathela2250: 62
@@ -27,7 +27,7 @@
 27. @mang0sunr1s3: 50
 28. @urko66: 46
 29. @DAW8718: 44
-30. @Slightly_Under_2800: 43 (1.3x boost next arena)
+30. @Slightly_Under_2800: 43
 31. @german11: 42
 32. @Knightinthenight123: 42
 33. @okoh11122233: 39
@@ -44,29 +44,29 @@
 44. @TGBrain: 23
 45. @juancool: 22
 46. @ispitanik: 22
-47. @Dede_Suriyana: 21
-48. @cheesynoob: 20
-49. @chessgambit345: 20
-50. @Satranc599: 19
-51. @TheRuleBreaker122: 19
-52. @Dede321: 19
-53. @GeekingKing: 19
-54. @I_M123: 19
-55. @souri1420: 19
-56. @capapreta999: 19
-57. @sendwallet: 19
-58. @thedecentchescuber: 18
-59. @booktrunk: 18
-60. @Senadamidzic: 18
-61. @StefanMasch: 18
-62. @O99_KTLC: 17
-63. @icardi209: 17
-64. @cocoro2: 16
-65. @Mikijon: 16
-66. @jonachess2015: 16 (1.2x boost next arena)
-67. @mfarraj: 15 (1.4x boost next arena)
-68. @krishmar2016: 14
-69. @MysteryPhantom7: 14 (1.8x boost next arena)
+47. @StefanMasch: 22 (1.6x boost next arena)
+48. @Dede_Suriyana: 21
+49. @cheesynoob: 20
+50. @chessgambit345: 20
+51. @Satranc599: 19
+52. @TheRuleBreaker122: 19
+53. @Dede321: 19
+54. @GeekingKing: 19
+55. @I_M123: 19
+56. @souri1420: 19
+57. @capapreta999: 19
+58. @sendwallet: 19
+59. @MysteryPhantom7: 19 (1.3x boost next arena)
+60. @thedecentchescuber: 18
+61. @booktrunk: 18
+62. @Senadamidzic: 18
+63. @O99_KTLC: 17
+64. @icardi209: 17
+65. @cocoro2: 16
+66. @Mikijon: 16
+67. @jonachess2015: 16
+68. @mfarraj: 15
+69. @krishmar2016: 14
 70. @yongzhengwang: 13
 71. @Pejton_bt: 13
 72. @Goku_black419: 13
