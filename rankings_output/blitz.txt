@@ -1,20 +1,20 @@
-1. @stambul65: 6889 (2.0x boost next arena)
-2. @DarkOnCrack: 2564 (1.2x boost next arena)
-3. @tomkruz88: 1311 (1.9x boost next arena)
+1. @stambul65: 6953 (2.0x boost next arena)
+2. @DarkOnCrack: 2564 (1.1x boost next arena)
+3. @tomkruz88: 1311
 4. @Conrad_Gagnon: 1094
 5. @tunu2011: 934
 6. @kubak5: 829
 7. @dadada112: 789
-8. @manyathela2250: 740
-9. @schwarzerrabe: 729
+8. @schwarzerrabe: 741 (1.6x boost next arena)
+9. @manyathela2250: 740
 10. @LOST_IN_FUTURE: 543
 11. @mang0sunr1s3: 540
 12. @agrzelak: 400
 13. @Pejton_bt: 398
-14. @Konariq7: 368
-15. @ComeToBaba1: 367
-16. @Zxycocodrile: 361
-17. @Scarfire: 358 (1.6x boost next arena)
+14. @Scarfire: 375 (1.5x boost next arena)
+15. @Konariq7: 368
+16. @ComeToBaba1: 367
+17. @Zxycocodrile: 361
 18. @krishmar2016: 330
 19. @WideSpookySpy: 325
 20. @Ochesage: 315
@@ -25,9 +25,9 @@
 25. @Juggrnaut: 246
 26. @sheun: 244
 27. @Paul_Rieger: 237
-28. @HUB18: 228
-29. @xdxdboxjaja: 213
-30. @JancoGj: 205
+28. @JancoGj: 237 (1.9x boost next arena)
+29. @HUB18: 228
+30. @xdxdboxjaja: 213
 31. @Pro_OTB: 204
 32. @DRUHA12: 190
 33. @Checkmate_Drifters: 184
@@ -47,7 +47,7 @@
 47. @JOMJR: 123
 48. @test_acc123: 121
 49. @hameidi-moussa: 120
-50. @Nephili: 120 (1.7x boost next arena)
+50. @Nephili: 120
 51. @matewasfate: 113
 52. @Pavel15A: 111
 53. @Gyusudhdh_zerk: 102
@@ -75,22 +75,22 @@
 75. @rj08: 71
 76. @ElBasmgy: 71
 77. @Aatu65536: 68
-78. @Lena8892: 65
-79. @Fischer2895: 64
-80. @kratos82: 62
-81. @Ozgur3838: 62
-82. @HugeSmoggyFirebird: 61
-83. @BlackPanda2024: 61
-84. @OneOfTheWorldsBest: 60
-85. @abdulghaffar77: 59
-86. @tronixpms: 58
-87. @O333_KTLC: 57
-88. @makmak1984: 55
-89. @Palma_de_Mallorca: 55
-90. @Evgeny86: 55
-91. @CHESSBEAST2010: 54
-92. @chessgambit345: 54
-93. @DennisBee: 53
+78. @DennisBee: 67 (1.7x boost next arena)
+79. @Lena8892: 65
+80. @Fischer2895: 64
+81. @kratos82: 62
+82. @Ozgur3838: 62
+83. @HugeSmoggyFirebird: 61
+84. @BlackPanda2024: 61
+85. @OneOfTheWorldsBest: 60
+86. @abdulghaffar77: 59
+87. @tronixpms: 58
+88. @O333_KTLC: 57
+89. @makmak1984: 55
+90. @Palma_de_Mallorca: 55
+91. @Evgeny86: 55
+92. @CHESSBEAST2010: 54
+93. @chessgambit345: 54
 94. @Fingolfin69: 51
 95. @Sumathee: 51
 96. @Ravi_BM: 51
