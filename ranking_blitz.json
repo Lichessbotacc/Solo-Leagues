@@ -1,13 +1,13 @@
 {
-  "last_processed_tournament": "KOsV65t0",
+  "last_processed_tournament": "ZsedAURt",
   "players": {
     "stambul65": {
-      "points": 6953,
+      "points": 7005,
       "booster": 2.0
     },
     "DarkOnCrack": {
       "points": 2564,
-      "booster": 1.1
+      "booster": null
     },
     "tomkruz88": {
       "points": 1311,
@@ -26,16 +26,16 @@
       "booster": null
     },
     "dadada112": {
-      "points": 789,
-      "booster": null
-    },
-    "schwarzerrabe": {
-      "points": 741,
-      "booster": 1.6
+      "points": 791,
+      "booster": 1.2
     },
     "manyathela2250": {
-      "points": 740,
-      "booster": null
+      "points": 761,
+      "booster": 1.9
+    },
+    "schwarzerrabe": {
+      "points": 755,
+      "booster": 1.7
     },
     "LOST_IN_FUTURE": {
       "points": 543,
@@ -55,7 +55,7 @@
     },
     "Scarfire": {
       "points": 375,
-      "booster": 1.5
+      "booster": null
     },
     "Konariq7": {
       "points": 368,
@@ -82,8 +82,8 @@
       "booster": null
     },
     "bestttttt": {
-      "points": 307,
-      "booster": null
+      "points": 310,
+      "booster": 1.3
     },
     "Livoncik": {
       "points": 265,
@@ -111,7 +111,7 @@
     },
     "JancoGj": {
       "points": 237,
-      "booster": 1.9
+      "booster": null
     },
     "HUB18": {
       "points": 228,
@@ -185,6 +185,10 @@
       "points": 131,
       "booster": null
     },
+    "Nephili": {
+      "points": 125,
+      "booster": 1.5
+    },
     "JOMJR": {
       "points": 123,
       "booster": null
@@ -194,10 +198,6 @@
       "booster": null
     },
     "hameidi-moussa": {
-      "points": 120,
-      "booster": null
-    },
-    "Nephili": {
       "points": 120,
       "booster": null
     },
@@ -311,7 +311,7 @@
     },
     "DennisBee": {
       "points": 67,
-      "booster": 1.7
+      "booster": null
     },
     "Lena8892": {
       "points": 65,
@@ -477,6 +477,10 @@
       "points": 43,
       "booster": null
     },
+    "chesslh": {
+      "points": 43,
+      "booster": 1.6
+    },
     "GreenParrot1977": {
       "points": 42,
       "booster": null
@@ -491,7 +495,7 @@
     },
     "AShrivastav": {
       "points": 42,
-      "booster": 1.2
+      "booster": null
     },
     "yabbadabadoo": {
       "points": 41,
@@ -538,10 +542,6 @@
       "booster": null
     },
     "sribna": {
-      "points": 37,
-      "booster": null
-    },
-    "chesslh": {
       "points": 37,
       "booster": null
     },
@@ -871,11 +871,11 @@
     },
     "Carlotaurus": {
       "points": 19,
-      "booster": 1.3
+      "booster": null
     },
     "Agam2013": {
       "points": 19,
-      "booster": 1.8
+      "booster": null
     },
     "Udith1576": {
       "points": 18,
@@ -904,6 +904,10 @@
     "Senadamidzic": {
       "points": 18,
       "booster": null
+    },
+    "affections": {
+      "points": 18,
+      "booster": 1.4
     },
     "brandal_55": {
       "points": 17,
@@ -959,7 +963,7 @@
     },
     "urko66": {
       "points": 17,
-      "booster": 1.4
+      "booster": null
     },
     "BauernWeisheit": {
       "points": 16,
@@ -1037,10 +1041,6 @@
       "points": 14,
       "booster": null
     },
-    "affections": {
-      "points": 14,
-      "booster": null
-    },
     "Senior_Donald": {
       "points": 13,
       "booster": null
@@ -1068,6 +1068,10 @@
     "Rescova7": {
       "points": 13,
       "booster": null
+    },
+    "mgostelow": {
+      "points": 13,
+      "booster": 1.8
     },
     "quesitomaster123": {
       "points": 12,
@@ -1645,10 +1649,6 @@
       "points": 4,
       "booster": null
     },
-    "mgostelow": {
-      "points": 4,
-      "booster": null
-    },
     "dxnicsi": {
       "points": 4,
       "booster": null
@@ -1993,6 +1993,10 @@
       "points": 2,
       "booster": null
     },
+    "mugi_bidong": {
+      "points": 2,
+      "booster": 1.1
+    },
     "ISHAN1603": {
       "points": 1,
       "booster": null
@@ -2218,6 +2222,30 @@
       "booster": null
     },
     "mayluch": {
+      "points": 0,
+      "booster": null
+    },
+    "E2KH": {
+      "points": 0,
+      "booster": null
+    },
+    "macter": {
+      "points": 0,
+      "booster": null
+    },
+    "Anon1mouse": {
+      "points": 0,
+      "booster": null
+    },
+    "SpeederzKnot": {
+      "points": 0,
+      "booster": null
+    },
+    "wael_eg": {
+      "points": 0,
+      "booster": null
+    },
+    "tonykhoi": {
       "points": 0,
       "booster": null
     }
