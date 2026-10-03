@@ -1,5 +1,5 @@
 {
-  "last_processed_tournament": "ixPZMeTl",
+  "last_processed_tournament": "Pt3vykJb",
   "players": {
     "DarkOnCrack": {
       "points": 2705,
@@ -7,11 +7,11 @@
     },
     "Chess_Training_2021": {
       "points": 1974,
-      "booster": 2.0
+      "booster": null
     },
     "Nephili": {
-      "points": 624,
-      "booster": 1.7
+      "points": 766,
+      "booster": 2.0
     },
     "Alex-31": {
       "points": 611,
@@ -31,15 +31,15 @@
     },
     "Conrad_Gagnon": {
       "points": 470,
-      "booster": 1.5
+      "booster": null
     },
     "tomkruz88": {
       "points": 467,
       "booster": null
     },
     "jet88": {
-      "points": 361,
-      "booster": 1.8
+      "points": 382,
+      "booster": 1.6
     },
     "minipekka1": {
       "points": 335,
@@ -67,10 +67,10 @@
     },
     "manyathela2250": {
       "points": 234,
-      "booster": 1.2
+      "booster": null
     },
     "Alcedo": {
-      "points": 228,
+      "points": 230,
       "booster": null
     },
     "rj08": {
@@ -82,15 +82,19 @@
       "booster": null
     },
     "affections": {
-      "points": 194,
-      "booster": 1.6
+      "points": 214,
+      "booster": 1.7
+    },
+    "Fahhhhhh67": {
+      "points": 199,
+      "booster": 1.9
+    },
+    "bestttttt": {
+      "points": 161,
+      "booster": 1.8
     },
     "Esen-Zerk": {
       "points": 148,
-      "booster": null
-    },
-    "bestttttt": {
-      "points": 141,
       "booster": null
     },
     "ElBasmgy": {
@@ -193,10 +197,6 @@
       "points": 80,
       "booster": null
     },
-    "Fahhhhhh67": {
-      "points": 80,
-      "booster": 1.9
-    },
     "EEAguitarn1": {
       "points": 79,
       "booster": null
@@ -233,6 +233,10 @@
       "points": 72,
       "booster": null
     },
+    "Incendius_Rex": {
+      "points": 72,
+      "booster": null
+    },
     "DRUHA12": {
       "points": 70,
       "booster": null
@@ -240,10 +244,6 @@
     "RodriFK": {
       "points": 70,
       "booster": null
-    },
-    "Incendius_Rex": {
-      "points": 70,
-      "booster": 1.1
     },
     "Last_Suspect": {
       "points": 65,
@@ -267,7 +267,7 @@
     },
     "abhigyan_a_b": {
       "points": 59,
-      "booster": 1.4
+      "booster": null
     },
     "leolo": {
       "points": 58,
@@ -373,6 +373,10 @@
       "points": 36,
       "booster": null
     },
+    "doruk2606": {
+      "points": 36,
+      "booster": null
+    },
     "timothyemmanuel": {
       "points": 35,
       "booster": null
@@ -385,11 +389,11 @@
       "points": 35,
       "booster": null
     },
-    "doruk2606": {
+    "nickmain": {
       "points": 33,
       "booster": null
     },
-    "nickmain": {
+    "reyansh_mehra_14": {
       "points": 33,
       "booster": null
     },
@@ -398,10 +402,6 @@
       "booster": null
     },
     "Djohar_duda": {
-      "points": 32,
-      "booster": null
-    },
-    "reyansh_mehra_14": {
       "points": 32,
       "booster": null
     },
@@ -533,6 +533,10 @@
       "points": 19,
       "booster": null
     },
+    "talsbrilliant1908": {
+      "points": 19,
+      "booster": 1.2
+    },
     "c4energy": {
       "points": 18,
       "booster": null
@@ -603,17 +607,13 @@
     },
     "PatchCord": {
       "points": 15,
-      "booster": 1.3
+      "booster": null
     },
     "Andyisagoodboy": {
       "points": 14,
       "booster": null
     },
     "Ravi_BM": {
-      "points": 14,
-      "booster": null
-    },
-    "talsbrilliant1908": {
       "points": 14,
       "booster": null
     },
@@ -741,6 +741,14 @@
       "points": 8,
       "booster": null
     },
+    "madchild43": {
+      "points": 8,
+      "booster": 1.5
+    },
+    "kollen8": {
+      "points": 8,
+      "booster": 1.4
+    },
     "Mayangnabila": {
       "points": 7,
       "booster": null
@@ -800,6 +808,10 @@
     "MourNINStar": {
       "points": 6,
       "booster": null
+    },
+    "Anon1mouse": {
+      "points": 6,
+      "booster": 1.3
     },
     "dunk-master": {
       "points": 5,
@@ -924,6 +936,10 @@
     "PADOL": {
       "points": 3,
       "booster": null
+    },
+    "VeryVeryLongUsername": {
+      "points": 3,
+      "booster": 1.1
     },
     "borak-kopitiam": {
       "points": 2,
@@ -1157,10 +1173,6 @@
       "points": 0,
       "booster": null
     },
-    "madchild43": {
-      "points": 0,
-      "booster": null
-    },
     "OE_2015": {
       "points": 0,
       "booster": null
@@ -1214,6 +1226,14 @@
       "booster": null
     },
     "MysteryPhantom7": {
+      "points": 0,
+      "booster": null
+    },
+    "samuk4": {
+      "points": 0,
+      "booster": null
+    },
+    "Taanush": {
       "points": 0,
       "booster": null
     }
