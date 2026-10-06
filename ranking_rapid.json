@@ -1,9 +1,9 @@
 {
-  "last_processed_tournament": "sRfKpkwC",
+  "last_processed_tournament": "BBjzfMB5",
   "players": {
     "stambul65": {
       "points": 2327,
-      "booster": 1.5
+      "booster": null
     },
     "Conrad_Gagnon": {
       "points": 641,
@@ -14,16 +14,16 @@
       "booster": null
     },
     "Nephili": {
-      "points": 351,
-      "booster": 2.0
+      "points": 357,
+      "booster": 1.8
     },
     "DarkOnCrack": {
       "points": 318,
-      "booster": 1.2
+      "booster": 1.7
     },
     "tomkruz88": {
-      "points": 259,
-      "booster": 1.9
+      "points": 298,
+      "booster": 2.0
     },
     "xdxdboxjaja": {
       "points": 208,
@@ -77,12 +77,12 @@
       "points": 102,
       "booster": null
     },
+    "DarkOnWeakBot": {
+      "points": 96,
+      "booster": 1.9
+    },
     "babybird1963": {
       "points": 92,
-      "booster": null
-    },
-    "DarkOnWeakBot": {
-      "points": 86,
       "booster": null
     },
     "yonssw54269000": {
@@ -119,7 +119,7 @@
     },
     "DAW8718": {
       "points": 44,
-      "booster": 1.1
+      "booster": null
     },
     "Slightly_Under_2800": {
       "points": 43,
@@ -163,7 +163,7 @@
     },
     "paddy001": {
       "points": 25,
-      "booster": 1.7
+      "booster": null
     },
     "farwan55": {
       "points": 24,
@@ -175,7 +175,7 @@
     },
     "bestttttt": {
       "points": 24,
-      "booster": null
+      "booster": 1.6
     },
     "TGBrain": {
       "points": 23,
@@ -195,7 +195,7 @@
     },
     "mfarraj": {
       "points": 22,
-      "booster": 1.6
+      "booster": null
     },
     "Dede_Suriyana": {
       "points": 21,
@@ -247,7 +247,7 @@
     },
     "Goku_black419": {
       "points": 19,
-      "booster": 1.8
+      "booster": null
     },
     "thedecentchescuber": {
       "points": 18,
@@ -551,7 +551,7 @@
     },
     "talsbrilliant1908": {
       "points": 4,
-      "booster": null
+      "booster": 1.3
     },
     "Smememe": {
       "points": 4,
@@ -795,7 +795,7 @@
     },
     "Gogofish": {
       "points": 2,
-      "booster": 1.4
+      "booster": 1.5
     },
     "NOELIAP11": {
       "points": 1,
@@ -991,7 +991,7 @@
     },
     "Aahil0806": {
       "points": 0,
-      "booster": null
+      "booster": 1.4
     },
     "Chess_Master_1985": {
       "points": 0,
@@ -1087,7 +1087,7 @@
     },
     "Flufle": {
       "points": 0,
-      "booster": 1.3
+      "booster": null
     },
     "V_chesschamp": {
       "points": 0,
@@ -1108,6 +1108,10 @@
     "renaqadjiyeva": {
       "points": 0,
       "booster": null
+    },
+    "Ussumane1": {
+      "points": 0,
+      "booster": 1.2
     }
   },
   "processed_tournaments": [
