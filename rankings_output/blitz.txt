@@ -1,12 +1,12 @@
-1. @stambul65: 7005 (2.0x boost next arena)
-2. @DarkOnCrack: 2564
-3. @tomkruz88: 1311
+1. @stambul65: 7053 (1.9x boost next arena)
+2. @DarkOnCrack: 2572 (1.5x boost next arena)
+3. @tomkruz88: 1315 (1.4x boost next arena)
 4. @Conrad_Gagnon: 1094
 5. @tunu2011: 934
-6. @kubak5: 829
-7. @dadada112: 791 (1.2x boost next arena)
-8. @manyathela2250: 761 (1.9x boost next arena)
-9. @schwarzerrabe: 755 (1.7x boost next arena)
+6. @manyathela2250: 840 (2.0x boost next arena)
+7. @kubak5: 829
+8. @dadada112: 803 (1.6x boost next arena)
+9. @schwarzerrabe: 755
 10. @LOST_IN_FUTURE: 543
 11. @mang0sunr1s3: 540
 12. @agrzelak: 400
@@ -16,9 +16,9 @@
 16. @ComeToBaba1: 367
 17. @Zxycocodrile: 361
 18. @krishmar2016: 330
-19. @WideSpookySpy: 325
-20. @Ochesage: 315
-21. @bestttttt: 310 (1.3x boost next arena)
+19. @bestttttt: 329 (1.7x boost next arena)
+20. @WideSpookySpy: 325
+21. @Ochesage: 315
 22. @Livoncik: 265
 23. @Otelulvesel: 251
 24. @german11: 249
@@ -37,14 +37,14 @@
 37. @TheRuleBreaker122: 167
 38. @cheesynoob: 166
 39. @Sanjaya_BKD: 163
-40. @Pavel_Kaplin: 147
-41. @Thendo: 146
-42. @Janislav2000: 146
-43. @handyacc: 139
-44. @Entrenador3talentos: 137
-45. @ispitanik: 136
-46. @Dinoweek: 131
-47. @Nephili: 125 (1.5x boost next arena)
+40. @Nephili: 156 (1.8x boost next arena)
+41. @Pavel_Kaplin: 147
+42. @Thendo: 146
+43. @Janislav2000: 146
+44. @handyacc: 139
+45. @Entrenador3talentos: 137
+46. @ispitanik: 136
+47. @Dinoweek: 131
 48. @JOMJR: 123
 49. @test_acc123: 121
 50. @hameidi-moussa: 120
