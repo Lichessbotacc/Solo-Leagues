@@ -1,17 +1,17 @@
 {
-  "last_processed_tournament": "a0G3gJ2T",
+  "last_processed_tournament": "GUy0rBmT",
   "players": {
     "stambul65": {
       "points": 7053,
-      "booster": 1.9
+      "booster": null
     },
     "DarkOnCrack": {
       "points": 2572,
-      "booster": 1.5
+      "booster": 1.8
     },
     "tomkruz88": {
       "points": 1315,
-      "booster": 1.4
+      "booster": null
     },
     "Conrad_Gagnon": {
       "points": 1094,
@@ -23,7 +23,7 @@
     },
     "manyathela2250": {
       "points": 840,
-      "booster": 2.0
+      "booster": null
     },
     "kubak5": {
       "points": 829,
@@ -31,11 +31,11 @@
     },
     "dadada112": {
       "points": 803,
-      "booster": 1.6
+      "booster": null
     },
     "schwarzerrabe": {
-      "points": 755,
-      "booster": null
+      "points": 757,
+      "booster": 1.9
     },
     "LOST_IN_FUTURE": {
       "points": 543,
@@ -55,7 +55,7 @@
     },
     "Scarfire": {
       "points": 375,
-      "booster": null
+      "booster": 1.4
     },
     "Konariq7": {
       "points": 368,
@@ -75,7 +75,7 @@
     },
     "bestttttt": {
       "points": 329,
-      "booster": 1.7
+      "booster": null
     },
     "WideSpookySpy": {
       "points": 325,
@@ -158,8 +158,8 @@
       "booster": null
     },
     "Nephili": {
-      "points": 156,
-      "booster": 1.8
+      "points": 161,
+      "booster": 2.0
     },
     "Pavel_Kaplin": {
       "points": 147,
@@ -471,7 +471,7 @@
     },
     "AShrivastav": {
       "points": 44,
-      "booster": 1.2
+      "booster": null
     },
     "armaancjain": {
       "points": 43,
@@ -767,7 +767,7 @@
     },
     "spiddey": {
       "points": 23,
-      "booster": null
+      "booster": 1.7
     },
     "Rathi_Sahab": {
       "points": 23,
@@ -795,7 +795,7 @@
     },
     "milchvo": {
       "points": 22,
-      "booster": 1.1
+      "booster": null
     },
     "Koffa": {
       "points": 22,
@@ -875,7 +875,7 @@
     },
     "Agam2013": {
       "points": 19,
-      "booster": null
+      "booster": 1.6
     },
     "Udith1576": {
       "points": 18,
@@ -1135,7 +1135,7 @@
     },
     "JohnnyChess": {
       "points": 12,
-      "booster": null
+      "booster": 1.5
     },
     "Jeziorsa": {
       "points": 12,
@@ -1663,7 +1663,7 @@
     },
     "talsbrilliant1908": {
       "points": 4,
-      "booster": 1.3
+      "booster": null
     },
     "DarshMurarka": {
       "points": 3,
