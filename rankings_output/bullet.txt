@@ -1,14 +1,14 @@
 1. @DarkOnCrack: 2705
-2. @Chess_Training_2021: 1974
-3. @Nephili: 766 (2.0x boost next arena)
+2. @Chess_Training_2021: 1976 (1.6x boost next arena)
+3. @Nephili: 822 (2.0x boost next arena)
 4. @Alex-31: 611
 5. @Nuemop: 571
 6. @UnHolYDuO: 490
 7. @Helokid: 476
 8. @Conrad_Gagnon: 470
-9. @tomkruz88: 467
-10. @jet88: 382 (1.6x boost next arena)
-11. @minipekka1: 335
+9. @tomkruz88: 467 (1.1x boost next arena)
+10. @jet88: 385 (1.7x boost next arena)
+11. @minipekka1: 337 (1.8x boost next arena)
 12. @VariantsMain: 334
 13. @Justinsenpai: 318
 14. @Shivansh-Chess-Force: 300
@@ -18,9 +18,9 @@
 18. @Alcedo: 230
 19. @rj08: 225
 20. @VVIPVIBES: 214
-21. @affections: 214 (1.7x boost next arena)
-22. @Fahhhhhh67: 199 (1.9x boost next arena)
-23. @bestttttt: 161 (1.8x boost next arena)
+21. @affections: 214
+22. @Fahhhhhh67: 199 (1.5x boost next arena)
+23. @bestttttt: 161 (1.3x boost next arena)
 24. @Esen-Zerk: 148
 25. @ElBasmgy: 139
 26. @mike-bear: 132

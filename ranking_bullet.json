@@ -1,16 +1,16 @@
 {
-  "last_processed_tournament": "Pt3vykJb",
+  "last_processed_tournament": "Nq9KNqe7",
   "players": {
     "DarkOnCrack": {
       "points": 2705,
       "booster": null
     },
     "Chess_Training_2021": {
-      "points": 1974,
-      "booster": null
+      "points": 1976,
+      "booster": 1.6
     },
     "Nephili": {
-      "points": 766,
+      "points": 822,
       "booster": 2.0
     },
     "Alex-31": {
@@ -35,15 +35,15 @@
     },
     "tomkruz88": {
       "points": 467,
-      "booster": null
+      "booster": 1.1
     },
     "jet88": {
-      "points": 382,
-      "booster": 1.6
+      "points": 385,
+      "booster": 1.7
     },
     "minipekka1": {
-      "points": 335,
-      "booster": null
+      "points": 337,
+      "booster": 1.8
     },
     "VariantsMain": {
       "points": 334,
@@ -83,15 +83,15 @@
     },
     "affections": {
       "points": 214,
-      "booster": 1.7
+      "booster": null
     },
     "Fahhhhhh67": {
       "points": 199,
-      "booster": 1.9
+      "booster": 1.5
     },
     "bestttttt": {
       "points": 161,
-      "booster": 1.8
+      "booster": 1.3
     },
     "Esen-Zerk": {
       "points": 148,
@@ -535,7 +535,7 @@
     },
     "talsbrilliant1908": {
       "points": 19,
-      "booster": 1.2
+      "booster": null
     },
     "c4energy": {
       "points": 18,
@@ -572,6 +572,10 @@
     "okoh11122233": {
       "points": 17,
       "booster": null
+    },
+    "Anon1mouse": {
+      "points": 17,
+      "booster": 1.9
     },
     "Mc-ArboledaAxel": {
       "points": 16,
@@ -743,11 +747,11 @@
     },
     "madchild43": {
       "points": 8,
-      "booster": 1.5
+      "booster": null
     },
     "kollen8": {
       "points": 8,
-      "booster": 1.4
+      "booster": null
     },
     "Mayangnabila": {
       "points": 7,
@@ -808,10 +812,6 @@
     "MourNINStar": {
       "points": 6,
       "booster": null
-    },
-    "Anon1mouse": {
-      "points": 6,
-      "booster": 1.3
     },
     "dunk-master": {
       "points": 5,
@@ -883,7 +883,7 @@
     },
     "ITz_Dark": {
       "points": 4,
-      "booster": null
+      "booster": 1.2
     },
     "Davis_yadad": {
       "points": 4,
@@ -939,7 +939,7 @@
     },
     "VeryVeryLongUsername": {
       "points": 3,
-      "booster": 1.1
+      "booster": null
     },
     "borak-kopitiam": {
       "points": 2,
@@ -1195,7 +1195,7 @@
     },
     "Jozingboy123": {
       "points": 0,
-      "booster": null
+      "booster": 1.4
     },
     "arisgins": {
       "points": 0,
