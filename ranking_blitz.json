@@ -1,13 +1,13 @@
 {
-  "last_processed_tournament": "GUy0rBmT",
+  "last_processed_tournament": "UE8yq0Zs",
   "players": {
     "stambul65": {
-      "points": 7053,
-      "booster": null
+      "points": 7093,
+      "booster": 2.0
     },
     "DarkOnCrack": {
       "points": 2572,
-      "booster": 1.8
+      "booster": 1.4
     },
     "tomkruz88": {
       "points": 1315,
@@ -34,8 +34,8 @@
       "booster": null
     },
     "schwarzerrabe": {
-      "points": 757,
-      "booster": 1.9
+      "points": 779,
+      "booster": 1.8
     },
     "LOST_IN_FUTURE": {
       "points": 543,
@@ -54,8 +54,8 @@
       "booster": null
     },
     "Scarfire": {
-      "points": 375,
-      "booster": 1.4
+      "points": 383,
+      "booster": 1.7
     },
     "Konariq7": {
       "points": 368,
@@ -69,12 +69,12 @@
       "points": 361,
       "booster": null
     },
+    "bestttttt": {
+      "points": 341,
+      "booster": 1.9
+    },
     "krishmar2016": {
       "points": 330,
-      "booster": null
-    },
-    "bestttttt": {
-      "points": 329,
       "booster": null
     },
     "WideSpookySpy": {
@@ -159,7 +159,7 @@
     },
     "Nephili": {
       "points": 161,
-      "booster": 2.0
+      "booster": null
     },
     "Pavel_Kaplin": {
       "points": 147,
@@ -557,16 +557,16 @@
       "points": 36,
       "booster": null
     },
+    "YellowLemonChess": {
+      "points": 36,
+      "booster": 1.5
+    },
     "ManvithPadala": {
       "points": 35,
       "booster": null
     },
     "skakier": {
       "points": 35,
-      "booster": null
-    },
-    "YellowLemonChess": {
-      "points": 34,
       "booster": null
     },
     "shailesh777": {
@@ -681,6 +681,10 @@
       "points": 28,
       "booster": null
     },
+    "LEBOHANG-MPHELA": {
+      "points": 28,
+      "booster": 1.6
+    },
     "Che947": {
       "points": 27,
       "booster": null
@@ -714,10 +718,6 @@
       "booster": null
     },
     "Jadoube22": {
-      "points": 26,
-      "booster": null
-    },
-    "LEBOHANG-MPHELA": {
       "points": 26,
       "booster": null
     },
@@ -767,7 +767,7 @@
     },
     "spiddey": {
       "points": 23,
-      "booster": 1.7
+      "booster": null
     },
     "Rathi_Sahab": {
       "points": 23,
@@ -875,7 +875,7 @@
     },
     "Agam2013": {
       "points": 19,
-      "booster": 1.6
+      "booster": null
     },
     "Udith1576": {
       "points": 18,
@@ -1135,7 +1135,7 @@
     },
     "JohnnyChess": {
       "points": 12,
-      "booster": 1.5
+      "booster": null
     },
     "Jeziorsa": {
       "points": 12,
@@ -2011,7 +2011,7 @@
     },
     "bestjobplayingchess": {
       "points": 1,
-      "booster": null
+      "booster": 1.3
     },
     "zerkaccount12345": {
       "points": 1,
@@ -2219,7 +2219,7 @@
     },
     "Barbararichards25": {
       "points": 0,
-      "booster": null
+      "booster": 1.2
     },
     "mayluch": {
       "points": 0,
