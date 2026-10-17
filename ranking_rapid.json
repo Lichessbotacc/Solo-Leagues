@@ -1,13 +1,13 @@
 {
-  "last_processed_tournament": "MiR6k002",
+  "last_processed_tournament": "4VkEsh5c",
   "players": {
     "stambul65": {
       "points": 2338,
-      "booster": 2.0
+      "booster": null
     },
     "Conrad_Gagnon": {
       "points": 641,
-      "booster": null
+      "booster": 1.8
     },
     "Mayangnabila": {
       "points": 395,
@@ -19,19 +19,19 @@
     },
     "DarkOnCrack": {
       "points": 318,
-      "booster": 1.8
+      "booster": 1.9
     },
     "tomkruz88": {
       "points": 298,
-      "booster": 1.7
+      "booster": null
     },
     "xdxdboxjaja": {
       "points": 208,
       "booster": null
     },
     "Sinus314159": {
-      "points": 202,
-      "booster": null
+      "points": 204,
+      "booster": 2.0
     },
     "kubak5": {
       "points": 162,
@@ -71,7 +71,7 @@
     },
     "schwarzerrabe": {
       "points": 108,
-      "booster": 1.2
+      "booster": null
     },
     "nopainogain": {
       "points": 102,
@@ -119,7 +119,7 @@
     },
     "DAW8718": {
       "points": 44,
-      "booster": 1.4
+      "booster": null
     },
     "Slightly_Under_2800": {
       "points": 43,
@@ -191,7 +191,7 @@
     },
     "StefanMasch": {
       "points": 22,
-      "booster": null
+      "booster": 1.7
     },
     "mfarraj": {
       "points": 22,
@@ -347,7 +347,7 @@
     },
     "PawlakJan": {
       "points": 10,
-      "booster": 1.5
+      "booster": null
     },
     "Justinsenpai": {
       "points": 10,
@@ -383,7 +383,7 @@
     },
     "Jadonthomas": {
       "points": 8,
-      "booster": 1.3
+      "booster": null
     },
     "Momo-50": {
       "points": 8,
@@ -799,7 +799,7 @@
     },
     "aspa1391": {
       "points": 2,
-      "booster": 1.9
+      "booster": null
     },
     "NOELIAP11": {
       "points": 1,
@@ -1119,11 +1119,15 @@
     },
     "Belsazar": {
       "points": 0,
-      "booster": 1.6
+      "booster": null
     },
     "NUSHANTH": {
       "points": 0,
-      "booster": 1.1
+      "booster": null
+    },
+    "aaravchandak": {
+      "points": 0,
+      "booster": 1.6
     }
   },
   "processed_tournaments": [
