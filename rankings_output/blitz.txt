@@ -1,27 +1,27 @@
-1. @stambul65: 7093 (2.0x boost next arena)
-2. @DarkOnCrack: 2572 (1.4x boost next arena)
+1. @stambul65: 7237 (2.0x boost next arena)
+2. @DarkOnCrack: 2572
 3. @tomkruz88: 1315
 4. @Conrad_Gagnon: 1094
 5. @tunu2011: 934
 6. @manyathela2250: 840
-7. @kubak5: 829
-8. @dadada112: 803
-9. @schwarzerrabe: 779 (1.8x boost next arena)
+7. @dadada112: 831 (1.8x boost next arena)
+8. @kubak5: 829
+9. @schwarzerrabe: 804 (1.7x boost next arena)
 10. @LOST_IN_FUTURE: 543
 11. @mang0sunr1s3: 540
 12. @agrzelak: 400
 13. @Pejton_bt: 398
-14. @Scarfire: 383 (1.7x boost next arena)
-15. @Konariq7: 368
+14. @Scarfire: 383
+15. @Konariq7: 377 (1.6x boost next arena)
 16. @ComeToBaba1: 367
 17. @Zxycocodrile: 361
-18. @bestttttt: 341 (1.9x boost next arena)
+18. @bestttttt: 341
 19. @krishmar2016: 330
 20. @WideSpookySpy: 325
 21. @Ochesage: 315
 22. @Livoncik: 265
 23. @Otelulvesel: 251
-24. @german11: 249
+24. @german11: 251
 25. @Juggrnaut: 246
 26. @sheun: 244
 27. @Paul_Rieger: 237
@@ -35,9 +35,9 @@
 35. @babybird1963: 173
 36. @Erickvis93: 171
 37. @TheRuleBreaker122: 167
-38. @cheesynoob: 166
-39. @Sanjaya_BKD: 163
-40. @Nephili: 161
+38. @Nephili: 167 (1.1x boost next arena)
+39. @cheesynoob: 166
+40. @Sanjaya_BKD: 163
 41. @Pavel_Kaplin: 147
 42. @Thendo: 146
 43. @Janislav2000: 146
@@ -48,7 +48,7 @@
 48. @JOMJR: 123
 49. @test_acc123: 121
 50. @hameidi-moussa: 120
-51. @matewasfate: 113
+51. @matewasfate: 117
 52. @Pavel15A: 111
 53. @Gyusudhdh_zerk: 102
 54. @VTacademy: 100
@@ -91,10 +91,10 @@
 91. @Evgeny86: 55
 92. @CHESSBEAST2010: 54
 93. @chessgambit345: 54
-94. @Fingolfin69: 51
-95. @Sumathee: 51
-96. @Ravi_BM: 51
-97. @Uare2dangerous: 50
-98. @yasirhamdani_2800: 50
-99. @jash_the_goat: 50
-100. @rickeyfeb15: 50
+94. @Gosha2023: 54 (1.9x boost next arena)
+95. @Fingolfin69: 51
+96. @Sumathee: 51
+97. @Ravi_BM: 51
+98. @Uare2dangerous: 50
+99. @yasirhamdani_2800: 50
+100. @jash_the_goat: 50
