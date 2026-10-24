@@ -1,5 +1,5 @@
-1. @stambul65: 7237 (2.0x boost next arena)
-2. @DarkOnCrack: 2572
+1. @stambul65: 7237
+2. @DarkOnCrack: 2572 (1.9x boost next arena)
 3. @tomkruz88: 1315
 4. @Conrad_Gagnon: 1094
 5. @tunu2011: 934
@@ -11,8 +11,8 @@
 11. @mang0sunr1s3: 540
 12. @agrzelak: 400
 13. @Pejton_bt: 398
-14. @Scarfire: 383
-15. @Konariq7: 377 (1.6x boost next arena)
+14. @Scarfire: 385 (2.0x boost next arena)
+15. @Konariq7: 377
 16. @ComeToBaba1: 367
 17. @Zxycocodrile: 361
 18. @bestttttt: 341
@@ -35,7 +35,7 @@
 35. @babybird1963: 173
 36. @Erickvis93: 171
 37. @TheRuleBreaker122: 167
-38. @Nephili: 167 (1.1x boost next arena)
+38. @Nephili: 167
 39. @cheesynoob: 166
 40. @Sanjaya_BKD: 163
 41. @Pavel_Kaplin: 147
@@ -91,7 +91,7 @@
 91. @Evgeny86: 55
 92. @CHESSBEAST2010: 54
 93. @chessgambit345: 54
-94. @Gosha2023: 54 (1.9x boost next arena)
+94. @Gosha2023: 54
 95. @Fingolfin69: 51
 96. @Sumathee: 51
 97. @Ravi_BM: 51

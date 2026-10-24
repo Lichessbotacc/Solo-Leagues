@@ -1,13 +1,13 @@
 {
-  "last_processed_tournament": "cYNmXOtg",
+  "last_processed_tournament": "Lqkjsgxf",
   "players": {
     "stambul65": {
       "points": 7237,
-      "booster": 2.0
+      "booster": null
     },
     "DarkOnCrack": {
       "points": 2572,
-      "booster": null
+      "booster": 1.9
     },
     "tomkruz88": {
       "points": 1315,
@@ -54,12 +54,12 @@
       "booster": null
     },
     "Scarfire": {
-      "points": 383,
-      "booster": null
+      "points": 385,
+      "booster": 2.0
     },
     "Konariq7": {
       "points": 377,
-      "booster": 1.6
+      "booster": null
     },
     "ComeToBaba1": {
       "points": 367,
@@ -151,7 +151,7 @@
     },
     "Nephili": {
       "points": 167,
-      "booster": 1.1
+      "booster": null
     },
     "cheesynoob": {
       "points": 166,
@@ -375,7 +375,7 @@
     },
     "Gosha2023": {
       "points": 54,
-      "booster": 1.9
+      "booster": null
     },
     "Fingolfin69": {
       "points": 51,
@@ -631,7 +631,7 @@
     },
     "Khushmitapaliwal2014": {
       "points": 31,
-      "booster": 1.3
+      "booster": null
     },
     "Chavani-TR": {
       "points": 30,
@@ -743,7 +743,7 @@
     },
     "affections": {
       "points": 25,
-      "booster": 1.2
+      "booster": null
     },
     "THE_BEST_001": {
       "points": 24,
@@ -1279,7 +1279,7 @@
     },
     "GoodCoolingOtter": {
       "points": 9,
-      "booster": 1.5
+      "booster": null
     },
     "Elya-Must": {
       "points": 8,
@@ -1359,7 +1359,7 @@
     },
     "Argent58": {
       "points": 8,
-      "booster": 1.4
+      "booster": null
     },
     "Sinnery2025": {
       "points": 7,
