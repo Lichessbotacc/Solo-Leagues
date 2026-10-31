@@ -1,5 +1,5 @@
 {
-  "last_processed_tournament": "4VkEsh5c",
+  "last_processed_tournament": "7BUUYrJg",
   "players": {
     "stambul65": {
       "points": 2338,
@@ -7,7 +7,7 @@
     },
     "Conrad_Gagnon": {
       "points": 641,
-      "booster": 1.8
+      "booster": 1.3
     },
     "Mayangnabila": {
       "points": 395,
@@ -18,12 +18,12 @@
       "booster": null
     },
     "DarkOnCrack": {
-      "points": 318,
-      "booster": 1.9
+      "points": 321,
+      "booster": 1.7
     },
     "tomkruz88": {
       "points": 298,
-      "booster": null
+      "booster": 1.5
     },
     "xdxdboxjaja": {
       "points": 208,
@@ -31,7 +31,7 @@
     },
     "Sinus314159": {
       "points": 204,
-      "booster": 2.0
+      "booster": null
     },
     "kubak5": {
       "points": 162,
@@ -118,8 +118,8 @@
       "booster": null
     },
     "DAW8718": {
-      "points": 44,
-      "booster": null
+      "points": 46,
+      "booster": 1.9
     },
     "Slightly_Under_2800": {
       "points": 43,
@@ -175,7 +175,11 @@
     },
     "bestttttt": {
       "points": 24,
-      "booster": null
+      "booster": 1.1
+    },
+    "mfarraj": {
+      "points": 24,
+      "booster": 1.8
     },
     "TGBrain": {
       "points": 23,
@@ -190,10 +194,6 @@
       "booster": null
     },
     "StefanMasch": {
-      "points": 22,
-      "booster": 1.7
-    },
-    "mfarraj": {
       "points": 22,
       "booster": null
     },
@@ -291,7 +291,7 @@
     },
     "caldillo": {
       "points": 14,
-      "booster": null
+      "booster": 1.6
     },
     "yongzhengwang": {
       "points": 13,
@@ -671,7 +671,11 @@
     },
     "Jozingboy123": {
       "points": 3,
-      "booster": null
+      "booster": 1.4
+    },
+    "wealthtaxesuk": {
+      "points": 3,
+      "booster": 2.0
     },
     "kenedyKimutai": {
       "points": 2,
@@ -969,10 +973,6 @@
       "points": 0,
       "booster": null
     },
-    "wealthtaxesuk": {
-      "points": 0,
-      "booster": null
-    },
     "fexs1": {
       "points": 0,
       "booster": null
@@ -1127,7 +1127,11 @@
     },
     "aaravchandak": {
       "points": 0,
-      "booster": 1.6
+      "booster": null
+    },
+    "ShinyMegaRayquaza": {
+      "points": 0,
+      "booster": 1.2
     }
   },
   "processed_tournaments": [
