@@ -1,30 +1,30 @@
 1. @DarkOnCrack: 2705 (1.7x boost next arena)
 2. @Chess_Training_2021: 1976
-3. @Nephili: 874 (2.0x boost next arena)
+3. @Nephili: 874
 4. @Alex-31: 611
 5. @Nuemop: 571
 6. @UnHolYDuO: 490
 7. @Helokid: 476
 8. @Conrad_Gagnon: 470
 9. @tomkruz88: 467
-10. @jet88: 390 (1.8x boost next arena)
+10. @jet88: 393 (1.8x boost next arena)
 11. @minipekka1: 337
 12. @VariantsMain: 334
 13. @Justinsenpai: 318
 14. @Shivansh-Chess-Force: 300
 15. @BharatBhushanVerma: 264
 16. @Abd_el_wahab: 235
-17. @manyathela2250: 234
-18. @Alcedo: 230
+17. @Alcedo: 235 (1.9x boost next arena)
+18. @manyathela2250: 234
 19. @rj08: 225
 20. @VVIPVIBES: 214
 21. @affections: 214
 22. @Fahhhhhh67: 199
-23. @bestttttt: 161 (1.5x boost next arena)
+23. @bestttttt: 161 (1.3x boost next arena)
 24. @Esen-Zerk: 148
 25. @ElBasmgy: 139
 26. @mike-bear: 132
-27. @Agamveer_007: 132
+27. @Agamveer_007: 132 (1.6x boost next arena)
 28. @zooz-Zerk: 128
 29. @artoftheblade: 127
 30. @phone-zerk: 123
@@ -66,17 +66,17 @@
 66. @ioannis_nikolaidis: 61
 67. @abhigyan_a_b: 59
 68. @leolo: 58
-69. @CorporateHandshake: 57
-70. @FlorHawryluk: 56
-71. @C8c7C8c7C8c7C8c7C8c7: 51
-72. @thaytoanfake: 51
-73. @RWDHDK67: 50
-74. @Jerronbabylansu: 49
-75. @Cold_Sewy12: 48
-76. @HiHelloHey: 48
-77. @PushAttack14: 47
-78. @Chonma: 47
-79. @Ezrg94: 44
+69. @Ezrg94: 58 (2.0x boost next arena)
+70. @CorporateHandshake: 57
+71. @FlorHawryluk: 56
+72. @C8c7C8c7C8c7C8c7C8c7: 51
+73. @thaytoanfake: 51
+74. @RWDHDK67: 50
+75. @Jerronbabylansu: 49
+76. @Cold_Sewy12: 48
+77. @HiHelloHey: 48
+78. @PushAttack14: 47
+79. @Chonma: 47
 80. @kingboers: 43
 81. @gojosaturo1234567: 43
 82. @SivaanshAanand: 42

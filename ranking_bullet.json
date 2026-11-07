@@ -1,5 +1,5 @@
 {
-  "last_processed_tournament": "jrP7r0ZU",
+  "last_processed_tournament": "NqSFlCEM",
   "players": {
     "DarkOnCrack": {
       "points": 2705,
@@ -11,7 +11,7 @@
     },
     "Nephili": {
       "points": 874,
-      "booster": 2.0
+      "booster": null
     },
     "Alex-31": {
       "points": 611,
@@ -38,7 +38,7 @@
       "booster": null
     },
     "jet88": {
-      "points": 390,
+      "points": 393,
       "booster": 1.8
     },
     "minipekka1": {
@@ -65,12 +65,12 @@
       "points": 235,
       "booster": null
     },
+    "Alcedo": {
+      "points": 235,
+      "booster": 1.9
+    },
     "manyathela2250": {
       "points": 234,
-      "booster": null
-    },
-    "Alcedo": {
-      "points": 230,
       "booster": null
     },
     "rj08": {
@@ -91,7 +91,7 @@
     },
     "bestttttt": {
       "points": 161,
-      "booster": 1.5
+      "booster": 1.3
     },
     "Esen-Zerk": {
       "points": 148,
@@ -107,7 +107,7 @@
     },
     "Agamveer_007": {
       "points": 132,
-      "booster": null
+      "booster": 1.6
     },
     "zooz-Zerk": {
       "points": 128,
@@ -273,6 +273,10 @@
       "points": 58,
       "booster": null
     },
+    "Ezrg94": {
+      "points": 58,
+      "booster": 2.0
+    },
     "CorporateHandshake": {
       "points": 57,
       "booster": null
@@ -311,10 +315,6 @@
     },
     "Chonma": {
       "points": 47,
-      "booster": null
-    },
-    "Ezrg94": {
-      "points": 44,
       "booster": null
     },
     "kingboers": {
@@ -535,7 +535,7 @@
     },
     "talsbrilliant1908": {
       "points": 19,
-      "booster": 1.3
+      "booster": 1.2
     },
     "c4energy": {
       "points": 18,
@@ -743,7 +743,7 @@
     },
     "Murodbek36": {
       "points": 8,
-      "booster": 1.1
+      "booster": null
     },
     "madchild43": {
       "points": 8,
@@ -815,7 +815,7 @@
     },
     "straw_berry_donut": {
       "points": 6,
-      "booster": 1.9
+      "booster": null
     },
     "dunk-master": {
       "points": 5,
@@ -1243,15 +1243,31 @@
     },
     "MaheeVK": {
       "points": 0,
-      "booster": 1.6
+      "booster": null
     },
     "RikhilEmmanuel2019": {
       "points": 0,
-      "booster": 1.4
+      "booster": null
     },
     "muk_54babapiro": {
       "points": 0,
-      "booster": 1.2
+      "booster": null
+    },
+    "Goldcupchess": {
+      "points": 0,
+      "booster": 1.5
+    },
+    "Akash_JPG": {
+      "points": 0,
+      "booster": 1.4
+    },
+    "enitsugua7": {
+      "points": 0,
+      "booster": 1.1
+    },
+    "mrscrippen": {
+      "points": 0,
+      "booster": null
     }
   },
   "processed_tournaments": [
