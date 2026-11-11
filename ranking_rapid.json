@@ -1,29 +1,29 @@
 {
-  "last_processed_tournament": "W2uFzlMM",
+  "last_processed_tournament": "Yb5XFhfb",
   "players": {
     "stambul65": {
-      "points": 2338,
-      "booster": 1.8
+      "points": 2374,
+      "booster": 2.0
     },
     "Conrad_Gagnon": {
-      "points": 657,
-      "booster": 2.0
+      "points": 681,
+      "booster": 1.7
     },
     "Mayangnabila": {
       "points": 395,
       "booster": null
     },
+    "DarkOnCrack": {
+      "points": 370,
+      "booster": 1.9
+    },
     "Nephili": {
       "points": 357,
       "booster": null
     },
-    "DarkOnCrack": {
-      "points": 348,
-      "booster": 1.7
-    },
     "tomkruz88": {
-      "points": 302,
-      "booster": 1.6
+      "points": 306,
+      "booster": 1.3
     },
     "xdxdboxjaja": {
       "points": 208,
@@ -42,8 +42,8 @@
       "booster": null
     },
     "Ozgur3838": {
-      "points": 148,
-      "booster": null
+      "points": 152,
+      "booster": 1.4
     },
     "Evgeny86": {
       "points": 132,
@@ -71,7 +71,7 @@
     },
     "schwarzerrabe": {
       "points": 108,
-      "booster": 1.1
+      "booster": null
     },
     "nopainogain": {
       "points": 102,
@@ -121,12 +121,12 @@
       "points": 46,
       "booster": null
     },
-    "Slightly_Under_2800": {
-      "points": 43,
+    "german11": {
+      "points": 45,
       "booster": null
     },
-    "german11": {
-      "points": 42,
+    "Slightly_Under_2800": {
+      "points": 43,
       "booster": null
     },
     "Bleak_Mind_Emptiness": {
@@ -273,6 +273,10 @@
       "points": 17,
       "booster": null
     },
+    "caldillo": {
+      "points": 17,
+      "booster": 1.2
+    },
     "cocoro2": {
       "points": 16,
       "booster": null
@@ -283,7 +287,7 @@
     },
     "jonachess2015": {
       "points": 16,
-      "booster": 1.4
+      "booster": null
     },
     "Yeab_Mengistu": {
       "points": 16,
@@ -295,13 +299,9 @@
     },
     "souheel_twaish": {
       "points": 15,
-      "booster": 1.9
-    },
-    "krishmar2016": {
-      "points": 14,
       "booster": null
     },
-    "caldillo": {
+    "krishmar2016": {
       "points": 14,
       "booster": null
     },
@@ -337,6 +337,10 @@
       "points": 12,
       "booster": null
     },
+    "letsplaywithgm": {
+      "points": 12,
+      "booster": 1.8
+    },
     "timothyemmanuel": {
       "points": 11,
       "booster": null
@@ -367,7 +371,11 @@
     },
     "healLan": {
       "points": 10,
-      "booster": 1.3
+      "booster": null
+    },
+    "KLaSter2024": {
+      "points": 10,
+      "booster": 1.6
     },
     "just_chess12": {
       "points": 9,
@@ -458,10 +466,6 @@
       "booster": null
     },
     "vivekve": {
-      "points": 6,
-      "booster": null
-    },
-    "KLaSter2024": {
       "points": 6,
       "booster": null
     },
@@ -585,6 +589,10 @@
       "points": 4,
       "booster": null
     },
+    "TheRealRivet37": {
+      "points": 4,
+      "booster": 1.5
+    },
     "OneOfTheWorldsBest": {
       "points": 3,
       "booster": null
@@ -684,6 +692,10 @@
     "wealthtaxesuk": {
       "points": 3,
       "booster": null
+    },
+    "PertaleV37": {
+      "points": 3,
+      "booster": 1.1
     },
     "kenedyKimutai": {
       "points": 2,
@@ -811,7 +823,11 @@
     },
     "aspa1391": {
       "points": 2,
-      "booster": 1.5
+      "booster": null
+    },
+    "SreeramPasuladi": {
+      "points": 2,
+      "booster": null
     },
     "NOELIAP11": {
       "points": 1,
@@ -834,6 +850,14 @@
       "booster": null
     },
     "Vic2015": {
+      "points": 1,
+      "booster": null
+    },
+    "LucienTupin": {
+      "points": 1,
+      "booster": null
+    },
+    "Lexy-Forever-017": {
       "points": 1,
       "booster": null
     },
@@ -922,10 +946,6 @@
       "booster": null
     },
     "TAARUSHCHESS": {
-      "points": 0,
-      "booster": null
-    },
-    "LucienTupin": {
       "points": 0,
       "booster": null
     },
@@ -1155,7 +1175,19 @@
     },
     "Jecapaulogy": {
       "points": 0,
-      "booster": 1.2
+      "booster": null
+    },
+    "Livoncik": {
+      "points": 0,
+      "booster": null
+    },
+    "mars1120": {
+      "points": 0,
+      "booster": null
+    },
+    "Sizil_Gambit": {
+      "points": 0,
+      "booster": null
     }
   },
   "processed_tournaments": [
