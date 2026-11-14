@@ -1,37 +1,37 @@
 {
-  "last_processed_tournament": "5wQxlkhx",
+  "last_processed_tournament": "QxzumYEQ",
   "players": {
     "stambul65": {
       "points": 7451,
-      "booster": 2.0
+      "booster": null
     },
     "DarkOnCrack": {
-      "points": 2840,
-      "booster": 1.9
+      "points": 2874,
+      "booster": 1.6
     },
     "tomkruz88": {
       "points": 1345,
       "booster": null
     },
     "Conrad_Gagnon": {
-      "points": 1224,
-      "booster": 1.7
+      "points": 1261,
+      "booster": 1.8
     },
     "dadada112": {
       "points": 973,
-      "booster": 1.8
+      "booster": null
     },
     "tunu2011": {
-      "points": 934,
-      "booster": null
+      "points": 959,
+      "booster": 1.9
     },
     "schwarzerrabe": {
-      "points": 929,
-      "booster": null
+      "points": 936,
+      "booster": 1.1
     },
     "manyathela2250": {
-      "points": 904,
-      "booster": null
+      "points": 913,
+      "booster": 1.2
     },
     "kubak5": {
       "points": 829,
@@ -46,7 +46,7 @@
       "booster": null
     },
     "Scarfire": {
-      "points": 417,
+      "points": 421,
       "booster": null
     },
     "agrzelak": {
@@ -58,8 +58,8 @@
       "booster": null
     },
     "Konariq7": {
-      "points": 379,
-      "booster": null
+      "points": 396,
+      "booster": 1.5
     },
     "ComeToBaba1": {
       "points": 367,
@@ -73,12 +73,12 @@
       "points": 352,
       "booster": null
     },
-    "krishmar2016": {
-      "points": 330,
+    "WideSpookySpy": {
+      "points": 331,
       "booster": null
     },
-    "WideSpookySpy": {
-      "points": 325,
+    "krishmar2016": {
+      "points": 330,
       "booster": null
     },
     "Ochesage": {
@@ -86,7 +86,7 @@
       "booster": null
     },
     "german11": {
-      "points": 275,
+      "points": 278,
       "booster": null
     },
     "Livoncik": {
@@ -229,13 +229,13 @@
       "points": 98,
       "booster": null
     },
+    "Ozgur3838": {
+      "points": 96,
+      "booster": null
+    },
     "dunk-master": {
       "points": 95,
       "booster": null
-    },
-    "Ozgur3838": {
-      "points": 94,
-      "booster": 1.3
     },
     "MACAN_BETAWI_KTLC": {
       "points": 93,
@@ -301,6 +301,10 @@
       "points": 76,
       "booster": null
     },
+    "chesslh": {
+      "points": 75,
+      "booster": null
+    },
     "ElBasmgy": {
       "points": 74,
       "booster": null
@@ -308,10 +312,6 @@
     "rj08": {
       "points": 71,
       "booster": null
-    },
-    "chesslh": {
-      "points": 71,
-      "booster": 1.6
     },
     "Aatu65536": {
       "points": 68,
@@ -399,7 +399,7 @@
     },
     "affections": {
       "points": 51,
-      "booster": 1.1
+      "booster": null
     },
     "Uare2dangerous": {
       "points": 50,
@@ -547,7 +547,7 @@
     },
     "rbrtshqsp": {
       "points": 38,
-      "booster": 1.4
+      "booster": null
     },
     "Kannanaakash": {
       "points": 37,
@@ -721,6 +721,10 @@
       "points": 27,
       "booster": null
     },
+    "ayuenmabiei": {
+      "points": 27,
+      "booster": 2.0
+    },
     "Ahmet2024": {
       "points": 26,
       "booster": null
@@ -837,6 +841,10 @@
       "points": 21,
       "booster": null
     },
+    "Chandler254": {
+      "points": 21,
+      "booster": 1.7
+    },
     "Riti_Rahman": {
       "points": 20,
       "booster": null
@@ -879,7 +887,7 @@
     },
     "Tatan987": {
       "points": 20,
-      "booster": 1.2
+      "booster": null
     },
     "TheoSpieler": {
       "points": 19,
@@ -1039,7 +1047,11 @@
     },
     "Lexy-Forever-017": {
       "points": 15,
-      "booster": 1.5
+      "booster": null
+    },
+    "Kizovic_Mokalov": {
+      "points": 15,
+      "booster": 1.4
     },
     "Shishir72": {
       "points": 14,
@@ -1188,6 +1200,10 @@
     "daraw": {
       "points": 12,
       "booster": null
+    },
+    "BIitzMaster": {
+      "points": 12,
+      "booster": 1.3
     },
     "RobertFP": {
       "points": 11,
@@ -1514,6 +1530,14 @@
       "booster": null
     },
     "cleanstream": {
+      "points": 6,
+      "booster": null
+    },
+    "Schach_Abzocker": {
+      "points": 6,
+      "booster": null
+    },
+    "kollen8": {
       "points": 6,
       "booster": null
     },
@@ -2065,6 +2089,18 @@
       "points": 2,
       "booster": null
     },
+    "aLr2012": {
+      "points": 2,
+      "booster": null
+    },
+    "Ronaldo43": {
+      "points": 2,
+      "booster": null
+    },
+    "Abheer08": {
+      "points": 2,
+      "booster": null
+    },
     "ISHAN1603": {
       "points": 1,
       "booster": null
@@ -2309,10 +2345,6 @@
       "points": 0,
       "booster": null
     },
-    "Schach_Abzocker": {
-      "points": 0,
-      "booster": null
-    },
     "Leo14_08": {
       "points": 0,
       "booster": null
@@ -2326,6 +2358,10 @@
       "booster": null
     },
     "Virgil_van_Dijk": {
+      "points": 0,
+      "booster": null
+    },
+    "smaugy00": {
       "points": 0,
       "booster": null
     }
