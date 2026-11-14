@@ -1,30 +1,30 @@
-1. @DarkOnCrack: 2705 (1.7x boost next arena)
+1. @DarkOnCrack: 2705
 2. @Chess_Training_2021: 1976
 3. @Nephili: 874
 4. @Alex-31: 611
 5. @Nuemop: 571
 6. @UnHolYDuO: 490
-7. @Helokid: 476
-8. @Conrad_Gagnon: 470
+7. @Conrad_Gagnon: 484 (1.4x boost next arena)
+8. @Helokid: 476
 9. @tomkruz88: 467
-10. @jet88: 393 (1.8x boost next arena)
+10. @jet88: 393
 11. @minipekka1: 337
 12. @VariantsMain: 334
 13. @Justinsenpai: 318
 14. @Shivansh-Chess-Force: 300
-15. @BharatBhushanVerma: 264
-16. @Abd_el_wahab: 235
-17. @Alcedo: 235 (1.9x boost next arena)
-18. @manyathela2250: 234
+15. @manyathela2250: 271 (1.8x boost next arena)
+16. @BharatBhushanVerma: 264
+17. @Alcedo: 238
+18. @Abd_el_wahab: 235
 19. @rj08: 225
 20. @VVIPVIBES: 214
 21. @affections: 214
-22. @Fahhhhhh67: 199
-23. @bestttttt: 161 (1.3x boost next arena)
+22. @bestttttt: 209 (1.9x boost next arena)
+23. @Fahhhhhh67: 199
 24. @Esen-Zerk: 148
 25. @ElBasmgy: 139
 26. @mike-bear: 132
-27. @Agamveer_007: 132 (1.6x boost next arena)
+27. @Agamveer_007: 132
 28. @zooz-Zerk: 128
 29. @artoftheblade: 127
 30. @phone-zerk: 123
@@ -44,7 +44,7 @@
 44. @Mahamaha14: 87
 45. @BlotterFan: 87
 46. @Dhruvvaaa: 87
-47. @AhsapAhsap: 82
+47. @AhsapAhsap: 86
 48. @Clesio-MorgaM: 81
 49. @GeekingKing: 80
 50. @EEAguitarn1: 79
@@ -66,7 +66,7 @@
 66. @ioannis_nikolaidis: 61
 67. @abhigyan_a_b: 59
 68. @leolo: 58
-69. @Ezrg94: 58 (2.0x boost next arena)
+69. @Ezrg94: 58
 70. @CorporateHandshake: 57
 71. @FlorHawryluk: 56
 72. @C8c7C8c7C8c7C8c7C8c7: 51
@@ -79,22 +79,22 @@
 79. @Chonma: 47
 80. @kingboers: 43
 81. @gojosaturo1234567: 43
-82. @SivaanshAanand: 42
-83. @schwarzerrabe: 42
-84. @This-Is-Agamveer: 41
-85. @manglee: 41
-86. @ImnotFreeElo: 41
-87. @rohanvv07082010: 40
-88. @BlackPanda2024: 38
-89. @Retasea_400: 38
-90. @Gyusudhdh_zerk: 38
-91. @XxxMEGATRONxxX: 37
-92. @CANCINARTUCEL: 36
-93. @Ck_A: 36
-94. @doruk2606: 36
-95. @timothyemmanuel: 35
-96. @Agam2013: 35
-97. @JeromeBamaiyi: 35
-98. @nickmain: 33
-99. @reyansh_mehra_14: 33
-100. @WalterFire: 32
+82. @jcfding: 43 (2.0x boost next arena)
+83. @SivaanshAanand: 42
+84. @schwarzerrabe: 42
+85. @This-Is-Agamveer: 41
+86. @manglee: 41
+87. @ImnotFreeElo: 41
+88. @rohanvv07082010: 40
+89. @BlackPanda2024: 38
+90. @Retasea_400: 38
+91. @Gyusudhdh_zerk: 38
+92. @XxxMEGATRONxxX: 37
+93. @CANCINARTUCEL: 36
+94. @Ck_A: 36
+95. @doruk2606: 36
+96. @timothyemmanuel: 35
+97. @Agam2013: 35
+98. @JeromeBamaiyi: 35
+99. @nickmain: 33
+100. @reyansh_mehra_14: 33
