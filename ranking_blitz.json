@@ -1,37 +1,37 @@
 {
-  "last_processed_tournament": "QxzumYEQ",
+  "last_processed_tournament": "gU0rYhEB",
   "players": {
     "stambul65": {
-      "points": 7451,
-      "booster": null
+      "points": 7488,
+      "booster": 2.0
     },
     "DarkOnCrack": {
       "points": 2874,
-      "booster": 1.6
+      "booster": null
     },
     "tomkruz88": {
       "points": 1345,
       "booster": null
     },
     "Conrad_Gagnon": {
-      "points": 1261,
-      "booster": 1.8
+      "points": 1291,
+      "booster": 1.6
     },
     "dadada112": {
-      "points": 973,
-      "booster": null
+      "points": 997,
+      "booster": 1.9
     },
     "tunu2011": {
       "points": 959,
-      "booster": 1.9
+      "booster": null
     },
     "schwarzerrabe": {
-      "points": 936,
-      "booster": 1.1
+      "points": 958,
+      "booster": 1.8
     },
     "manyathela2250": {
       "points": 913,
-      "booster": 1.2
+      "booster": null
     },
     "kubak5": {
       "points": 829,
@@ -59,7 +59,7 @@
     },
     "Konariq7": {
       "points": 396,
-      "booster": 1.5
+      "booster": null
     },
     "ComeToBaba1": {
       "points": 367,
@@ -86,15 +86,15 @@
       "booster": null
     },
     "german11": {
-      "points": 278,
-      "booster": null
-    },
-    "Livoncik": {
-      "points": 265,
+      "points": 280,
       "booster": null
     },
     "JancoGj": {
-      "points": 252,
+      "points": 271,
+      "booster": 1.7
+    },
+    "Livoncik": {
+      "points": 265,
       "booster": null
     },
     "Otelulvesel": {
@@ -177,6 +177,10 @@
       "points": 139,
       "booster": null
     },
+    "test_acc123": {
+      "points": 139,
+      "booster": 1.5
+    },
     "Entrenador3talentos": {
       "points": 137,
       "booster": null
@@ -187,10 +191,6 @@
     },
     "Dinoweek": {
       "points": 131,
-      "booster": null
-    },
-    "test_acc123": {
-      "points": 129,
       "booster": null
     },
     "JOMJR": {
@@ -357,6 +357,10 @@
       "points": 57,
       "booster": null
     },
+    "affections": {
+      "points": 56,
+      "booster": 1.4
+    },
     "makmak1984": {
       "points": 55,
       "booster": null
@@ -394,10 +398,6 @@
       "booster": null
     },
     "Ravi_BM": {
-      "points": 51,
-      "booster": null
-    },
-    "affections": {
       "points": 51,
       "booster": null
     },
@@ -723,7 +723,7 @@
     },
     "ayuenmabiei": {
       "points": 27,
-      "booster": 2.0
+      "booster": null
     },
     "Ahmet2024": {
       "points": 26,
@@ -843,7 +843,7 @@
     },
     "Chandler254": {
       "points": 21,
-      "booster": 1.7
+      "booster": null
     },
     "Riti_Rahman": {
       "points": 20,
@@ -941,6 +941,10 @@
       "points": 18,
       "booster": null
     },
+    "Dwij-2018": {
+      "points": 18,
+      "booster": 1.1
+    },
     "brandal_55": {
       "points": 17,
       "booster": null
@@ -1021,10 +1025,6 @@
       "points": 16,
       "booster": null
     },
-    "Dwij-2018": {
-      "points": 16,
-      "booster": null
-    },
     "ForeverInTranquility": {
       "points": 15,
       "booster": null
@@ -1051,7 +1051,7 @@
     },
     "Kizovic_Mokalov": {
       "points": 15,
-      "booster": 1.4
+      "booster": null
     },
     "Shishir72": {
       "points": 14,
@@ -1203,7 +1203,7 @@
     },
     "BIitzMaster": {
       "points": 12,
-      "booster": 1.3
+      "booster": null
     },
     "RobertFP": {
       "points": 11,
@@ -1745,6 +1745,10 @@
       "points": 4,
       "booster": null
     },
+    "Mohammad_mahrad": {
+      "points": 4,
+      "booster": 1.3
+    },
     "DarshMurarka": {
       "points": 3,
       "booster": null
@@ -1856,6 +1860,10 @@
     "Aoita": {
       "points": 3,
       "booster": null
+    },
+    "kasdiski": {
+      "points": 3,
+      "booster": 1.2
     },
     "szefunio1": {
       "points": 2,
@@ -2129,6 +2137,10 @@
       "points": 1,
       "booster": null
     },
+    "thepower83": {
+      "points": 1,
+      "booster": null
+    },
     "Chesika": {
       "points": 0,
       "booster": null
@@ -2362,6 +2374,18 @@
       "booster": null
     },
     "smaugy00": {
+      "points": 0,
+      "booster": null
+    },
+    "GToddy200": {
+      "points": 0,
+      "booster": null
+    },
+    "orhan7": {
+      "points": 0,
+      "booster": null
+    },
+    "Ireliaiconoclast": {
       "points": 0,
       "booster": null
     }
