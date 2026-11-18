@@ -1,10 +1,10 @@
-1. @stambul65: 2408 (1.9x boost next arena)
-2. @Conrad_Gagnon: 686
-3. @DarkOnCrack: 417 (2.0x boost next arena)
+1. @stambul65: 2408
+2. @Conrad_Gagnon: 689 (2.0x boost next arena)
+3. @DarkOnCrack: 417 (1.7x boost next arena)
 4. @Mayangnabila: 395
 5. @Nephili: 357
-6. @tomkruz88: 306
-7. @xdxdboxjaja: 221 (1.8x boost next arena)
+6. @tomkruz88: 306 (1.5x boost next arena)
+7. @xdxdboxjaja: 221
 8. @Sinus314159: 204
 9. @kubak5: 162
 10. @cheetah6996: 158
@@ -14,7 +14,7 @@
 14. @Capi48: 121
 15. @ComeToBaba1: 120
 16. @Konariq7: 113
-17. @schwarzerrabe: 110
+17. @schwarzerrabe: 110 (1.1x boost next arena)
 18. @rickeyfeb15: 109
 19. @nopainogain: 102
 20. @DarkOnWeakBot: 96
@@ -23,10 +23,10 @@
 23. @Ochesage: 75
 24. @manyathela2250: 68
 25. @matewasfate: 64
-26. @Knightinthenight123: 64 (1.5x boost next arena)
+26. @Knightinthenight123: 64
 27. @MEGA_KOT: 58
 28. @urko66: 54
-29. @german11: 52 (1.1x boost next arena)
+29. @german11: 52
 30. @mang0sunr1s3: 50
 31. @DAW8718: 46
 32. @Slightly_Under_2800: 43
@@ -88,13 +88,13 @@
 88. @sheun: 11
 89. @chessrocker2: 11
 90. @UnHolYDuO: 11
-91. @TheNetheriteTrident: 11 (1.7x boost next arena)
+91. @TheNetheriteTrident: 11
 92. @PawlakJan: 10
 93. @Justinsenpai: 10
 94. @dxnicsi: 10
-95. @KLaSter2024: 10
-96. @BIitzMaster: 10 (1.6x boost next arena)
-97. @BlueFromage: 10 (1.4x boost next arena)
+95. @KLaSter2024: 10 (1.8x boost next arena)
+96. @BIitzMaster: 10
+97. @BlueFromage: 10
 98. @just_chess12: 9
 99. @BelitaMoyo: 9
 100. @wealthtaxesuk: 9
