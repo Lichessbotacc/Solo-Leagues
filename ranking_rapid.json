@@ -1,5 +1,5 @@
 {
-  "last_processed_tournament": "vZFXg9yB",
+  "last_processed_tournament": "w75DnZb2",
   "players": {
     "stambul65": {
       "points": 2408,
@@ -7,11 +7,11 @@
     },
     "Conrad_Gagnon": {
       "points": 689,
-      "booster": 2.0
+      "booster": null
     },
     "DarkOnCrack": {
       "points": 417,
-      "booster": 1.7
+      "booster": null
     },
     "Mayangnabila": {
       "points": 395,
@@ -23,15 +23,19 @@
     },
     "tomkruz88": {
       "points": 306,
-      "booster": 1.5
+      "booster": null
     },
     "xdxdboxjaja": {
-      "points": 221,
-      "booster": null
+      "points": 254,
+      "booster": 2.0
     },
     "Sinus314159": {
       "points": 204,
       "booster": null
+    },
+    "Ozgur3838": {
+      "points": 165,
+      "booster": 1.6
     },
     "kubak5": {
       "points": 162,
@@ -39,10 +43,6 @@
     },
     "cheetah6996": {
       "points": 158,
-      "booster": null
-    },
-    "Ozgur3838": {
-      "points": 157,
       "booster": null
     },
     "Evgeny86": {
@@ -67,7 +67,7 @@
     },
     "schwarzerrabe": {
       "points": 110,
-      "booster": 1.1
+      "booster": null
     },
     "rickeyfeb15": {
       "points": 109,
@@ -89,12 +89,12 @@
       "points": 81,
       "booster": null
     },
+    "manyathela2250": {
+      "points": 76,
+      "booster": 1.7
+    },
     "Ochesage": {
       "points": 75,
-      "booster": null
-    },
-    "manyathela2250": {
-      "points": 68,
       "booster": null
     },
     "matewasfate": {
@@ -132,6 +132,14 @@
     "Bleak_Mind_Emptiness": {
       "points": 42,
       "booster": null
+    },
+    "mfarraj": {
+      "points": 40,
+      "booster": 1.8
+    },
+    "jonachess2015": {
+      "points": 40,
+      "booster": 1.9
     },
     "okoh11122233": {
       "points": 39,
@@ -178,10 +186,6 @@
       "booster": null
     },
     "bestttttt": {
-      "points": 24,
-      "booster": null
-    },
-    "mfarraj": {
       "points": 24,
       "booster": null
     },
@@ -285,10 +289,6 @@
       "points": 16,
       "booster": null
     },
-    "jonachess2015": {
-      "points": 16,
-      "booster": null
-    },
     "Yeab_Mengistu": {
       "points": 16,
       "booster": null
@@ -305,6 +305,10 @@
       "points": 14,
       "booster": null
     },
+    "healLan": {
+      "points": 14,
+      "booster": 1.1
+    },
     "yongzhengwang": {
       "points": 13,
       "booster": null
@@ -316,6 +320,10 @@
     "xszxy": {
       "points": 13,
       "booster": null
+    },
+    "Jadonthomas": {
+      "points": 13,
+      "booster": 1.5
     },
     "TGY2026": {
       "points": 12,
@@ -338,10 +346,6 @@
       "booster": null
     },
     "letsplaywithgm": {
-      "points": 12,
-      "booster": null
-    },
-    "healLan": {
       "points": 12,
       "booster": null
     },
@@ -379,7 +383,7 @@
     },
     "KLaSter2024": {
       "points": 10,
-      "booster": 1.8
+      "booster": null
     },
     "BIitzMaster": {
       "points": 10,
@@ -403,7 +407,7 @@
     },
     "ROLAN1": {
       "points": 9,
-      "booster": 1.6
+      "booster": null
     },
     "shailesh777": {
       "points": 8,
@@ -414,10 +418,6 @@
       "booster": null
     },
     "Purushabhinav": {
-      "points": 8,
-      "booster": null
-    },
-    "Jadonthomas": {
       "points": 8,
       "booster": null
     },
@@ -505,6 +505,10 @@
       "points": 6,
       "booster": null
     },
+    "DUKE_101": {
+      "points": 6,
+      "booster": 1.2
+    },
     "longsonicc": {
       "points": 5,
       "booster": null
@@ -569,10 +573,6 @@
       "points": 4,
       "booster": null
     },
-    "DUKE_101": {
-      "points": 4,
-      "booster": null
-    },
     "MUVELD": {
       "points": 4,
       "booster": null
@@ -624,6 +624,10 @@
     "Sternli": {
       "points": 4,
       "booster": null
+    },
+    "josuealexander221": {
+      "points": 4,
+      "booster": 1.4
     },
     "OneOfTheWorldsBest": {
       "points": 3,
@@ -724,6 +728,10 @@
     "PertaleV37": {
       "points": 3,
       "booster": null
+    },
+    "Mister_Sicilian": {
+      "points": 3,
+      "booster": 1.3
     },
     "kenedyKimutai": {
       "points": 2,
@@ -851,7 +859,7 @@
     },
     "SreeramPasuladi": {
       "points": 2,
-      "booster": 1.4
+      "booster": null
     },
     "robertjackson": {
       "points": 2,
@@ -1243,15 +1251,27 @@
     },
     "GToddy200": {
       "points": 0,
-      "booster": 1.9
+      "booster": null
     },
     "Tactical-chess95": {
       "points": 0,
-      "booster": 1.3
+      "booster": null
     },
     "onlyrapidmoves": {
       "points": 0,
-      "booster": 1.2
+      "booster": null
+    },
+    "thedestroyer2012": {
+      "points": 0,
+      "booster": null
+    },
+    "Gerard0705": {
+      "points": 0,
+      "booster": null
+    },
+    "M2447": {
+      "points": 0,
+      "booster": null
     }
   },
   "processed_tournaments": [
